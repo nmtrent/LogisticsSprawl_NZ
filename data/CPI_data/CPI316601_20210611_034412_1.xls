@@ -1,0 +1,305 @@
+<html xmlns:x="urn:schemas-microsoft-com:office:excel">
+	<head>
+		<meta http-equiv="Content-Type" content="charset=windows-1252" />
+		<!--[if gte mso 9]>
+		<xml>
+			<x:ExcelWorkbook>
+				<x:ExcelWorksheets>
+					<x:ExcelWorksheet>
+						<x:Name>matrix</x:Name>
+						<x:WorksheetOptions>
+							<x:Print>
+								<x:ValidPrinterInfo/>
+							</x:Print>
+						</x:WorksheetOptions>
+					</x:ExcelWorksheet>
+				</x:ExcelWorksheets>
+			</x:ExcelWorkbook>
+		</xml>
+		<![endif]-->
+	</head>
+	<body>
+		<style>
+			.stub1 {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+				vertical-align:middle;
+			}
+			.headfirst {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+			}
+			.headlast {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+			}
+			.headmid {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+			}
+			.title
+				mso-style-parent:style0;
+				text-align:left;
+			}
+		</style>
+<table class="pxtable" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<th colspan="2">CPI All Groups for New Zealand (Qrtly-Mar/Jun/Sep/Dec)</th>
+	</tr>
+	<tr>
+		<td class="headfirst" colspan="1" rowspan="1">&nbsp;</td>
+		<th class="headfirst" colspan="1">All groups</th>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q1</td>
+		<td style="white-space: nowrap;">803.446132</td>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q2</td>
+		<td style="white-space: nowrap;">815.660685</td>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q3</td>
+		<td style="white-space: nowrap;">821.370310</td>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q4</td>
+		<td style="white-space: nowrap;">819.738989</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q1</td>
+		<td style="white-space: nowrap;">823.817292</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q2</td>
+		<td style="white-space: nowrap;">831.973899</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q3</td>
+		<td style="white-space: nowrap;">836.052202</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q4</td>
+		<td style="white-space: nowrap;">845.840131</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q1</td>
+		<td style="white-space: nowrap;">851.549755</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q2</td>
+		<td style="white-space: nowrap;">865.415987</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q3</td>
+		<td style="white-space: nowrap;">878.466558</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q4</td>
+		<td style="white-space: nowrap;">874.388254</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q1</td>
+		<td style="white-space: nowrap;">876.835237</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q2</td>
+		<td style="white-space: nowrap;">881.729201</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q3</td>
+		<td style="white-space: nowrap;">893.148450</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q4</td>
+		<td style="white-space: nowrap;">891.517129</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q1</td>
+		<td style="white-space: nowrap;">894.779772</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q2</td>
+		<td style="white-space: nowrap;">896.411093</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q3</td>
+		<td style="white-space: nowrap;">906.199021</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q4</td>
+		<td style="white-space: nowrap;">927.406199</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q1</td>
+		<td style="white-space: nowrap;">934.747145</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q2</td>
+		<td style="white-space: nowrap;">943.719413</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q3</td>
+		<td style="white-space: nowrap;">947.797716</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q4</td>
+		<td style="white-space: nowrap;">944.535073</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q1</td>
+		<td style="white-space: nowrap;">949.429038</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q2</td>
+		<td style="white-space: nowrap;">952.691680</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q3</td>
+		<td style="white-space: nowrap;">955.138662</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q4</td>
+		<td style="white-space: nowrap;">953.507341</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q1</td>
+		<td style="white-space: nowrap;">957.585644</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q2</td>
+		<td style="white-space: nowrap;">959.216966</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q3</td>
+		<td style="white-space: nowrap;">968.189233</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q4</td>
+		<td style="white-space: nowrap;">969.004894</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q1</td>
+		<td style="white-space: nowrap;">972.267537</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q2</td>
+		<td style="white-space: nowrap;">974.714519</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q3</td>
+		<td style="white-space: nowrap;">977.977162</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q4</td>
+		<td style="white-space: nowrap;">976.345840</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q1</td>
+		<td style="white-space: nowrap;">974.714519</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q2</td>
+		<td style="white-space: nowrap;">978.792822</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q3</td>
+		<td style="white-space: nowrap;">982.055465</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q4</td>
+		<td style="white-space: nowrap;">977.161501</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q1</td>
+		<td style="white-space: nowrap;">978.792822</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q2</td>
+		<td style="white-space: nowrap;">982.871126</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q3</td>
+		<td style="white-space: nowrap;">986.133768</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q4</td>
+		<td style="white-space: nowrap;">990.212072</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q1</td>
+		<td style="white-space: nowrap;">1000.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q2</td>
+		<td style="white-space: nowrap;">1000.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q3</td>
+		<td style="white-space: nowrap;">1004.893964</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q4</td>
+		<td style="white-space: nowrap;">1006.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q1</td>
+		<td style="white-space: nowrap;">1011.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q2</td>
+		<td style="white-space: nowrap;">1015.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q3</td>
+		<td style="white-space: nowrap;">1024.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q4</td>
+		<td style="white-space: nowrap;">1025.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2019Q1</td>
+		<td style="white-space: nowrap;">1026.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2019Q2</td>
+		<td style="white-space: nowrap;">1032.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2019Q3</td>
+		<td style="white-space: nowrap;">1039.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2019Q4</td>
+		<td style="white-space: nowrap;">1044.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2020Q1</td>
+		<td style="white-space: nowrap;">1052.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2020Q2</td>
+		<td style="white-space: nowrap;">1047.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2020Q3</td>
+		<td style="white-space: nowrap;">1054.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2020Q4</td>
+		<td style="white-space: nowrap;">1059.000000</td>
+	</tr>
+	<tr>
+		<td class="stub1">2021Q1</td>
+		<td style="white-space: nowrap;">1068.000000</td>
+	</tr>
+	<tr>
+		<td class="footnote" colspan="2">
+			<a id="information">
+				<b>Table information:</b>
+			</a>
+			<br />Units:<br />Index, Magnitude = Units<br /><br /><a id="footnotes"><b>Footnotes:</b></a><br />From the September 1999 quarter residential sections and interest are excluded.<br />Percentage changes are calculated from index numbers which are unrounded prior to the June 2017 quarter.<br />Base: June 2017 quarter (=1000).<br />From the September 2006 quarter, prices for fresh fruit and vegetables are seasonally unadjusted. They were seasonally adjusted until the June 2006 quarter.<br /> <br />Symbols:<br />.. figure not available<br />C: Confidential<br />E: Early Estimate<br />P: Provisional<br />R: Revised<br />S: Suppressed<br /><br />Status flags are not displayed<br /><br />Table reference: <br />CPI009AA<br /><br />Last updated:<br />21 April 2021 10:45am<br /><br />Source: Statistics New Zealand<br />Contact: Information Centre<br />Telephone: 0508 525 525<br />Email:<a href="mailto:info@stats.govt.nz">info@stats.govt.nz</a><br /><br /><br /></td>
+	</tr>
+</table>	</body>
+</html>

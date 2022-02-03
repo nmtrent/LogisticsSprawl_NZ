@@ -1,0 +1,325 @@
+<html xmlns:x="urn:schemas-microsoft-com:office:excel">
+	<head>
+		<meta http-equiv="Content-Type" content="charset=windows-1252" />
+		<!--[if gte mso 9]>
+		<xml>
+			<x:ExcelWorkbook>
+				<x:ExcelWorksheets>
+					<x:ExcelWorksheet>
+						<x:Name>matrix</x:Name>
+						<x:WorksheetOptions>
+							<x:Print>
+								<x:ValidPrinterInfo/>
+							</x:Print>
+						</x:WorksheetOptions>
+					</x:ExcelWorksheet>
+				</x:ExcelWorksheets>
+			</x:ExcelWorkbook>
+		</xml>
+		<![endif]-->
+	</head>
+	<body>
+		<style>
+			.stub1 {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+				vertical-align:middle;
+			}
+			.headfirst {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+			}
+			.headlast {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+			}
+			.headmid {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+			}
+			.title
+				mso-style-parent:style0;
+				text-align:left;
+			}
+		</style>
+<table class="pxtable" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<th colspan="3">CPI All Groups for New Zealand, percentage change (Qrtly-Mar/Jun/Sep/Dec)</th>
+	</tr>
+	<tr>
+		<td class="headfirst" colspan="1" rowspan="2">&nbsp;</td>
+		<th class="headfirst" colspan="2">All groups</th>
+	</tr>
+	<tr>
+		<th class="headlast" colspan="1">Percentage change from same period previous year</th>
+		<th class="headlast" colspan="1">Percentage change from previous period</th>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q1</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">0.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q2</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">1.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q3</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">0.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q4</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">-0.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q1</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">0.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q2</td>
+		<td style="white-space: nowrap;">2.0</td>
+		<td style="white-space: nowrap;">1.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q3</td>
+		<td style="white-space: nowrap;">1.8</td>
+		<td style="white-space: nowrap;">0.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q4</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">1.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q1</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">0.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q2</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">1.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q3</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">1.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q4</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">-0.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q1</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">0.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q2</td>
+		<td style="white-space: nowrap;">1.9</td>
+		<td style="white-space: nowrap;">0.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q3</td>
+		<td style="white-space: nowrap;">1.7</td>
+		<td style="white-space: nowrap;">1.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q4</td>
+		<td style="white-space: nowrap;">2.0</td>
+		<td style="white-space: nowrap;">-0.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q1</td>
+		<td style="white-space: nowrap;">2.0</td>
+		<td style="white-space: nowrap;">0.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q2</td>
+		<td style="white-space: nowrap;">1.7</td>
+		<td style="white-space: nowrap;">0.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q3</td>
+		<td style="white-space: nowrap;">1.5</td>
+		<td style="white-space: nowrap;">1.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q4</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">2.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q1</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">0.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q2</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">1.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q3</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">0.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q4</td>
+		<td style="white-space: nowrap;">1.8</td>
+		<td style="white-space: nowrap;">-0.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q1</td>
+		<td style="white-space: nowrap;">1.6</td>
+		<td style="white-space: nowrap;">0.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q2</td>
+		<td style="white-space: nowrap;">1.0</td>
+		<td style="white-space: nowrap;">0.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q3</td>
+		<td style="white-space: nowrap;">0.8</td>
+		<td style="white-space: nowrap;">0.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q4</td>
+		<td style="white-space: nowrap;">0.9</td>
+		<td style="white-space: nowrap;">-0.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q1</td>
+		<td style="white-space: nowrap;">0.9</td>
+		<td style="white-space: nowrap;">0.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q2</td>
+		<td style="white-space: nowrap;">0.7</td>
+		<td style="white-space: nowrap;">0.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q3</td>
+		<td style="white-space: nowrap;">1.4</td>
+		<td style="white-space: nowrap;">0.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q4</td>
+		<td style="white-space: nowrap;">1.6</td>
+		<td style="white-space: nowrap;">0.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q1</td>
+		<td style="white-space: nowrap;">1.5</td>
+		<td style="white-space: nowrap;">0.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q2</td>
+		<td style="white-space: nowrap;">1.6</td>
+		<td style="white-space: nowrap;">0.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q3</td>
+		<td style="white-space: nowrap;">1.0</td>
+		<td style="white-space: nowrap;">0.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q4</td>
+		<td style="white-space: nowrap;">0.8</td>
+		<td style="white-space: nowrap;">-0.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q1</td>
+		<td style="white-space: nowrap;">0.3</td>
+		<td style="white-space: nowrap;">-0.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q2</td>
+		<td style="white-space: nowrap;">0.4</td>
+		<td style="white-space: nowrap;">0.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q3</td>
+		<td style="white-space: nowrap;">0.4</td>
+		<td style="white-space: nowrap;">0.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q4</td>
+		<td style="white-space: nowrap;">0.1</td>
+		<td style="white-space: nowrap;">-0.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q1</td>
+		<td style="white-space: nowrap;">0.4</td>
+		<td style="white-space: nowrap;">0.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q2</td>
+		<td style="white-space: nowrap;">0.4</td>
+		<td style="white-space: nowrap;">0.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q3</td>
+		<td style="white-space: nowrap;">0.4</td>
+		<td style="white-space: nowrap;">0.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q4</td>
+		<td style="white-space: nowrap;">1.3</td>
+		<td style="white-space: nowrap;">0.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q1</td>
+		<td style="white-space: nowrap;">2.2</td>
+		<td style="white-space: nowrap;">1.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q2</td>
+		<td style="white-space: nowrap;">1.7</td>
+		<td style="white-space: nowrap;">0.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q3</td>
+		<td style="white-space: nowrap;">1.9</td>
+		<td style="white-space: nowrap;">0.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q4</td>
+		<td style="white-space: nowrap;">1.6</td>
+		<td style="white-space: nowrap;">0.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q1</td>
+		<td style="white-space: nowrap;">1.1</td>
+		<td style="white-space: nowrap;">0.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q2</td>
+		<td style="white-space: nowrap;">1.5</td>
+		<td style="white-space: nowrap;">0.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q3</td>
+		<td style="white-space: nowrap;">1.9</td>
+		<td style="white-space: nowrap;">0.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q4</td>
+		<td style="white-space: nowrap;">1.9</td>
+		<td style="white-space: nowrap;">0.1</td>
+	</tr>
+	<tr>
+		<td class="footnote" colspan="3">
+			<a id="information">
+				<b>Table information:</b>
+			</a>
+			<br />Units:<br />Percent, Magnitude = Units<br /><br /><a id="footnotes"><b>Footnotes:</b></a><br /> <br />Symbols:<br />.. figure not available<br />C: Confidential<br />E: Early Estimate<br />P: Provisional<br />R: Revised<br />S: Suppressed<br /><br />Status flags are not displayed<br /><br />Table reference: <br />CPI035AA<br /><br />Last updated:<br />21 April 2021 10:45am<br /><br />Source: Statistics New Zealand<br />Contact: Information Centre<br />Telephone: 0508 525 525<br />Email:<a href="mailto:info@stats.govt.nz">info@stats.govt.nz</a><br /><br /><br /></td>
+	</tr>
+</table>	</body>
+</html>

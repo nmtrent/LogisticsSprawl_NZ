@@ -1,0 +1,1893 @@
+,Area,TotUsuallyResident,European,Maori,Pacific,Asia,Other,TotalSpec1orMore,ParentArea,Year
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,AreaOutsideRegion,726,468.0,390.0,12.0,3.0,0.0,666.0,NewZealand,2001
+2,Chatham Islands,720,465.0,390.0,15.0,3.0,0.0,663.0,AreaOutsideRegion,2001
+3,Oceanic-Kermadec Islands,0,,,,,,,AreaOutsideRegion,2001
+4,Kermadec Islands,3,,,,,,,AreaOutsideRegion,2001
+5,Three Kings Islands,0,,,,,,,AreaOutsideRegion,2001
+6,Oceanic-Oil Rigs Taranaki,0,,,,,,,AreaOutsideRegion,2001
+7,Oceanic-Chatham Islands,0,,,,,,,AreaOutsideRegion,2001
+8,Oceanic-Campbell Island,0,,,,,,,AreaOutsideRegion,2001
+9,Campbell Island,0,,,,,,,AreaOutsideRegion,2001
+10,Oceanic-Oil Rig Southland,3,,,,,,,AreaOutsideRegion,2001
+11,Oceanic-Auckland Islands,0,,,,,,,AreaOutsideRegion,2001
+12,Auckland Islands,0,,,,,,,AreaOutsideRegion,2001
+13,NZ Economic Zone,0,,,,,,,AreaOutsideRegion,2001
+14,Oceanic-Bounty Islands,0,,,,,,,AreaOutsideRegion,2001
+15,Bounty Islands,0,,,,,,,AreaOutsideRegion,2001
+16,Oceanic-Snares Islands,0,,,,,,,AreaOutsideRegion,2001
+17,Snares Island,0,,,,,,,AreaOutsideRegion,2001
+18,Oceanic-Antipodes Islands,0,,,,,,,AreaOutsideRegion,2001
+19,Antipodes Islands,0,,,,,,,AreaOutsideRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,AucklandRegion,1158891,754749.0,127626.0,154680.0,151602.0,13662.0,1101594.0,NewZealand,2001
+2,Wellsford,1740,1323.0,456.0,48.0,42.0,3.0,1692.0,AucklandRegion,2001
+3,Leigh,423,378.0,75.0,18.0,6.0,0.0,408.0,AucklandRegion,2001
+4,Warkworth,2826,2568.0,237.0,39.0,72.0,9.0,2745.0,AucklandRegion,2001
+5,Kumeu,5670,5046.0,435.0,132.0,180.0,9.0,5427.0,AucklandRegion,2001
+6,Waipareira West,816,759.0,51.0,18.0,15.0,3.0,789.0,AucklandRegion,2001
+7,Red Beach,5661,5157.0,405.0,102.0,108.0,6.0,5439.0,AucklandRegion,2001
+8,Waiwera,225,204.0,12.0,0.0,0.0,0.0,213.0,AucklandRegion,2001
+9,Hatfields Beach,1110,978.0,102.0,21.0,30.0,0.0,1044.0,AucklandRegion,2001
+10,Orewa,5259,4761.0,297.0,84.0,192.0,24.0,5127.0,AucklandRegion,2001
+11,Stanmore Bay,8820,7962.0,732.0,105.0,177.0,39.0,8439.0,AucklandRegion,2001
+12,Manly,5712,5169.0,315.0,81.0,138.0,15.0,5412.0,AucklandRegion,2001
+13,Army Bay,2388,2124.0,141.0,36.0,57.0,9.0,2229.0,AucklandRegion,2001
+14,Gulf Harbour,927,831.0,30.0,6.0,36.0,9.0,876.0,AucklandRegion,2001
+15,Silverdale South,1611,1476.0,81.0,18.0,42.0,0.0,1533.0,AucklandRegion,2001
+16,Silverdale North,1299,1170.0,75.0,21.0,54.0,3.0,1239.0,AucklandRegion,2001
+17,Dairy Flat-Redvale,1647,1479.0,63.0,15.0,51.0,9.0,1545.0,AucklandRegion,2001
+18,Paremoremo West,456,417.0,18.0,0.0,0.0,0.0,423.0,AucklandRegion,2001
+19,Tauhoa-Puhoi,3336,2775.0,309.0,30.0,39.0,9.0,3009.0,AucklandRegion,2001
+20,Tahekeroa,2871,2634.0,159.0,18.0,51.0,15.0,2706.0,AucklandRegion,2001
+21,Cape Rodney,5601,5058.0,507.0,81.0,42.0,15.0,5316.0,AucklandRegion,2001
+22,Matheson Bay,111,102.0,12.0,0.0,0.0,0.0,111.0,AucklandRegion,2001
+23,Kawau,105,84.0,6.0,3.0,3.0,0.0,90.0,AucklandRegion,2001
+24,Snells Beach,3054,2778.0,201.0,33.0,54.0,9.0,2928.0,AucklandRegion,2001
+25,Algies Bay-Mahurangi,795,735.0,30.0,6.0,9.0,3.0,750.0,AucklandRegion,2001
+26,Parakai,1182,975.0,234.0,27.0,24.0,3.0,1122.0,AucklandRegion,2001
+27,South Head,1155,927.0,186.0,36.0,12.0,3.0,1068.0,AucklandRegion,2001
+28,Kaukapakapa,2268,2049.0,141.0,42.0,18.0,6.0,2124.0,AucklandRegion,2001
+29,Muriwai Beach,2040,1839.0,168.0,45.0,21.0,6.0,1896.0,AucklandRegion,2001
+30,Rewiti,1731,1518.0,228.0,39.0,18.0,3.0,1644.0,AucklandRegion,2001
+31,Riverhead,2325,2154.0,93.0,15.0,27.0,6.0,2205.0,AucklandRegion,2001
+32,Helensville,2214,1779.0,483.0,135.0,54.0,3.0,2103.0,AucklandRegion,2001
+33,Awaruku,3489,3084.0,156.0,48.0,207.0,30.0,3375.0,AucklandRegion,2001
+34,Glamorgan,3066,2721.0,165.0,45.0,189.0,33.0,2976.0,AucklandRegion,2001
+35,Torbay,4431,4053.0,198.0,54.0,144.0,27.0,4275.0,AucklandRegion,2001
+36,Waiake,4029,3636.0,144.0,63.0,201.0,33.0,3918.0,AucklandRegion,2001
+37,Browns Bay,3696,3168.0,168.0,45.0,294.0,42.0,3570.0,AucklandRegion,2001
+38,Oaktree,4227,3537.0,201.0,66.0,537.0,39.0,4125.0,AucklandRegion,2001
+39,Rothesay Bay,4413,3792.0,114.0,33.0,429.0,39.0,4275.0,AucklandRegion,2001
+40,Murrays Bay,4281,3636.0,111.0,33.0,507.0,36.0,4173.0,AucklandRegion,2001
+41,Mairangi Bay,4776,4140.0,147.0,30.0,498.0,33.0,4680.0,AucklandRegion,2001
+42,Campbells Bay,2205,2070.0,54.0,0.0,102.0,24.0,2178.0,AucklandRegion,2001
+43,Castor Bay,2784,2472.0,51.0,42.0,228.0,18.0,2733.0,AucklandRegion,2001
+44,Crown Hill,3105,2595.0,90.0,27.0,366.0,48.0,3033.0,AucklandRegion,2001
+45,Lake Pupuke,4929,4179.0,177.0,63.0,417.0,57.0,4704.0,AucklandRegion,2001
+46,Westlake,4026,3078.0,138.0,54.0,735.0,63.0,3906.0,AucklandRegion,2001
+47,Takapuna Central,2520,2013.0,96.0,21.0,297.0,42.0,2376.0,AucklandRegion,2001
+48,Hauraki,5367,4461.0,249.0,87.0,624.0,72.0,5235.0,AucklandRegion,2001
+49,Seacliffe,3135,2613.0,327.0,87.0,240.0,36.0,3036.0,AucklandRegion,2001
+50,Bayswater,2310,2001.0,264.0,66.0,93.0,15.0,2247.0,AucklandRegion,2001
+51,Kaipatiki,4014,2829.0,342.0,201.0,780.0,96.0,3921.0,AucklandRegion,2001
+52,Windy Ridge,3111,2346.0,318.0,234.0,330.0,42.0,2994.0,AucklandRegion,2001
+53,Glenfield Central,4314,2928.0,309.0,117.0,972.0,138.0,4242.0,AucklandRegion,2001
+54,Glenfield North,3888,2586.0,381.0,201.0,771.0,105.0,3696.0,AucklandRegion,2001
+55,Glendhu,4794,3645.0,438.0,327.0,501.0,108.0,4614.0,AucklandRegion,2001
+56,Witheford,2628,1959.0,195.0,93.0,411.0,69.0,2529.0,AucklandRegion,2001
+57,Target Road,5841,3891.0,471.0,279.0,1053.0,222.0,5505.0,AucklandRegion,2001
+58,Forrest Hill,4911,3507.0,216.0,105.0,1110.0,108.0,4821.0,AucklandRegion,2001
+59,Sunnynook,5868,4332.0,345.0,171.0,1086.0,117.0,5703.0,AucklandRegion,2001
+60,Monarch Park,4581,3483.0,273.0,75.0,735.0,96.0,4416.0,AucklandRegion,2001
+61,Sunnybrae,2718,1908.0,153.0,60.0,606.0,66.0,2667.0,AucklandRegion,2001
+62,Albany,945,795.0,54.0,27.0,81.0,6.0,906.0,AucklandRegion,2001
+63,Northcross,2292,1893.0,108.0,42.0,246.0,24.0,2196.0,AucklandRegion,2001
+64,North Harbour,4431,3480.0,195.0,30.0,696.0,60.0,4302.0,AucklandRegion,2001
+65,Pinehill,2655,1863.0,90.0,21.0,675.0,39.0,2592.0,AucklandRegion,2001
+66,Unsworth Heights,4620,3135.0,288.0,168.0,933.0,222.0,4479.0,AucklandRegion,2001
+67,Long Bay,744,690.0,24.0,6.0,21.0,3.0,726.0,AucklandRegion,2001
+68,Paremoremo East,2094,1626.0,402.0,120.0,33.0,6.0,1995.0,AucklandRegion,2001
+69,Greenhithe,4167,3873.0,183.0,48.0,168.0,21.0,4086.0,AucklandRegion,2001
+70,Narrow Neck,3573,3231.0,255.0,78.0,120.0,18.0,3459.0,AucklandRegion,2001
+71,Mt Victoria,5211,4824.0,255.0,99.0,126.0,39.0,5052.0,AucklandRegion,2001
+72,Stanley Bay,2163,2016.0,153.0,45.0,27.0,0.0,2124.0,AucklandRegion,2001
+73,Ocean View,4155,2862.0,264.0,180.0,894.0,96.0,4065.0,AucklandRegion,2001
+74,Tuff Crater,3984,2364.0,396.0,528.0,750.0,105.0,3879.0,AucklandRegion,2001
+75,Northcote South,3990,3285.0,237.0,132.0,426.0,33.0,3852.0,AucklandRegion,2001
+76,Beachhaven North,4902,3567.0,912.0,510.0,291.0,39.0,4677.0,AucklandRegion,2001
+77,Beachhaven South,4221,3228.0,501.0,411.0,279.0,48.0,4044.0,AucklandRegion,2001
+78,Birkdale North,2817,2013.0,465.0,294.0,294.0,30.0,2748.0,AucklandRegion,2001
+79,Birkdale South,3552,2625.0,420.0,264.0,372.0,69.0,3405.0,AucklandRegion,2001
+80,Kauri Park,3390,2685.0,219.0,93.0,420.0,57.0,3273.0,AucklandRegion,2001
+81,Chelsea,3684,2418.0,120.0,36.0,1095.0,60.0,3597.0,AucklandRegion,2001
+82,Birkenhead East,3771,3231.0,156.0,60.0,324.0,54.0,3657.0,AucklandRegion,2001
+83,Henderson North,4563,3234.0,498.0,465.0,585.0,57.0,4377.0,AucklandRegion,2001
+84,Henderson South,3903,2253.0,588.0,744.0,432.0,27.0,3615.0,AucklandRegion,2001
+85,Tangutu,2793,1824.0,351.0,549.0,276.0,27.0,2631.0,AucklandRegion,2001
+86,Woodglen,3672,2646.0,489.0,537.0,231.0,27.0,3453.0,AucklandRegion,2001
+87,Glen Eden East,6024,4179.0,762.0,762.0,612.0,78.0,5670.0,AucklandRegion,2001
+88,New Lynn North,6588,3180.0,705.0,1203.0,1638.0,99.0,6138.0,AucklandRegion,2001
+89,Fruitvale,3750,2271.0,399.0,633.0,591.0,96.0,3576.0,AucklandRegion,2001
+90,Rewarewa,3804,2364.0,435.0,564.0,630.0,69.0,3627.0,AucklandRegion,2001
+91,Glendene North,3957,2403.0,447.0,681.0,543.0,48.0,3684.0,AucklandRegion,2001
+92,Glendene South,2478,1386.0,288.0,522.0,453.0,36.0,2382.0,AucklandRegion,2001
+93,Kelston Central,3975,1557.0,642.0,1197.0,822.0,63.0,3753.0,AucklandRegion,2001
+94,Sunnyvale,3582,2448.0,432.0,450.0,363.0,48.0,3336.0,AucklandRegion,2001
+95,Kaurilands,2952,2634.0,243.0,117.0,138.0,15.0,2859.0,AucklandRegion,2001
+96,Crum Park,3609,3054.0,270.0,228.0,204.0,39.0,3480.0,AucklandRegion,2001
+97,Titirangi South,3237,2985.0,132.0,51.0,84.0,27.0,3102.0,AucklandRegion,2001
+98,Green Bay,3615,2979.0,321.0,216.0,279.0,24.0,3507.0,AucklandRegion,2001
+99,Matipo,2787,1872.0,609.0,414.0,243.0,12.0,2694.0,AucklandRegion,2001
+100,Durham Green,3750,2310.0,864.0,666.0,240.0,33.0,3543.0,AucklandRegion,2001
+101,Te Atatu Central,3750,2616.0,684.0,492.0,327.0,9.0,3594.0,AucklandRegion,2001
+102,Edmonton,2931,1917.0,360.0,342.0,369.0,36.0,2694.0,AucklandRegion,2001
+103,Wakeling,3639,2574.0,384.0,315.0,477.0,51.0,3486.0,AucklandRegion,2001
+104,Mcleod,4938,3306.0,609.0,573.0,621.0,78.0,4695.0,AucklandRegion,2001
+105,Konini,3522,3003.0,363.0,204.0,126.0,33.0,3357.0,AucklandRegion,2001
+106,Waima,2319,2139.0,126.0,30.0,75.0,15.0,2244.0,AucklandRegion,2001
+107,Laingholm,2457,2202.0,213.0,57.0,48.0,6.0,2319.0,AucklandRegion,2001
+108,Armour Bay,462,420.0,30.0,15.0,18.0,6.0,447.0,AucklandRegion,2001
+109,Parrs Park,5172,3054.0,756.0,1287.0,468.0,60.0,4902.0,AucklandRegion,2001
+110,Otimai,2376,2169.0,123.0,33.0,33.0,6.0,2220.0,AucklandRegion,2001
+111,Sturges South,5994,3816.0,813.0,1197.0,534.0,63.0,5706.0,AucklandRegion,2001
+112,Opanuku,2028,1800.0,144.0,60.0,51.0,9.0,1929.0,AucklandRegion,2001
+113,Swanson,3240,2655.0,327.0,174.0,87.0,24.0,2952.0,AucklandRegion,2001
+114,Ranui North,7965,3936.0,1458.0,2313.0,615.0,51.0,7305.0,AucklandRegion,2001
+115,Sturges North,2283,1755.0,216.0,147.0,279.0,18.0,2211.0,AucklandRegion,2001
+116,Kingdale,3480,1767.0,600.0,696.0,579.0,24.0,3228.0,AucklandRegion,2001
+117,Fairdene,4413,2415.0,825.0,735.0,762.0,57.0,4194.0,AucklandRegion,2001
+118,Whenuapai West,1833,1584.0,153.0,81.0,150.0,0.0,1803.0,AucklandRegion,2001
+119,Herald,1656,1515.0,102.0,42.0,24.0,9.0,1587.0,AucklandRegion,2001
+120,Hobsonville,3345,2730.0,285.0,87.0,351.0,21.0,3234.0,AucklandRegion,2001
+121,Westgate,705,474.0,108.0,117.0,48.0,3.0,687.0,AucklandRegion,2001
+122,Royal Road West,2424,1545.0,354.0,381.0,159.0,39.0,2178.0,AucklandRegion,2001
+123,West Harbour,4569,2745.0,834.0,942.0,345.0,27.0,4254.0,AucklandRegion,2001
+124,Lucken Point,4659,3291.0,192.0,135.0,1161.0,27.0,4575.0,AucklandRegion,2001
+125,Royal Heights,5490,3675.0,846.0,849.0,594.0,27.0,5277.0,AucklandRegion,2001
+126,West Massey,360,285.0,48.0,18.0,18.0,0.0,336.0,AucklandRegion,2001
+127,Birdwood,1182,951.0,132.0,120.0,72.0,3.0,1155.0,AucklandRegion,2001
+128,Waimumu North,4500,2709.0,804.0,969.0,423.0,33.0,4248.0,AucklandRegion,2001
+129,Waimumu South,3753,2460.0,639.0,708.0,267.0,42.0,3570.0,AucklandRegion,2001
+130,Taupaki,804,726.0,45.0,15.0,36.0,0.0,777.0,AucklandRegion,2001
+131,Waitakere,1863,1683.0,144.0,51.0,30.0,6.0,1749.0,AucklandRegion,2001
+132,Karekare,2397,2088.0,234.0,78.0,48.0,18.0,2214.0,AucklandRegion,2001
+133,Freemans Bay,3732,3012.0,339.0,255.0,186.0,66.0,3510.0,AucklandRegion,2001
+134,Auckland Harbourside,1521,990.0,48.0,45.0,312.0,18.0,1362.0,AucklandRegion,2001
+135,Auckland Central West,3255,1596.0,198.0,99.0,1062.0,57.0,2826.0,AucklandRegion,2001
+136,Auckland Central East,3528,1596.0,171.0,84.0,1317.0,51.0,3063.0,AucklandRegion,2001
+137,Newton,837,534.0,63.0,33.0,132.0,3.0,717.0,AucklandRegion,2001
+138,Grafton West,1044,546.0,66.0,42.0,354.0,15.0,960.0,AucklandRegion,2001
+139,Grafton East,1008,486.0,78.0,84.0,315.0,51.0,951.0,AucklandRegion,2001
+140,Roberton,4455,2427.0,471.0,765.0,828.0,114.0,4101.0,AucklandRegion,2001
+141,Glenavon,5073,2049.0,528.0,1326.0,1311.0,126.0,4788.0,AucklandRegion,2001
+142,New Windsor,5787,3006.0,342.0,615.0,1839.0,147.0,5529.0,AucklandRegion,2001
+143,Avondale South,4506,2394.0,402.0,618.0,1224.0,69.0,4335.0,AucklandRegion,2001
+144,Blockhouse Bay,5454,3816.0,222.0,237.0,1272.0,72.0,5295.0,AucklandRegion,2001
+145,Rosebank,4158,1596.0,555.0,1266.0,726.0,75.0,3705.0,AucklandRegion,2001
+146,Avondale West,3951,1266.0,441.0,1485.0,873.0,63.0,3618.0,AucklandRegion,2001
+147,Waterview,3066,1641.0,357.0,726.0,339.0,72.0,2811.0,AucklandRegion,2001
+148,Point Chevalier West,3327,2706.0,228.0,246.0,282.0,18.0,3204.0,AucklandRegion,2001
+149,Point Chevalier East,4116,3243.0,345.0,447.0,342.0,48.0,4008.0,AucklandRegion,2001
+150,Point Chevalier South,1491,786.0,213.0,246.0,303.0,27.0,1392.0,AucklandRegion,2001
+151,Westmere,4506,3672.0,306.0,390.0,312.0,27.0,4350.0,AucklandRegion,2001
+152,Herne Bay,2841,2574.0,111.0,75.0,117.0,24.0,2760.0,AucklandRegion,2001
+153,St Marys,2145,1842.0,117.0,90.0,87.0,15.0,2037.0,AucklandRegion,2001
+154,Ponsonby West,2397,1836.0,198.0,342.0,105.0,27.0,2280.0,AucklandRegion,2001
+155,Ponsonby East,3300,2610.0,195.0,411.0,192.0,30.0,3162.0,AucklandRegion,2001
+156,Grey Lynn West,3300,2271.0,288.0,666.0,243.0,24.0,3123.0,AucklandRegion,2001
+157,Grey Lynn East,3135,2127.0,267.0,690.0,186.0,24.0,2952.0,AucklandRegion,2001
+158,Surrey Crescent,2661,1647.0,285.0,624.0,213.0,24.0,2511.0,AucklandRegion,2001
+159,St Lukes North,678,501.0,78.0,84.0,60.0,6.0,636.0,AucklandRegion,2001
+160,Arch Hill,1248,927.0,105.0,213.0,57.0,12.0,1188.0,AucklandRegion,2001
+161,Eden Terrace,1413,927.0,72.0,144.0,156.0,15.0,1212.0,AucklandRegion,2001
+162,Epsom North,3324,2043.0,126.0,78.0,972.0,42.0,3111.0,AucklandRegion,2001
+163,Epsom Central,3273,1842.0,60.0,42.0,1260.0,24.0,3132.0,AucklandRegion,2001
+164,Epsom South,3252,2157.0,66.0,63.0,954.0,18.0,3165.0,AucklandRegion,2001
+165,Parnell East,2076,1821.0,75.0,27.0,126.0,18.0,1965.0,AucklandRegion,2001
+166,Parnell West,3981,3252.0,141.0,72.0,306.0,33.0,3642.0,AucklandRegion,2001
+167,Mt Hobson,1269,909.0,45.0,51.0,225.0,21.0,1200.0,AucklandRegion,2001
+168,Remuera South,3420,2406.0,75.0,81.0,759.0,33.0,3240.0,AucklandRegion,2001
+169,Abbotts Park,3924,3018.0,186.0,84.0,663.0,45.0,3780.0,AucklandRegion,2001
+170,Remuera West,2904,2457.0,72.0,45.0,312.0,27.0,2799.0,AucklandRegion,2001
+171,Waitaramoa,3735,3174.0,69.0,63.0,384.0,42.0,3606.0,AucklandRegion,2001
+172,Orakei South,3285,2808.0,69.0,27.0,333.0,30.0,3156.0,AucklandRegion,2001
+173,Waiata,4047,3501.0,72.0,15.0,354.0,30.0,3858.0,AucklandRegion,2001
+174,Meadowbank North,5778,4719.0,225.0,216.0,564.0,102.0,5583.0,AucklandRegion,2001
+175,Meadowbank South,4797,3060.0,123.0,72.0,1479.0,132.0,4680.0,AucklandRegion,2001
+176,Orakei North,4914,3528.0,654.0,315.0,444.0,54.0,4620.0,AucklandRegion,2001
+177,Mission Bay,5238,4143.0,114.0,57.0,741.0,102.0,4974.0,AucklandRegion,2001
+178,Kohimarama West,3048,2661.0,93.0,30.0,240.0,27.0,2934.0,AucklandRegion,2001
+179,Kohimarama East,3291,2910.0,84.0,27.0,255.0,39.0,3204.0,AucklandRegion,2001
+180,St Heliers,4482,3984.0,108.0,42.0,363.0,54.0,4395.0,AucklandRegion,2001
+181,Glendowie,3828,3468.0,108.0,36.0,240.0,45.0,3750.0,AucklandRegion,2001
+182,Glen Innes North,4779,3657.0,243.0,225.0,597.0,75.0,4530.0,AucklandRegion,2001
+183,Glen Innes West,4332,1575.0,792.0,1776.0,291.0,39.0,3930.0,AucklandRegion,2001
+184,Glen Innes East,2814,1140.0,546.0,1146.0,168.0,9.0,2586.0,AucklandRegion,2001
+185,Point England,4203,1170.0,918.0,1989.0,381.0,18.0,3921.0,AucklandRegion,2001
+186,St Johns,2589,1422.0,174.0,243.0,675.0,63.0,2394.0,AucklandRegion,2001
+187,Newmarket,1536,1122.0,108.0,42.0,243.0,6.0,1428.0,AucklandRegion,2001
+188,Kingsland,4005,2622.0,384.0,669.0,384.0,36.0,3672.0,AucklandRegion,2001
+189,St Lukes,3366,2022.0,255.0,474.0,621.0,57.0,3117.0,AucklandRegion,2001
+190,Sandringham North,2850,1797.0,165.0,399.0,546.0,45.0,2718.0,AucklandRegion,2001
+191,Sandringham West,4077,1983.0,288.0,552.0,1173.0,135.0,3846.0,AucklandRegion,2001
+192,Sandringham East,3147,1716.0,222.0,345.0,861.0,87.0,3009.0,AucklandRegion,2001
+193,Mt Albert Central,5403,3855.0,306.0,366.0,1053.0,81.0,5241.0,AucklandRegion,2001
+194,Springleigh,2463,1476.0,198.0,240.0,498.0,39.0,2280.0,AucklandRegion,2001
+195,Owairaka West,2637,1092.0,210.0,609.0,495.0,150.0,2364.0,AucklandRegion,2001
+196,Owairaka East,4041,2637.0,252.0,354.0,672.0,159.0,3762.0,AucklandRegion,2001
+197,Mt Eden North,2730,1701.0,318.0,183.0,438.0,27.0,2475.0,AucklandRegion,2001
+198,Sherbourne,2820,2103.0,156.0,93.0,438.0,33.0,2658.0,AucklandRegion,2001
+199,Balmoral,5127,4044.0,306.0,255.0,642.0,51.0,4965.0,AucklandRegion,2001
+200,Mt Eden East,2649,2007.0,159.0,84.0,438.0,36.0,2544.0,AucklandRegion,2001
+201,Maungawhau,3570,2775.0,174.0,171.0,510.0,30.0,3447.0,AucklandRegion,2001
+202,Mt Eden South,4359,3267.0,195.0,234.0,684.0,54.0,4191.0,AucklandRegion,2001
+203,Three Kings,4743,2472.0,402.0,855.0,1119.0,114.0,4578.0,AucklandRegion,2001
+204,Royal Oak,5055,3666.0,201.0,192.0,1071.0,27.0,4920.0,AucklandRegion,2001
+205,Hillsborough West,6057,3165.0,237.0,330.0,2277.0,132.0,5841.0,AucklandRegion,2001
+206,Hillsborough East,3858,2793.0,177.0,222.0,735.0,45.0,3750.0,AucklandRegion,2001
+207,Walmsley,3597,801.0,297.0,1584.0,771.0,207.0,3375.0,AucklandRegion,2001
+208,Wesley,2508,684.0,174.0,795.0,753.0,72.0,2307.0,AucklandRegion,2001
+209,Akarana,4860,1485.0,360.0,1218.0,1677.0,177.0,4533.0,AucklandRegion,2001
+210,Lynfield North,4965,2475.0,324.0,393.0,1869.0,144.0,4854.0,AucklandRegion,2001
+211,Lynfield South,3963,2466.0,207.0,234.0,1137.0,96.0,3831.0,AucklandRegion,2001
+212,Waikowhai West,3120,1965.0,99.0,117.0,936.0,45.0,3030.0,AucklandRegion,2001
+213,Waikowhai East,4041,1686.0,318.0,1107.0,966.0,102.0,3903.0,AucklandRegion,2001
+214,Mt St John,3834,2505.0,150.0,66.0,1104.0,45.0,3708.0,AucklandRegion,2001
+215,One Tree Hill Central,2382,1818.0,105.0,90.0,417.0,21.0,2289.0,AucklandRegion,2001
+216,One Tree Hill East,5400,3783.0,339.0,444.0,894.0,66.0,5157.0,AucklandRegion,2001
+217,Penrose,573,246.0,69.0,114.0,135.0,6.0,534.0,AucklandRegion,2001
+218,Onehunga North West,3363,2028.0,177.0,321.0,816.0,48.0,3210.0,AucklandRegion,2001
+219,Onehunga North East,3417,2487.0,216.0,360.0,390.0,30.0,3270.0,AucklandRegion,2001
+220,Onehunga South West,3426,2529.0,306.0,351.0,390.0,48.0,3276.0,AucklandRegion,2001
+221,Onehunga South East,3003,1614.0,318.0,663.0,489.0,48.0,2790.0,AucklandRegion,2001
+222,Oranga,3630,1689.0,501.0,1386.0,297.0,21.0,3468.0,AucklandRegion,2001
+223,Te Papapa,3081,1530.0,381.0,876.0,414.0,15.0,2886.0,AucklandRegion,2001
+224,Ellerslie North,5484,4092.0,360.0,240.0,825.0,78.0,5235.0,AucklandRegion,2001
+225,Ellerslie South,1779,1155.0,129.0,207.0,327.0,9.0,1695.0,AucklandRegion,2001
+226,Mt Wellington North,6054,2922.0,684.0,954.0,1635.0,93.0,5706.0,AucklandRegion,2001
+227,Ferndale,3990,1947.0,495.0,774.0,876.0,42.0,3711.0,AucklandRegion,2001
+228,Hamlin,4473,2037.0,672.0,879.0,975.0,63.0,4158.0,AucklandRegion,2001
+229,Mt Wellington South,5217,1731.0,1038.0,2052.0,777.0,42.0,4950.0,AucklandRegion,2001
+230,Tamaki,4266,1662.0,1062.0,1509.0,393.0,39.0,3951.0,AucklandRegion,2001
+231,Panmure Basin,2049,1431.0,219.0,186.0,273.0,27.0,1956.0,AucklandRegion,2001
+232,Waiheke Island,7137,6150.0,789.0,222.0,147.0,36.0,6630.0,AucklandRegion,2001
+233,Bays-Waiheke Island,15,6.0,0.0,0.0,0.0,0.0,6.0,AucklandRegion,2001
+234,"Islands-Motutapu, Rangitoto, Rakino",105,87.0,18.0,6.0,3.0,0.0,99.0,AucklandRegion,2001
+235,Great Barrier Island,1017,813.0,201.0,15.0,6.0,0.0,903.0,AucklandRegion,2001
+236,Paerata-Cape Hill,717,606.0,87.0,18.0,18.0,0.0,684.0,AucklandRegion,2001
+237,Eden Road-Hill Top,510,318.0,42.0,33.0,129.0,0.0,483.0,AucklandRegion,2001
+238,Patumahoe,2163,1701.0,138.0,42.0,150.0,3.0,1926.0,AucklandRegion,2001
+239,Kingseat,5433,4572.0,459.0,120.0,114.0,12.0,4944.0,AucklandRegion,2001
+240,Hunua,3963,3576.0,279.0,66.0,81.0,3.0,3786.0,AucklandRegion,2001
+241,Awhitu,2340,2061.0,252.0,36.0,36.0,0.0,2205.0,AucklandRegion,2001
+242,Glenbrook,1935,1620.0,159.0,51.0,57.0,0.0,1749.0,AucklandRegion,2001
+243,Bombay,693,522.0,60.0,18.0,84.0,0.0,648.0,AucklandRegion,2001
+244,Hingaia,684,606.0,39.0,15.0,48.0,0.0,681.0,AucklandRegion,2001
+245,Whangapouri Creek,486,450.0,15.0,3.0,3.0,0.0,462.0,AucklandRegion,2001
+246,Bremner,348,297.0,6.0,3.0,12.0,0.0,309.0,AucklandRegion,2001
+247,Drury,3075,2631.0,291.0,36.0,108.0,3.0,2889.0,AucklandRegion,2001
+248,Runciman,411,360.0,12.0,9.0,24.0,0.0,393.0,AucklandRegion,2001
+249,Mellons Bay,2871,2598.0,69.0,15.0,183.0,21.0,2799.0,AucklandRegion,2001
+250,Cockle Bay,4428,4023.0,141.0,45.0,234.0,30.0,4305.0,AucklandRegion,2001
+251,Howick West,2502,1989.0,108.0,66.0,369.0,45.0,2430.0,AucklandRegion,2001
+252,Howick Central,5142,4380.0,252.0,72.0,495.0,69.0,4974.0,AucklandRegion,2001
+253,Otahuhu East,7500,1848.0,1200.0,2781.0,1713.0,54.0,6789.0,AucklandRegion,2001
+254,Otahuhu West,4488,1143.0,894.0,1821.0,783.0,21.0,4068.0,AucklandRegion,2001
+255,Middlemore,81,39.0,24.0,24.0,6.0,3.0,75.0,AucklandRegion,2001
+256,Papatoetoe West,4311,2025.0,843.0,999.0,864.0,27.0,4131.0,AucklandRegion,2001
+257,Papatoetoe North,4608,2559.0,702.0,921.0,750.0,57.0,4473.0,AucklandRegion,2001
+258,Papatoetoe Central,3825,2478.0,465.0,408.0,645.0,99.0,3729.0,AucklandRegion,2001
+259,Dingwall,2808,1581.0,312.0,297.0,693.0,63.0,2661.0,AucklandRegion,2001
+260,Papatoetoe East,4578,2025.0,690.0,912.0,1215.0,96.0,4380.0,AucklandRegion,2001
+261,Puhinui,3462,2115.0,507.0,468.0,615.0,81.0,3357.0,AucklandRegion,2001
+262,Bucklands and Eastern Beaches,4782,3867.0,132.0,60.0,699.0,75.0,4653.0,AucklandRegion,2001
+263,Bucklands Beach South,2370,1521.0,33.0,15.0,777.0,39.0,2328.0,AucklandRegion,2001
+264,Bleakhouse,1845,1530.0,66.0,39.0,243.0,15.0,1803.0,AucklandRegion,2001
+265,Pigeon Mountain North,2886,1725.0,165.0,81.0,903.0,72.0,2796.0,AucklandRegion,2001
+266,Murvale,3720,2472.0,114.0,66.0,1080.0,75.0,3654.0,AucklandRegion,2001
+267,Pigeon Mountain South,1146,807.0,15.0,15.0,267.0,18.0,1095.0,AucklandRegion,2001
+268,Aberfeldy,3966,2514.0,171.0,90.0,1164.0,66.0,3843.0,AucklandRegion,2001
+269,Elsmore Park,2565,1749.0,159.0,132.0,567.0,66.0,2505.0,AucklandRegion,2001
+270,Half Moon Bay,3318,2586.0,123.0,42.0,531.0,51.0,3213.0,AucklandRegion,2001
+271,Pakuranga North,4086,3024.0,120.0,48.0,891.0,69.0,3981.0,AucklandRegion,2001
+272,Sunnyhills,2949,2241.0,108.0,57.0,552.0,24.0,2874.0,AucklandRegion,2001
+273,Pakuranga Central,3180,1998.0,240.0,192.0,849.0,72.0,3096.0,AucklandRegion,2001
+274,Edgewater,3696,2289.0,420.0,270.0,864.0,48.0,3564.0,AucklandRegion,2001
+275,Pakuranga East,4821,3138.0,501.0,276.0,1110.0,87.0,4701.0,AucklandRegion,2001
+276,Botany Downs,4701,3600.0,201.0,72.0,843.0,81.0,4587.0,AucklandRegion,2001
+277,Maungamaungaroa,4206,2226.0,105.0,57.0,1833.0,27.0,4086.0,AucklandRegion,2001
+278,Golfland,2154,1467.0,63.0,39.0,609.0,30.0,2124.0,AucklandRegion,2001
+279,Millhouse,4818,2799.0,114.0,51.0,1806.0,93.0,4719.0,AucklandRegion,2001
+280,Burswood,1677,894.0,96.0,72.0,615.0,36.0,1620.0,AucklandRegion,2001
+281,East Tamaki,678,480.0,39.0,6.0,96.0,6.0,591.0,AucklandRegion,2001
+282,Dannemora,3309,1905.0,123.0,69.0,1086.0,93.0,3138.0,AucklandRegion,2001
+283,Kilkenny,2454,1464.0,63.0,24.0,906.0,33.0,2409.0,AucklandRegion,2001
+284,Point View,2064,1440.0,78.0,9.0,450.0,36.0,1923.0,AucklandRegion,2001
+285,Shelly Park,2097,1812.0,66.0,27.0,201.0,12.0,2043.0,AucklandRegion,2001
+286,Turanga,1824,1698.0,66.0,6.0,57.0,6.0,1773.0,AucklandRegion,2001
+287,Beachlands-Maraetai,4422,3963.0,339.0,84.0,75.0,6.0,4125.0,AucklandRegion,2001
+288,Grange,1863,462.0,375.0,1047.0,168.0,15.0,1791.0,AucklandRegion,2001
+289,Otara West,3084,378.0,690.0,2097.0,60.0,3.0,2826.0,AucklandRegion,2001
+290,Otara North,1593,168.0,381.0,1092.0,63.0,0.0,1488.0,AucklandRegion,2001
+291,Otara East,4341,405.0,828.0,3159.0,81.0,3.0,4047.0,AucklandRegion,2001
+292,Otara South,3348,387.0,744.0,2367.0,69.0,0.0,3162.0,AucklandRegion,2001
+293,Ferguson,4002,402.0,840.0,2985.0,87.0,0.0,3762.0,AucklandRegion,2001
+294,Flat Bush,4335,435.0,828.0,2997.0,171.0,6.0,3918.0,AucklandRegion,2001
+295,Donegal Park,2820,1029.0,471.0,804.0,672.0,36.0,2640.0,AucklandRegion,2001
+296,Ormiston,342,255.0,9.0,0.0,15.0,3.0,267.0,AucklandRegion,2001
+297,Clover Park,4419,519.0,912.0,3051.0,267.0,3.0,4113.0,AucklandRegion,2001
+298,Redoubt North,4410,1740.0,765.0,1113.0,1137.0,24.0,4176.0,AucklandRegion,2001
+299,Ardmore,915,789.0,75.0,9.0,60.0,0.0,867.0,AucklandRegion,2001
+300,Totara Heights,2718,2244.0,180.0,102.0,282.0,21.0,2634.0,AucklandRegion,2001
+301,Wairere,1038,864.0,42.0,21.0,75.0,3.0,969.0,AucklandRegion,2001
+302,Randwick Park,2271,831.0,774.0,618.0,165.0,12.0,2034.0,AucklandRegion,2001
+303,Hyperion,2055,939.0,666.0,534.0,177.0,3.0,1899.0,AucklandRegion,2001
+304,Redoubt South,5364,3000.0,573.0,642.0,1365.0,30.0,5097.0,AucklandRegion,2001
+305,Takanini North,2577,1536.0,777.0,288.0,144.0,9.0,2376.0,AucklandRegion,2001
+306,Takanini South,2283,1512.0,714.0,171.0,168.0,6.0,2196.0,AucklandRegion,2001
+307,Takanini West,4530,3339.0,627.0,234.0,471.0,45.0,4353.0,AucklandRegion,2001
+308,Ambury,3165,2076.0,594.0,537.0,243.0,24.0,2988.0,AucklandRegion,2001
+309,Mangere Bridge,5484,2643.0,1182.0,1344.0,576.0,21.0,4923.0,AucklandRegion,2001
+310,Mangere Central,3057,447.0,585.0,2070.0,150.0,9.0,2937.0,AucklandRegion,2001
+311,Mascot,3786,630.0,678.0,2463.0,267.0,18.0,3543.0,AucklandRegion,2001
+312,Arahanga,1899,264.0,318.0,1371.0,99.0,0.0,1806.0,AucklandRegion,2001
+313,Viscount,3801,474.0,690.0,2706.0,162.0,3.0,3615.0,AucklandRegion,2001
+314,Mangere South,3132,882.0,795.0,1350.0,282.0,3.0,2904.0,AucklandRegion,2001
+315,Mangere East,5070,1857.0,1035.0,1842.0,924.0,24.0,4884.0,AucklandRegion,2001
+316,Aorere,4809,954.0,1065.0,2601.0,534.0,15.0,4509.0,AucklandRegion,2001
+317,Kohuora,4938,1701.0,1146.0,1644.0,1017.0,27.0,4683.0,AucklandRegion,2001
+318,Favona,5934,1095.0,1008.0,3327.0,768.0,24.0,5526.0,AucklandRegion,2001
+319,Mangere Station,279,21.0,30.0,126.0,3.0,93.0,261.0,AucklandRegion,2001
+320,Harania North,3792,315.0,528.0,3000.0,120.0,12.0,3600.0,AucklandRegion,2001
+321,Harania West,4416,675.0,819.0,2715.0,414.0,9.0,4137.0,AucklandRegion,2001
+322,Harania East,4689,654.0,807.0,3240.0,297.0,6.0,4431.0,AucklandRegion,2001
+323,Manukau Central,2712,1191.0,531.0,549.0,624.0,9.0,2535.0,AucklandRegion,2001
+324,Wiri,3765,870.0,978.0,1911.0,294.0,30.0,3588.0,AucklandRegion,2001
+325,Burbank,3066,1023.0,1194.0,1002.0,261.0,18.0,2877.0,AucklandRegion,2001
+326,Homai West,2028,672.0,750.0,678.0,132.0,39.0,1920.0,AucklandRegion,2001
+327,Rowandale,2943,768.0,1158.0,1053.0,246.0,9.0,2652.0,AucklandRegion,2001
+328,Homai East,5406,2685.0,1755.0,1101.0,408.0,186.0,5082.0,AucklandRegion,2001
+329,Weymouth,6534,3624.0,1719.0,1299.0,408.0,42.0,6024.0,AucklandRegion,2001
+330,Clendon,6405,1704.0,2214.0,2412.0,459.0,42.0,5685.0,AucklandRegion,2001
+331,Hillpark,4488,3408.0,537.0,270.0,465.0,54.0,4287.0,AucklandRegion,2001
+332,Manurewa East,2265,1131.0,675.0,366.0,255.0,90.0,2163.0,AucklandRegion,2001
+333,Manurewa Central,3612,2088.0,882.0,504.0,324.0,117.0,3417.0,AucklandRegion,2001
+334,Beaumont,1968,969.0,549.0,372.0,240.0,78.0,1875.0,AucklandRegion,2001
+335,Leabank,4626,2409.0,1479.0,900.0,402.0,105.0,4425.0,AucklandRegion,2001
+336,Wattle Farm,5481,3585.0,1386.0,819.0,291.0,78.0,5271.0,AucklandRegion,2001
+337,Clevedon,3294,2913.0,294.0,48.0,33.0,6.0,3114.0,AucklandRegion,2001
+338,Papakura Central,1905,1377.0,417.0,93.0,108.0,6.0,1815.0,AucklandRegion,2001
+339,Papakura North,2208,1722.0,402.0,108.0,147.0,18.0,2154.0,AucklandRegion,2001
+340,Papakura South,1515,732.0,564.0,267.0,75.0,6.0,1395.0,AucklandRegion,2001
+341,Opaheke,2556,2163.0,384.0,93.0,75.0,12.0,2481.0,AucklandRegion,2001
+342,Rosehill,3033,1809.0,975.0,354.0,246.0,45.0,2943.0,AucklandRegion,2001
+343,Pahurehure,2964,2499.0,324.0,99.0,225.0,24.0,2916.0,AucklandRegion,2001
+344,Papakura East,4461,2268.0,1905.0,609.0,168.0,30.0,4164.0,AucklandRegion,2001
+345,Massey Park,1674,1146.0,426.0,96.0,99.0,6.0,1563.0,AucklandRegion,2001
+346,North East Papakura,3408,2556.0,789.0,300.0,141.0,9.0,3246.0,AucklandRegion,2001
+347,Red Hill,2520,1632.0,738.0,285.0,75.0,0.0,2367.0,AucklandRegion,2001
+348,Pukekohe North,6039,3546.0,1764.0,465.0,291.0,15.0,5463.0,AucklandRegion,2001
+349,Pukekohe West,5037,3972.0,603.0,141.0,459.0,9.0,4806.0,AucklandRegion,2001
+350,Bledisloe Park,2037,1659.0,261.0,36.0,168.0,0.0,1971.0,AucklandRegion,2001
+351,Waiuku,5478,4401.0,930.0,159.0,177.0,9.0,5205.0,AucklandRegion,2001
+352,Mokohinau Island,0,,,,,,,AucklandRegion,2001
+353,Little Barrier Island,0,,,,,,,AucklandRegion,2001
+354,Kaikoura and Rangiahua Islands,3,,,,,,,AucklandRegion,2001
+355,Inlet-Port Fitzroy,33,15.0,0.0,0.0,0.0,0.0,15.0,AucklandRegion,2001
+356,Cape Barrier,0,,,,,,,AucklandRegion,2001
+357,Rakitu Island,3,,,,,,,AucklandRegion,2001
+358,Browns Island,0,,,,,,,AucklandRegion,2001
+359,Aiguilles Island,0,,,,,,,AucklandRegion,2001
+360,Inlet-Kaipara Harbour South,0,,,,,,,AucklandRegion,2001
+361,Inlet-Kaipara River,0,,,,,,,AucklandRegion,2001
+362,Inlet-Takapuna Head,0,,,,,,,AucklandRegion,2001
+363,Inlet-Hobson Bay,0,,,,,,,AucklandRegion,2001
+364,Oceanic-Auckland Region East,0,,,,,,,AucklandRegion,2001
+365,Oceanic-Auckland Region West,0,,,,,,,AucklandRegion,2001
+366,Manukau Harbour,3,,,,,,,AucklandRegion,2001
+367,Inlet-Manukau Harbour,0,,,,,,,AucklandRegion,2001
+368,Tamaki Strait,15,3.0,0.0,0.0,0.0,0.0,3.0,AucklandRegion,2001
+369,Inlets-Tamaki,3,,,,,,,AucklandRegion,2001
+370,Inlet-Waiuku River,0,,,,,,,AucklandRegion,2001
+371,Inlet-Waitemata Harbour,234,195.0,12.0,3.0,0.0,3.0,207.0,AucklandRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,BayOfPlentyRegion,239412,178623.0,63654.0,5463.0,5202.0,495.0,228300.0,NewZealand,2001
+2,Waihi Beach,1911,1722.0,219.0,30.0,18.0,3.0,1860.0,BayOfPlentyRegion,2001
+3,Athenree,516,474.0,66.0,9.0,3.0,0.0,504.0,BayOfPlentyRegion,2001
+4,Katikati Community,2916,2487.0,363.0,69.0,87.0,6.0,2841.0,BayOfPlentyRegion,2001
+5,Maketu Community,999,453.0,603.0,21.0,3.0,0.0,924.0,BayOfPlentyRegion,2001
+6,Omokoroa Community,1743,1680.0,75.0,9.0,9.0,3.0,1713.0,BayOfPlentyRegion,2001
+7,Papamoa Beach East,6024,5055.0,1155.0,90.0,171.0,18.0,5820.0,BayOfPlentyRegion,2001
+8,Island View-Pios Beach,609,513.0,93.0,6.0,9.0,3.0,579.0,BayOfPlentyRegion,2001
+9,Te Puna,2523,2013.0,519.0,27.0,33.0,0.0,2454.0,BayOfPlentyRegion,2001
+10,Matapihi,615,186.0,489.0,18.0,0.0,0.0,597.0,BayOfPlentyRegion,2001
+11,Inlet-Tauranga Harbour Omokoroa,0,,,,,,,BayOfPlentyRegion,2001
+12,Inlet-Tauranga Harbour,45,36.0,0.0,0.0,3.0,0.0,39.0,BayOfPlentyRegion,2001
+13,Waikareao Estuary,0,,,,,,,BayOfPlentyRegion,2001
+14,Motuopae Island,0,,,,,,,BayOfPlentyRegion,2001
+15,Papamoa Beach West,5922,5121.0,927.0,135.0,141.0,18.0,5781.0,BayOfPlentyRegion,2001
+16,Kairua,381,162.0,216.0,12.0,12.0,3.0,360.0,BayOfPlentyRegion,2001
+17,Bethlehem East,2235,2085.0,93.0,9.0,90.0,9.0,2190.0,BayOfPlentyRegion,2001
+18,Bethlehem,1773,1428.0,390.0,9.0,18.0,3.0,1704.0,BayOfPlentyRegion,2001
+19,Matakana Island,288,36.0,219.0,0.0,0.0,0.0,237.0,BayOfPlentyRegion,2001
+20,Inlet-Tauranga Harbour North,12,9.0,3.0,0.0,3.0,0.0,12.0,BayOfPlentyRegion,2001
+21,Tahawai,1566,1425.0,168.0,12.0,18.0,0.0,1521.0,BayOfPlentyRegion,2001
+22,Aongatete,2283,2091.0,240.0,27.0,12.0,0.0,2229.0,BayOfPlentyRegion,2001
+23,Minden,3675,3414.0,306.0,21.0,24.0,3.0,3579.0,BayOfPlentyRegion,2001
+24,Kaimai,4719,4311.0,477.0,48.0,21.0,6.0,4521.0,BayOfPlentyRegion,2001
+25,Ohauiti-Ngapeke,564,486.0,72.0,6.0,3.0,0.0,543.0,BayOfPlentyRegion,2001
+26,Upper Papamoa,1809,1620.0,195.0,15.0,9.0,6.0,1731.0,BayOfPlentyRegion,2001
+27,Paengaroa,831,600.0,276.0,27.0,6.0,3.0,798.0,BayOfPlentyRegion,2001
+28,Rangiuru,1953,1359.0,516.0,12.0,33.0,6.0,1785.0,BayOfPlentyRegion,2001
+29,Pongakawa,2532,2091.0,411.0,30.0,27.0,3.0,2343.0,BayOfPlentyRegion,2001
+30,Mt Maunganui North,3402,3024.0,318.0,57.0,66.0,12.0,3258.0,BayOfPlentyRegion,2001
+31,Omanu,4815,4320.0,555.0,72.0,87.0,9.0,4644.0,BayOfPlentyRegion,2001
+32,Arataki,5049,4086.0,1056.0,90.0,99.0,15.0,4905.0,BayOfPlentyRegion,2001
+33,Te Maunga,4509,3855.0,702.0,72.0,66.0,3.0,4374.0,BayOfPlentyRegion,2001
+34,Matua,4932,4560.0,288.0,48.0,117.0,9.0,4806.0,BayOfPlentyRegion,2001
+35,Bellevue,3372,2865.0,519.0,75.0,117.0,21.0,3294.0,BayOfPlentyRegion,2001
+36,Otumoetai North,3669,3414.0,222.0,24.0,66.0,3.0,3552.0,BayOfPlentyRegion,2001
+37,Otumoetai South,3333,3090.0,204.0,30.0,54.0,9.0,3219.0,BayOfPlentyRegion,2001
+38,Brookfield,4293,3693.0,594.0,54.0,105.0,9.0,4146.0,BayOfPlentyRegion,2001
+39,Te Reti,1653,1338.0,336.0,24.0,27.0,3.0,1599.0,BayOfPlentyRegion,2001
+40,Judea,2259,1821.0,447.0,27.0,60.0,0.0,2139.0,BayOfPlentyRegion,2001
+41,Gate Pa,2955,2322.0,675.0,99.0,99.0,9.0,2841.0,BayOfPlentyRegion,2001
+42,Greerton,3936,3324.0,570.0,69.0,129.0,0.0,3807.0,BayOfPlentyRegion,2001
+43,Pyes Pa,1803,1635.0,93.0,6.0,87.0,3.0,1749.0,BayOfPlentyRegion,2001
+44,Yatton Park,2238,1461.0,645.0,75.0,69.0,6.0,1974.0,BayOfPlentyRegion,2001
+45,Poike,714,564.0,156.0,21.0,9.0,0.0,690.0,BayOfPlentyRegion,2001
+46,Hairini,3870,3171.0,792.0,36.0,72.0,3.0,3786.0,BayOfPlentyRegion,2001
+47,Maungatapu,2592,2181.0,471.0,30.0,27.0,6.0,2532.0,BayOfPlentyRegion,2001
+48,Tauranga Hospital,1812,1371.0,372.0,54.0,42.0,6.0,1695.0,BayOfPlentyRegion,2001
+49,Tauranga South,4251,3624.0,417.0,48.0,117.0,6.0,3951.0,BayOfPlentyRegion,2001
+50,Tauranga Central,1938,1629.0,132.0,15.0,42.0,3.0,1743.0,BayOfPlentyRegion,2001
+51,Sulphur Point,9,6.0,3.0,3.0,0.0,0.0,6.0,BayOfPlentyRegion,2001
+52,Welcome Bay,6504,5349.0,1284.0,93.0,174.0,12.0,6318.0,BayOfPlentyRegion,2001
+53,Te Puke West,2853,2079.0,786.0,66.0,87.0,3.0,2757.0,BayOfPlentyRegion,2001
+54,Te Puke East,3918,3024.0,786.0,114.0,153.0,0.0,3729.0,BayOfPlentyRegion,2001
+55,Ngongotaha North,2916,1989.0,1140.0,117.0,39.0,6.0,2766.0,BayOfPlentyRegion,2001
+56,Ngongotaha South,1092,819.0,342.0,33.0,21.0,0.0,1044.0,BayOfPlentyRegion,2001
+57,Poets Corner,258,192.0,90.0,6.0,6.0,3.0,252.0,BayOfPlentyRegion,2001
+58,Ngapuna,558,222.0,366.0,18.0,21.0,3.0,546.0,BayOfPlentyRegion,2001
+59,Owhata South,501,369.0,150.0,15.0,27.0,0.0,486.0,BayOfPlentyRegion,2001
+60,Lynmore,3015,2637.0,291.0,21.0,201.0,12.0,2955.0,BayOfPlentyRegion,2001
+61,Owhata West,3135,1833.0,1581.0,144.0,36.0,9.0,3018.0,BayOfPlentyRegion,2001
+62,Owhata East,2124,1401.0,843.0,87.0,36.0,12.0,2052.0,BayOfPlentyRegion,2001
+63,Hamurana,2178,1851.0,279.0,18.0,42.0,12.0,2040.0,BayOfPlentyRegion,2001
+64,Inland Water-Lake Rotorua,0,,,,,,,BayOfPlentyRegion,2001
+65,Tikitere,2817,1590.0,1119.0,57.0,24.0,6.0,2481.0,BayOfPlentyRegion,2001
+66,Kaingaroa Forest,549,168.0,438.0,21.0,9.0,0.0,522.0,BayOfPlentyRegion,2001
+67,Tarawera,1581,1386.0,183.0,15.0,12.0,0.0,1479.0,BayOfPlentyRegion,2001
+68,Waiwhero,618,507.0,108.0,9.0,9.0,6.0,585.0,BayOfPlentyRegion,2001
+69,Mamaku,693,516.0,210.0,21.0,12.0,0.0,636.0,BayOfPlentyRegion,2001
+70,Selwyn Heights,1197,696.0,603.0,69.0,27.0,6.0,1143.0,BayOfPlentyRegion,2001
+71,Western Heights,3627,1980.0,1647.0,231.0,78.0,6.0,3342.0,BayOfPlentyRegion,2001
+72,Fairy Springs,2031,1233.0,936.0,117.0,51.0,9.0,1917.0,BayOfPlentyRegion,2001
+73,Pukehangi North,2043,1053.0,1026.0,114.0,33.0,0.0,1797.0,BayOfPlentyRegion,2001
+74,Pukehangi South,2484,1884.0,636.0,69.0,102.0,12.0,2361.0,BayOfPlentyRegion,2001
+75,Mangakakahi,2358,1458.0,918.0,123.0,27.0,6.0,2109.0,BayOfPlentyRegion,2001
+76,Sunnybrook,1875,1566.0,384.0,39.0,66.0,0.0,1833.0,BayOfPlentyRegion,2001
+77,Fordlands,1998,489.0,1299.0,315.0,33.0,0.0,1827.0,BayOfPlentyRegion,2001
+78,Utuhina,1338,933.0,369.0,81.0,72.0,9.0,1269.0,BayOfPlentyRegion,2001
+79,Pomare,1467,1203.0,306.0,33.0,93.0,0.0,1452.0,BayOfPlentyRegion,2001
+80,Hillcrest,1575,1053.0,585.0,57.0,69.0,0.0,1515.0,BayOfPlentyRegion,2001
+81,Springfield,4293,3738.0,540.0,57.0,195.0,6.0,4179.0,BayOfPlentyRegion,2001
+82,Kawaha Point,1650,1146.0,426.0,81.0,57.0,6.0,1548.0,BayOfPlentyRegion,2001
+83,Koutu,2064,852.0,1113.0,111.0,45.0,3.0,1740.0,BayOfPlentyRegion,2001
+84,Ohinemutu,285,90.0,198.0,15.0,0.0,3.0,267.0,BayOfPlentyRegion,2001
+85,Kuirau,1146,609.0,459.0,42.0,72.0,6.0,1029.0,BayOfPlentyRegion,2001
+86,Victoria,1695,1035.0,591.0,84.0,90.0,9.0,1593.0,BayOfPlentyRegion,2001
+87,Glenholme East,2016,1695.0,249.0,36.0,153.0,3.0,1962.0,BayOfPlentyRegion,2001
+88,Glenholme West,2226,1473.0,849.0,120.0,93.0,3.0,2154.0,BayOfPlentyRegion,2001
+89,Fenton,1356,849.0,519.0,39.0,57.0,3.0,1287.0,BayOfPlentyRegion,2001
+90,Whaka,276,78.0,171.0,15.0,18.0,0.0,240.0,BayOfPlentyRegion,2001
+91,Rangitaiki,183,147.0,51.0,0.0,0.0,0.0,171.0,BayOfPlentyRegion,2001
+92,Ohope,2760,2511.0,366.0,21.0,24.0,9.0,2685.0,BayOfPlentyRegion,2001
+93,Matata,666,378.0,342.0,9.0,9.0,0.0,618.0,BayOfPlentyRegion,2001
+94,Taneatua Community,750,147.0,570.0,15.0,6.0,0.0,645.0,BayOfPlentyRegion,2001
+95,Edgecumbe Community,1668,1218.0,642.0,15.0,9.0,0.0,1623.0,BayOfPlentyRegion,2001
+96,Te Teko,630,132.0,549.0,27.0,0.0,0.0,609.0,BayOfPlentyRegion,2001
+97,Whakatane North,3141,2187.0,1008.0,96.0,87.0,12.0,3030.0,BayOfPlentyRegion,2001
+98,Coastlands,636,534.0,150.0,9.0,21.0,0.0,606.0,BayOfPlentyRegion,2001
+99,Whakatane West,3057,1926.0,1248.0,78.0,57.0,12.0,2922.0,BayOfPlentyRegion,2001
+100,Trident,3093,2076.0,1167.0,81.0,54.0,12.0,2967.0,BayOfPlentyRegion,2001
+101,Allandale-Mokorua,3822,3021.0,933.0,54.0,72.0,6.0,3702.0,BayOfPlentyRegion,2001
+102,Orini,585,159.0,459.0,27.0,3.0,0.0,561.0,BayOfPlentyRegion,2001
+103,Port Ohope,0,,,,,,,BayOfPlentyRegion,2001
+104,Maraetotara,96,81.0,18.0,0.0,0.0,0.0,87.0,BayOfPlentyRegion,2001
+105,Poroporo,588,285.0,360.0,6.0,3.0,0.0,570.0,BayOfPlentyRegion,2001
+106,Otakiri,3582,3060.0,747.0,30.0,30.0,6.0,3453.0,BayOfPlentyRegion,2001
+107,Rotoma,1713,912.0,855.0,15.0,3.0,0.0,1614.0,BayOfPlentyRegion,2001
+108,Matahina-Minginui,1584,780.0,819.0,27.0,12.0,0.0,1512.0,BayOfPlentyRegion,2001
+109,Waimana,654,285.0,402.0,6.0,0.0,0.0,600.0,BayOfPlentyRegion,2001
+110,Urewera,1824,804.0,918.0,51.0,9.0,0.0,1569.0,BayOfPlentyRegion,2001
+111,Kawerau,6975,3426.0,3915.0,249.0,84.0,12.0,6534.0,BayOfPlentyRegion,2001
+112,Murupara,1959,450.0,1650.0,75.0,3.0,0.0,1887.0,BayOfPlentyRegion,2001
+113,Opotiki,3999,1968.0,2349.0,117.0,45.0,6.0,3798.0,BayOfPlentyRegion,2001
+114,Te Kaha,372,114.0,294.0,9.0,0.0,0.0,366.0,BayOfPlentyRegion,2001
+115,Cape Runaway,1398,372.0,1074.0,18.0,3.0,0.0,1290.0,BayOfPlentyRegion,2001
+116,Oponae,354,165.0,192.0,0.0,0.0,0.0,327.0,BayOfPlentyRegion,2001
+117,Ohiwa Harbour,0,,,,,,,BayOfPlentyRegion,2001
+118,Waiotahi,3078,2229.0,1080.0,51.0,21.0,6.0,2940.0,BayOfPlentyRegion,2001
+119,Motiti Island,30,3.0,18.0,0.0,0.0,0.0,21.0,BayOfPlentyRegion,2001
+120,Mayor Island,6,,,,,,,BayOfPlentyRegion,2001
+121,Moutohora Island,0,,,,,,,BayOfPlentyRegion,2001
+122,Oceanic-Bay of Plenty Region,9,0.0,0.0,0.0,0.0,0.0,0.0,BayOfPlentyRegion,2001
+123,White Island,15,0.0,0.0,0.0,0.0,0.0,0.0,BayOfPlentyRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,CanterburyRegion,481431,430125.0,31635.0,8622.0,19428.0,2364.0,468570.0,NewZealand,2001
+2,Lake Tennyson,0,,,,,,,CanterburyRegion,2001
+3,Kaikoura Township,2103,1791.0,321.0,9.0,21.0,3.0,1977.0,CanterburyRegion,2001
+4,Kaikoura Rural,1377,1242.0,174.0,9.0,9.0,6.0,1332.0,CanterburyRegion,2001
+5,Hanmer Springs,660,579.0,36.0,3.0,0.0,3.0,600.0,CanterburyRegion,2001
+6,Amuri,1620,1539.0,108.0,9.0,6.0,0.0,1584.0,CanterburyRegion,2001
+7,Culverden,396,372.0,24.0,6.0,0.0,3.0,387.0,CanterburyRegion,2001
+8,Parnassus,900,858.0,42.0,3.0,3.0,0.0,876.0,CanterburyRegion,2001
+9,Cheviot,390,363.0,42.0,3.0,3.0,0.0,384.0,CanterburyRegion,2001
+10,Hurunui,2562,2415.0,126.0,3.0,9.0,3.0,2475.0,CanterburyRegion,2001
+11,Amberley,1014,966.0,39.0,3.0,6.0,3.0,990.0,CanterburyRegion,2001
+12,Leithfield,2340,2181.0,99.0,9.0,21.0,18.0,2256.0,CanterburyRegion,2001
+13,Sefton,501,477.0,18.0,0.0,0.0,3.0,486.0,CanterburyRegion,2001
+14,Okuku,408,393.0,18.0,0.0,3.0,0.0,402.0,CanterburyRegion,2001
+15,Loburn,1194,1146.0,30.0,3.0,12.0,9.0,1167.0,CanterburyRegion,2001
+16,Ashley,759,738.0,21.0,0.0,3.0,0.0,744.0,CanterburyRegion,2001
+17,Camside,210,180.0,33.0,0.0,3.0,0.0,201.0,CanterburyRegion,2001
+18,Pines-Kairaki Beach,672,615.0,96.0,6.0,3.0,0.0,657.0,CanterburyRegion,2001
+19,Waikuku,735,678.0,75.0,6.0,9.0,3.0,717.0,CanterburyRegion,2001
+20,Cust,399,363.0,39.0,0.0,3.0,0.0,393.0,CanterburyRegion,2001
+21,Mairaki,252,240.0,6.0,0.0,0.0,0.0,246.0,CanterburyRegion,2001
+22,Fernside,954,930.0,27.0,0.0,0.0,0.0,942.0,CanterburyRegion,2001
+23,Tuahiwi,1182,1035.0,183.0,6.0,15.0,0.0,1146.0,CanterburyRegion,2001
+24,Coldstream,615,582.0,54.0,3.0,3.0,0.0,600.0,CanterburyRegion,2001
+25,Woodend,2238,2121.0,138.0,12.0,12.0,0.0,2187.0,CanterburyRegion,2001
+26,Rangiora North,4704,4467.0,261.0,24.0,57.0,9.0,4608.0,CanterburyRegion,2001
+27,Rangiora West,3903,3762.0,192.0,30.0,21.0,9.0,3843.0,CanterburyRegion,2001
+28,Rangiora East,1539,1443.0,96.0,9.0,6.0,3.0,1506.0,CanterburyRegion,2001
+29,Southbrook,651,621.0,48.0,3.0,3.0,0.0,642.0,CanterburyRegion,2001
+30,Kaiapoi North,3522,3207.0,360.0,21.0,15.0,3.0,3423.0,CanterburyRegion,2001
+31,Kaiapoi South,4611,4251.0,378.0,24.0,42.0,3.0,4467.0,CanterburyRegion,2001
+32,Clarkville,804,747.0,18.0,3.0,18.0,0.0,771.0,CanterburyRegion,2001
+33,Kaiapoi West,1125,996.0,150.0,6.0,9.0,0.0,1080.0,CanterburyRegion,2001
+34,West Eyreton,1146,1110.0,30.0,3.0,12.0,3.0,1125.0,CanterburyRegion,2001
+35,Eyreton,2142,2085.0,57.0,18.0,15.0,0.0,2115.0,CanterburyRegion,2001
+36,Ashley Gorge,1053,999.0,39.0,9.0,12.0,3.0,1023.0,CanterburyRegion,2001
+37,Oxford,1581,1470.0,48.0,6.0,9.0,12.0,1503.0,CanterburyRegion,2001
+38,Darfield,1404,1320.0,81.0,3.0,15.0,0.0,1368.0,CanterburyRegion,2001
+39,Kirwee,2646,2535.0,81.0,3.0,27.0,6.0,2583.0,CanterburyRegion,2001
+40,Burnham Military Camp,1137,882.0,390.0,72.0,18.0,6.0,1119.0,CanterburyRegion,2001
+41,Malvern,2592,2442.0,123.0,6.0,33.0,6.0,2499.0,CanterburyRegion,2001
+42,Oaklands,5787,5364.0,285.0,45.0,240.0,6.0,5700.0,CanterburyRegion,2001
+43,Halswell South,2052,1947.0,72.0,0.0,54.0,0.0,2019.0,CanterburyRegion,2001
+44,Hornby North,3090,2658.0,360.0,123.0,114.0,12.0,2997.0,CanterburyRegion,2001
+45,Hornby South,4791,4173.0,546.0,114.0,156.0,12.0,4635.0,CanterburyRegion,2001
+46,Sockburn,5562,4395.0,285.0,192.0,720.0,60.0,5418.0,CanterburyRegion,2001
+47,Wigram,1665,1422.0,162.0,42.0,84.0,9.0,1608.0,CanterburyRegion,2001
+48,Yaldhurst,621,576.0,18.0,12.0,24.0,3.0,609.0,CanterburyRegion,2001
+49,Broomfield,2460,1971.0,279.0,138.0,213.0,6.0,2424.0,CanterburyRegion,2001
+50,Templeton,2616,2244.0,387.0,48.0,36.0,0.0,2532.0,CanterburyRegion,2001
+51,Islington,2190,1926.0,246.0,63.0,57.0,6.0,2139.0,CanterburyRegion,2001
+52,Prebbleton,1833,1758.0,54.0,3.0,15.0,3.0,1785.0,CanterburyRegion,2001
+53,Halswell West,372,357.0,15.0,0.0,6.0,3.0,366.0,CanterburyRegion,2001
+54,Halswell East,963,885.0,51.0,3.0,30.0,9.0,933.0,CanterburyRegion,2001
+55,Westmorland,1413,1245.0,18.0,3.0,156.0,3.0,1404.0,CanterburyRegion,2001
+56,Mcleans Island,243,216.0,6.0,0.0,18.0,0.0,234.0,CanterburyRegion,2001
+57,Kennedys Bush,372,357.0,3.0,0.0,6.0,3.0,360.0,CanterburyRegion,2001
+58,West Melton,4647,4395.0,174.0,18.0,66.0,6.0,4533.0,CanterburyRegion,2001
+59,Taitapu,417,399.0,9.0,0.0,0.0,3.0,408.0,CanterburyRegion,2001
+60,Redwood North,3504,3198.0,171.0,39.0,156.0,12.0,3429.0,CanterburyRegion,2001
+61,Redwood South,3045,2772.0,174.0,36.0,102.0,3.0,2982.0,CanterburyRegion,2001
+62,Styx Mill,2598,2280.0,168.0,75.0,156.0,6.0,2541.0,CanterburyRegion,2001
+63,Casebrook,2367,1932.0,219.0,135.0,147.0,21.0,2307.0,CanterburyRegion,2001
+64,Sawyers Arms,2955,2757.0,126.0,39.0,123.0,12.0,2919.0,CanterburyRegion,2001
+65,Kaimahi,4515,4026.0,312.0,72.0,216.0,21.0,4410.0,CanterburyRegion,2001
+66,Harewood,2757,2427.0,204.0,57.0,138.0,24.0,2691.0,CanterburyRegion,2001
+67,Bishopdale,2406,2082.0,147.0,21.0,177.0,30.0,2346.0,CanterburyRegion,2001
+68,Russley,2757,2319.0,108.0,30.0,291.0,21.0,2673.0,CanterburyRegion,2001
+69,Burnside,2313,1929.0,57.0,6.0,300.0,42.0,2277.0,CanterburyRegion,2001
+70,Wairarapa,1761,1401.0,87.0,30.0,234.0,24.0,1710.0,CanterburyRegion,2001
+71,Jellie Park,2322,1806.0,219.0,63.0,294.0,57.0,2265.0,CanterburyRegion,2001
+72,Bryndwr,2787,2583.0,48.0,18.0,159.0,9.0,2763.0,CanterburyRegion,2001
+73,Holmwood,2244,2112.0,30.0,3.0,87.0,12.0,2205.0,CanterburyRegion,2001
+74,Fendalton,2757,2385.0,54.0,18.0,291.0,27.0,2703.0,CanterburyRegion,2001
+75,Deans Bush,1620,1488.0,42.0,6.0,123.0,6.0,1608.0,CanterburyRegion,2001
+76,Hawthornden,3177,2415.0,42.0,12.0,690.0,36.0,3141.0,CanterburyRegion,2001
+77,Merrin,1512,1224.0,33.0,15.0,237.0,9.0,1485.0,CanterburyRegion,2001
+78,Westburn,2733,2289.0,66.0,15.0,360.0,30.0,2691.0,CanterburyRegion,2001
+79,Masham,2943,2484.0,105.0,24.0,339.0,39.0,2892.0,CanterburyRegion,2001
+80,Avonhead,3531,2853.0,81.0,18.0,564.0,51.0,3468.0,CanterburyRegion,2001
+81,Ilam,4014,3081.0,126.0,66.0,738.0,60.0,3945.0,CanterburyRegion,2001
+82,Upper Riccarton,2511,1905.0,105.0,45.0,453.0,33.0,2442.0,CanterburyRegion,2001
+83,Wharenui,2367,1770.0,105.0,102.0,432.0,18.0,2310.0,CanterburyRegion,2001
+84,Middleton,879,744.0,108.0,48.0,24.0,3.0,867.0,CanterburyRegion,2001
+85,Belfast,3723,3456.0,297.0,69.0,69.0,0.0,3654.0,CanterburyRegion,2001
+86,Marshland,5091,4593.0,255.0,60.0,243.0,21.0,4977.0,CanterburyRegion,2001
+87,Styx,3702,3420.0,243.0,45.0,84.0,3.0,3609.0,CanterburyRegion,2001
+88,Parklands,5931,5358.0,429.0,120.0,267.0,27.0,5850.0,CanterburyRegion,2001
+89,Riccarton West,4224,3348.0,189.0,93.0,630.0,66.0,4143.0,CanterburyRegion,2001
+90,Riccarton,3705,2832.0,177.0,57.0,549.0,138.0,3588.0,CanterburyRegion,2001
+91,Riccarton South,420,387.0,36.0,9.0,6.0,0.0,408.0,CanterburyRegion,2001
+92,Cashmere West,3102,2940.0,63.0,12.0,102.0,18.0,3060.0,CanterburyRegion,2001
+93,Cashmere East,3405,3180.0,90.0,12.0,129.0,6.0,3348.0,CanterburyRegion,2001
+94,Rapaki Track,1527,1398.0,57.0,18.0,51.0,12.0,1485.0,CanterburyRegion,2001
+95,Heathcote Valley,1770,1668.0,99.0,18.0,36.0,6.0,1740.0,CanterburyRegion,2001
+96,Cathedral Square,1044,735.0,54.0,15.0,192.0,12.0,957.0,CanterburyRegion,2001
+97,Hagley Park,1659,1377.0,57.0,9.0,165.0,12.0,1560.0,CanterburyRegion,2001
+98,Avon Loop,4563,3501.0,369.0,87.0,471.0,69.0,4227.0,CanterburyRegion,2001
+99,Northcote,2364,2016.0,186.0,78.0,165.0,0.0,2322.0,CanterburyRegion,2001
+100,Papanui,3432,3210.0,135.0,57.0,99.0,12.0,3369.0,CanterburyRegion,2001
+101,Aorangi,5298,4770.0,219.0,78.0,312.0,33.0,5193.0,CanterburyRegion,2001
+102,Strowan,4104,3822.0,150.0,27.0,150.0,24.0,4014.0,CanterburyRegion,2001
+103,Merivale,3036,2739.0,66.0,9.0,150.0,27.0,2925.0,CanterburyRegion,2001
+104,Rutland,5019,4698.0,219.0,42.0,123.0,21.0,4905.0,CanterburyRegion,2001
+105,St Albans West,2442,2118.0,114.0,21.0,144.0,21.0,2337.0,CanterburyRegion,2001
+106,St Albans East,4581,3936.0,351.0,60.0,258.0,45.0,4386.0,CanterburyRegion,2001
+107,Mairehau,2829,2550.0,159.0,54.0,87.0,24.0,2733.0,CanterburyRegion,2001
+108,Edgeware,3309,2847.0,258.0,66.0,150.0,30.0,3165.0,CanterburyRegion,2001
+109,Shirley West,3537,3000.0,345.0,171.0,120.0,30.0,3420.0,CanterburyRegion,2001
+110,Shirley East,3336,2874.0,312.0,129.0,141.0,27.0,3240.0,CanterburyRegion,2001
+111,Burwood,2763,2583.0,123.0,39.0,84.0,6.0,2727.0,CanterburyRegion,2001
+112,Dallington,3534,3234.0,255.0,84.0,111.0,9.0,3471.0,CanterburyRegion,2001
+113,Travis,2889,2601.0,135.0,36.0,156.0,15.0,2823.0,CanterburyRegion,2001
+114,Avondale,4374,3924.0,300.0,90.0,177.0,24.0,4308.0,CanterburyRegion,2001
+115,Chisnall,2871,2439.0,402.0,105.0,87.0,6.0,2778.0,CanterburyRegion,2001
+116,Aranui,4527,3228.0,864.0,597.0,99.0,12.0,4347.0,CanterburyRegion,2001
+117,North Richmond,2901,2574.0,243.0,69.0,78.0,12.0,2811.0,CanterburyRegion,2001
+118,South Richmond,2409,2034.0,234.0,45.0,63.0,36.0,2253.0,CanterburyRegion,2001
+119,Avonside,3192,2766.0,324.0,126.0,84.0,33.0,3087.0,CanterburyRegion,2001
+120,Linwood,4137,3240.0,465.0,114.0,264.0,117.0,3897.0,CanterburyRegion,2001
+121,Phillipstown,3156,2532.0,480.0,183.0,147.0,21.0,2970.0,CanterburyRegion,2001
+122,North Linwood,2388,2016.0,294.0,99.0,45.0,3.0,2259.0,CanterburyRegion,2001
+123,East Linwood,1791,1422.0,234.0,129.0,60.0,3.0,1698.0,CanterburyRegion,2001
+124,Bexley,3759,3261.0,462.0,252.0,84.0,9.0,3669.0,CanterburyRegion,2001
+125,Bromley,3042,2427.0,420.0,258.0,81.0,12.0,2931.0,CanterburyRegion,2001
+126,Woolston West,3249,2682.0,354.0,198.0,114.0,6.0,3081.0,CanterburyRegion,2001
+127,Ferrymead,2565,2118.0,231.0,210.0,99.0,9.0,2469.0,CanterburyRegion,2001
+128,Woolston South,2283,1884.0,291.0,66.0,81.0,9.0,2154.0,CanterburyRegion,2001
+129,Ensors,3372,2889.0,369.0,150.0,69.0,12.0,3207.0,CanterburyRegion,2001
+130,Opawa,3408,3135.0,234.0,30.0,60.0,12.0,3306.0,CanterburyRegion,2001
+131,St Martins,4284,4011.0,192.0,18.0,132.0,21.0,4215.0,CanterburyRegion,2001
+132,Waltham,927,753.0,129.0,30.0,54.0,3.0,894.0,CanterburyRegion,2001
+133,Sydenham,5169,4437.0,531.0,156.0,165.0,33.0,4968.0,CanterburyRegion,2001
+134,Addington,2712,2259.0,273.0,123.0,111.0,51.0,2595.0,CanterburyRegion,2001
+135,Barrington North,5211,4674.0,390.0,147.0,162.0,27.0,5094.0,CanterburyRegion,2001
+136,Barrington South,2925,2688.0,147.0,27.0,120.0,9.0,2871.0,CanterburyRegion,2001
+137,Spreydon,3369,2961.0,312.0,126.0,108.0,21.0,3264.0,CanterburyRegion,2001
+138,Hoon Hay,2868,2685.0,120.0,39.0,84.0,6.0,2832.0,CanterburyRegion,2001
+139,Hoon Hay South,1932,1806.0,54.0,6.0,78.0,3.0,1896.0,CanterburyRegion,2001
+140,Hillmorton,4527,3495.0,570.0,447.0,225.0,21.0,4416.0,CanterburyRegion,2001
+141,Somerfield,3321,3069.0,216.0,42.0,96.0,9.0,3261.0,CanterburyRegion,2001
+142,Beckenham,2343,2235.0,90.0,6.0,69.0,9.0,2301.0,CanterburyRegion,2001
+143,North Beach,4509,4065.0,432.0,105.0,75.0,6.0,4371.0,CanterburyRegion,2001
+144,Rawhiti,4494,4077.0,366.0,114.0,84.0,9.0,4371.0,CanterburyRegion,2001
+145,New Brighton,2502,2208.0,264.0,57.0,42.0,3.0,2385.0,CanterburyRegion,2001
+146,South Brighton,3768,3450.0,258.0,33.0,54.0,12.0,3588.0,CanterburyRegion,2001
+147,Mt Pleasant,3858,3696.0,84.0,12.0,54.0,6.0,3768.0,CanterburyRegion,2001
+148,Avon-Heathcote Estuary,0,,,,,,,CanterburyRegion,2001
+149,Moncks Bay,3360,3189.0,105.0,15.0,69.0,6.0,3285.0,CanterburyRegion,2001
+150,Sumner,3801,3570.0,135.0,24.0,60.0,9.0,3675.0,CanterburyRegion,2001
+151,Lyttelton,3045,2820.0,285.0,24.0,45.0,12.0,2961.0,CanterburyRegion,2001
+152,Diamond Harbour,1266,1170.0,60.0,6.0,12.0,3.0,1203.0,CanterburyRegion,2001
+153,Governors Bay,792,768.0,24.0,0.0,3.0,0.0,774.0,CanterburyRegion,2001
+154,Quail Island,0,,,,,,,CanterburyRegion,2001
+155,Port Levy,84,63.0,24.0,0.0,0.0,0.0,81.0,CanterburyRegion,2001
+156,Akaroa,576,525.0,39.0,3.0,3.0,0.0,537.0,CanterburyRegion,2001
+157,Okains Bay,1092,996.0,60.0,12.0,12.0,0.0,1041.0,CanterburyRegion,2001
+158,Little River,960,882.0,81.0,9.0,9.0,3.0,915.0,CanterburyRegion,2001
+159,Inland Water-Lake Ellesmere South,0,,,,,,,CanterburyRegion,2001
+160,Lincoln,2142,1740.0,81.0,42.0,246.0,27.0,2079.0,CanterburyRegion,2001
+161,Leeston,1200,1146.0,48.0,0.0,6.0,6.0,1176.0,CanterburyRegion,2001
+162,Southbridge,717,687.0,48.0,3.0,3.0,3.0,699.0,CanterburyRegion,2001
+163,Rolleston,1974,1785.0,189.0,42.0,51.0,21.0,1941.0,CanterburyRegion,2001
+164,Dunsandel,402,387.0,18.0,0.0,0.0,0.0,393.0,CanterburyRegion,2001
+165,Springston,3042,2874.0,126.0,24.0,30.0,3.0,2964.0,CanterburyRegion,2001
+166,Inland Water-Lake Ellesmere North,0,,,,,,,CanterburyRegion,2001
+167,Selwyn-Rakaia,3156,3000.0,150.0,15.0,21.0,6.0,3084.0,CanterburyRegion,2001
+168,Methven,1134,1065.0,69.0,6.0,27.0,3.0,1125.0,CanterburyRegion,2001
+169,Fairton,1182,1134.0,69.0,3.0,3.0,6.0,1170.0,CanterburyRegion,2001
+170,Plains Railway,393,384.0,0.0,0.0,3.0,0.0,387.0,CanterburyRegion,2001
+171,Mt Somers,2307,2238.0,69.0,9.0,6.0,3.0,2265.0,CanterburyRegion,2001
+172,Hinds,3351,3258.0,96.0,6.0,12.0,3.0,3294.0,CanterburyRegion,2001
+173,Chertsey,1923,1845.0,72.0,9.0,9.0,0.0,1881.0,CanterburyRegion,2001
+174,Rakaia,957,906.0,60.0,0.0,6.0,0.0,939.0,CanterburyRegion,2001
+175,Allenton,5172,4917.0,216.0,21.0,60.0,15.0,5118.0,CanterburyRegion,2001
+176,Central Ashburton West,1053,1002.0,72.0,6.0,0.0,0.0,1035.0,CanterburyRegion,2001
+177,Netherby,1458,1350.0,129.0,21.0,18.0,6.0,1434.0,CanterburyRegion,2001
+178,Central Ashburton East,1485,1407.0,81.0,6.0,6.0,0.0,1461.0,CanterburyRegion,2001
+179,Hampstead,2325,2205.0,120.0,21.0,18.0,3.0,2280.0,CanterburyRegion,2001
+180,Tinwald,2706,2589.0,129.0,12.0,18.0,0.0,2670.0,CanterburyRegion,2001
+181,Winchester,261,249.0,24.0,0.0,0.0,0.0,252.0,CanterburyRegion,2001
+182,Fairview-Scarborough,519,489.0,15.0,0.0,6.0,0.0,498.0,CanterburyRegion,2001
+183,Otipua Creek-Washdyke Flat,489,474.0,6.0,0.0,3.0,3.0,477.0,CanterburyRegion,2001
+184,Ben Mcleod,63,63.0,9.0,0.0,3.0,0.0,63.0,CanterburyRegion,2001
+185,Orari,3714,3531.0,168.0,9.0,21.0,6.0,3624.0,CanterburyRegion,2001
+186,Levels,3258,3168.0,93.0,9.0,27.0,3.0,3216.0,CanterburyRegion,2001
+187,Pareora,465,429.0,36.0,6.0,3.0,6.0,447.0,CanterburyRegion,2001
+188,Pleasant Point,1158,1134.0,63.0,0.0,3.0,0.0,1143.0,CanterburyRegion,2001
+189,Geraldine,2205,2133.0,96.0,15.0,18.0,0.0,2181.0,CanterburyRegion,2001
+190,Temuka,3996,3681.0,360.0,21.0,39.0,6.0,3903.0,CanterburyRegion,2001
+191,Washdyke,939,852.0,36.0,9.0,15.0,3.0,885.0,CanterburyRegion,2001
+192,Waimataitai,1245,1155.0,72.0,24.0,36.0,0.0,1224.0,CanterburyRegion,2001
+193,Marchwiel,3744,3480.0,288.0,24.0,54.0,6.0,3684.0,CanterburyRegion,2001
+194,Maori Park,1041,978.0,39.0,9.0,15.0,3.0,1014.0,CanterburyRegion,2001
+195,Highfield,3405,3279.0,129.0,18.0,42.0,6.0,3369.0,CanterburyRegion,2001
+196,Glenwood,1698,1617.0,84.0,0.0,36.0,6.0,1680.0,CanterburyRegion,2001
+197,Gleniti,2022,1950.0,42.0,6.0,30.0,6.0,1998.0,CanterburyRegion,2001
+198,Fraser Park,2790,2643.0,126.0,27.0,36.0,0.0,2733.0,CanterburyRegion,2001
+199,Seaview,2505,2220.0,189.0,30.0,63.0,3.0,2400.0,CanterburyRegion,2001
+200,Watlington,2259,2109.0,147.0,33.0,24.0,0.0,2199.0,CanterburyRegion,2001
+201,Parkside,2412,2262.0,168.0,30.0,18.0,3.0,2355.0,CanterburyRegion,2001
+202,Timaru Gardens,1614,1494.0,129.0,30.0,21.0,3.0,1578.0,CanterburyRegion,2001
+203,Redruth,63,60.0,3.0,0.0,0.0,0.0,63.0,CanterburyRegion,2001
+204,Twizel Community,1011,900.0,81.0,3.0,24.0,3.0,951.0,CanterburyRegion,2001
+205,Fairlie,723,693.0,36.0,3.0,18.0,0.0,714.0,CanterburyRegion,2001
+206,Mt Cook,234,171.0,18.0,3.0,27.0,3.0,210.0,CanterburyRegion,2001
+207,Lake Tekapo,303,231.0,15.0,0.0,45.0,0.0,285.0,CanterburyRegion,2001
+208,Inland Water-Lake Alexandrina,3,,,,,,,CanterburyRegion,2001
+209,Inland Water-Lake Tekapo,0,,,,,,,CanterburyRegion,2001
+210,Mackenzie,1440,1365.0,42.0,3.0,3.0,3.0,1383.0,CanterburyRegion,2001
+211,Waihao,4161,4008.0,183.0,27.0,9.0,3.0,4092.0,CanterburyRegion,2001
+212,St Andrews,183,174.0,6.0,3.0,0.0,0.0,174.0,CanterburyRegion,2001
+213,Waimate,2757,2643.0,129.0,12.0,15.0,3.0,2712.0,CanterburyRegion,2001
+214,Duntroon,120,117.0,9.0,3.0,0.0,0.0,120.0,CanterburyRegion,2001
+215,Kurow,387,372.0,27.0,3.0,6.0,0.0,384.0,CanterburyRegion,2001
+216,Omarama,279,255.0,12.0,0.0,0.0,0.0,264.0,CanterburyRegion,2001
+217,Otematata,243,228.0,12.0,0.0,0.0,0.0,234.0,CanterburyRegion,2001
+218,Aviemore,537,525.0,6.0,0.0,3.0,0.0,525.0,CanterburyRegion,2001
+219,Inland Water-Lake Ohai,0,,,,,,,CanterburyRegion,2001
+220,Oceanic-Canterbury Region North,0,,,,,,,CanterburyRegion,2001
+221,Inlet-Port Lyttelton,15,9.0,3.0,3.0,3.0,0.0,15.0,CanterburyRegion,2001
+222,Inlets-Banks Peninsula Bays,3,,,,,,,CanterburyRegion,2001
+223,Oceanic-Canterbury Region South,0,,,,,,,CanterburyRegion,2001
+224,Inlet-Port Timaru,99,42.0,15.0,3.0,45.0,0.0,96.0,CanterburyRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,GisborneRegion,43974,26466.0,19362.0,1140.0,621.0,75.0,41922.0,NewZealand,2001
+2,East Cape,2751,717.0,2199.0,45.0,18.0,3.0,2583.0,GisborneRegion,2001
+3,Ruatoria,840,147.0,735.0,9.0,0.0,3.0,795.0,GisborneRegion,2001
+4,Tokomaru Bay,459,177.0,354.0,18.0,9.0,0.0,450.0,GisborneRegion,2001
+5,Tarndale-Rakauroa,1695,1140.0,648.0,9.0,9.0,0.0,1638.0,GisborneRegion,2001
+6,Te Karaka,552,183.0,381.0,9.0,3.0,0.0,525.0,GisborneRegion,2001
+7,Patutahi,360,195.0,210.0,6.0,3.0,0.0,354.0,GisborneRegion,2001
+8,Makaraka,918,774.0,159.0,9.0,24.0,0.0,885.0,GisborneRegion,2001
+9,Matokitoki,393,372.0,45.0,0.0,0.0,0.0,384.0,GisborneRegion,2001
+10,Wainui,1410,1227.0,189.0,6.0,18.0,6.0,1332.0,GisborneRegion,2001
+11,Wharekaka,1950,1401.0,666.0,21.0,21.0,0.0,1866.0,GisborneRegion,2001
+12,Tiniroto,2142,1602.0,576.0,30.0,24.0,3.0,2028.0,GisborneRegion,2001
+13,Manutuke,636,318.0,360.0,18.0,12.0,0.0,606.0,GisborneRegion,2001
+14,Tolaga Bay,870,261.0,654.0,15.0,3.0,3.0,834.0,GisborneRegion,2001
+15,Mangapapa,4263,2886.0,1575.0,132.0,63.0,3.0,4107.0,GisborneRegion,2001
+16,Te Hapara,4293,2937.0,1449.0,132.0,81.0,12.0,4101.0,GisborneRegion,2001
+17,Gisborne Airport,2763,1344.0,1527.0,105.0,27.0,9.0,2601.0,GisborneRegion,2001
+18,Whataupoko,3654,3132.0,657.0,45.0,90.0,3.0,3561.0,GisborneRegion,2001
+19,Gisborne Central,3222,2199.0,1149.0,96.0,84.0,3.0,3063.0,GisborneRegion,2001
+20,Kaiti North,2064,1701.0,441.0,33.0,57.0,9.0,1989.0,GisborneRegion,2001
+21,Outer Kaiti,2427,807.0,1731.0,102.0,12.0,6.0,2235.0,GisborneRegion,2001
+22,Kaiti South,2736,1176.0,1599.0,153.0,33.0,3.0,2550.0,GisborneRegion,2001
+23,Tamarau,2337,810.0,1701.0,123.0,21.0,3.0,2217.0,GisborneRegion,2001
+24,Riverdale,1242,969.0,354.0,21.0,12.0,3.0,1212.0,GisborneRegion,2001
+25,Oceanic-Gisborne Region,0,,,,,,,GisborneRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,HawkesBayRegion,142950,110049.0,32085.0,4710.0,2937.0,312.0,137616.0,NewZealand,2001
+2,Taharua,84,54.0,24.0,0.0,0.0,0.0,69.0,HawkesBayRegion,2001
+3,Tuai,270,84.0,180.0,0.0,3.0,0.0,252.0,HawkesBayRegion,2001
+4,Frasertown,291,171.0,147.0,6.0,0.0,0.0,282.0,HawkesBayRegion,2001
+5,Ruakituri-Morere,750,471.0,273.0,3.0,0.0,0.0,672.0,HawkesBayRegion,2001
+6,Maungataniwha,324,198.0,138.0,3.0,0.0,0.0,309.0,HawkesBayRegion,2001
+7,Inland Water-Lake Waikaremoana,0,,,,,,,HawkesBayRegion,2001
+8,Raupunga,741,351.0,378.0,18.0,0.0,0.0,663.0,HawkesBayRegion,2001
+9,Whakaki,888,345.0,567.0,6.0,9.0,0.0,828.0,HawkesBayRegion,2001
+10,Nuhaka,330,114.0,228.0,12.0,3.0,0.0,315.0,HawkesBayRegion,2001
+11,Mahia,897,456.0,531.0,12.0,6.0,0.0,843.0,HawkesBayRegion,2001
+12,Wairoa,4428,2184.0,2493.0,69.0,54.0,3.0,4227.0,HawkesBayRegion,2001
+13,Bay View,1755,1464.0,291.0,18.0,63.0,3.0,1692.0,HawkesBayRegion,2001
+14,Poraiti,594,570.0,27.0,3.0,9.0,3.0,594.0,HawkesBayRegion,2001
+15,Meeanee,1164,1074.0,84.0,12.0,39.0,0.0,1146.0,HawkesBayRegion,2001
+16,Awatoto,300,255.0,42.0,3.0,6.0,3.0,291.0,HawkesBayRegion,2001
+17,Twyford,1098,1002.0,93.0,9.0,12.0,0.0,1056.0,HawkesBayRegion,2001
+18,Karamu,984,756.0,216.0,18.0,24.0,3.0,927.0,HawkesBayRegion,2001
+19,Whakatu,834,495.0,354.0,15.0,21.0,6.0,792.0,HawkesBayRegion,2001
+20,Clive,1350,1179.0,231.0,15.0,30.0,0.0,1317.0,HawkesBayRegion,2001
+21,Haumoana,2166,1836.0,312.0,18.0,18.0,9.0,2028.0,HawkesBayRegion,2001
+22,Brookvale,519,498.0,18.0,3.0,6.0,6.0,510.0,HawkesBayRegion,2001
+23,Irongate,465,420.0,18.0,24.0,3.0,0.0,441.0,HawkesBayRegion,2001
+24,Longlands South,873,804.0,57.0,9.0,9.0,3.0,849.0,HawkesBayRegion,2001
+25,Tangoio,618,522.0,84.0,3.0,12.0,3.0,582.0,HawkesBayRegion,2001
+26,Eskdale,573,510.0,60.0,6.0,3.0,0.0,543.0,HawkesBayRegion,2001
+27,Sherenden-Puketapu,2226,2040.0,219.0,21.0,21.0,0.0,2187.0,HawkesBayRegion,2001
+28,Omahu,420,138.0,306.0,15.0,3.0,0.0,399.0,HawkesBayRegion,2001
+29,Waiohiki,303,237.0,99.0,0.0,6.0,0.0,303.0,HawkesBayRegion,2001
+30,Pakowhai,615,471.0,129.0,15.0,6.0,3.0,585.0,HawkesBayRegion,2001
+31,Maraekakaho,1083,996.0,84.0,6.0,6.0,3.0,1044.0,HawkesBayRegion,2001
+32,Bridge Pa,1068,537.0,504.0,48.0,9.0,0.0,1014.0,HawkesBayRegion,2001
+33,Poukawa,1281,1035.0,249.0,15.0,9.0,0.0,1227.0,HawkesBayRegion,2001
+34,Pakipaki,774,564.0,207.0,24.0,0.0,0.0,741.0,HawkesBayRegion,2001
+35,Waimarama,849,726.0,147.0,3.0,3.0,0.0,816.0,HawkesBayRegion,2001
+36,Tutira,708,558.0,198.0,9.0,0.0,0.0,678.0,HawkesBayRegion,2001
+37,Puketitiri,357,333.0,33.0,0.0,3.0,0.0,354.0,HawkesBayRegion,2001
+38,Whanawhana,285,276.0,27.0,3.0,0.0,0.0,282.0,HawkesBayRegion,2001
+39,Westshore,1101,1002.0,108.0,9.0,21.0,0.0,1071.0,HawkesBayRegion,2001
+40,Ahuriri,744,627.0,117.0,9.0,12.0,0.0,711.0,HawkesBayRegion,2001
+41,Onekawa Central,1254,1101.0,135.0,15.0,36.0,3.0,1212.0,HawkesBayRegion,2001
+42,Onekawa West,126,69.0,42.0,3.0,3.0,0.0,108.0,HawkesBayRegion,2001
+43,Onekawa South,4191,2835.0,1233.0,192.0,75.0,3.0,3927.0,HawkesBayRegion,2001
+44,Marewa,4416,3552.0,1005.0,117.0,78.0,12.0,4323.0,HawkesBayRegion,2001
+45,Maraenui,3468,1656.0,1797.0,306.0,69.0,3.0,3270.0,HawkesBayRegion,2001
+46,Hospital Hill,2871,2598.0,252.0,36.0,33.0,6.0,2769.0,HawkesBayRegion,2001
+47,Bluff Hill,2721,2472.0,243.0,27.0,63.0,12.0,2646.0,HawkesBayRegion,2001
+48,Nelson Park,2379,2052.0,375.0,39.0,51.0,9.0,2325.0,HawkesBayRegion,2001
+49,Mclean Park,2361,2043.0,423.0,63.0,51.0,6.0,2319.0,HawkesBayRegion,2001
+50,Tamatea North,2580,2148.0,552.0,60.0,51.0,12.0,2538.0,HawkesBayRegion,2001
+51,Tamatea South,2700,2250.0,444.0,27.0,105.0,12.0,2640.0,HawkesBayRegion,2001
+52,Greenmeadows,5823,5238.0,540.0,54.0,177.0,6.0,5703.0,HawkesBayRegion,2001
+53,Taradale North,5028,4644.0,357.0,36.0,123.0,18.0,4968.0,HawkesBayRegion,2001
+54,Taradale South,4794,4197.0,468.0,36.0,180.0,6.0,4671.0,HawkesBayRegion,2001
+55,Pirimai,3291,2769.0,570.0,84.0,69.0,3.0,3198.0,HawkesBayRegion,2001
+56,Mahora,3546,2730.0,705.0,165.0,111.0,12.0,3387.0,HawkesBayRegion,2001
+57,St Leonards,2763,2085.0,558.0,96.0,108.0,15.0,2610.0,HawkesBayRegion,2001
+58,Frimley,1410,1182.0,153.0,24.0,63.0,3.0,1341.0,HawkesBayRegion,2001
+59,Raureka,4173,2955.0,1002.0,252.0,114.0,9.0,3927.0,HawkesBayRegion,2001
+60,Mayfair,4032,2976.0,1047.0,138.0,111.0,12.0,3843.0,HawkesBayRegion,2001
+61,Parkvale,3012,2556.0,450.0,72.0,90.0,6.0,2931.0,HawkesBayRegion,2001
+62,Hastings Central,2946,2289.0,468.0,102.0,120.0,30.0,2760.0,HawkesBayRegion,2001
+63,Akina,4311,3309.0,1014.0,123.0,180.0,12.0,4176.0,HawkesBayRegion,2001
+64,Woolwich,45,45.0,3.0,0.0,0.0,0.0,45.0,HawkesBayRegion,2001
+65,Camberley,1965,825.0,741.0,312.0,36.0,3.0,1689.0,HawkesBayRegion,2001
+66,Kingsley-Chatham,2967,1002.0,1605.0,507.0,39.0,3.0,2697.0,HawkesBayRegion,2001
+67,Lochain,2769,1212.0,1464.0,405.0,33.0,0.0,2676.0,HawkesBayRegion,2001
+68,Flaxmere East,3864,1773.0,1788.0,591.0,39.0,0.0,3666.0,HawkesBayRegion,2001
+69,Anderson Park,1497,1071.0,378.0,87.0,72.0,6.0,1443.0,HawkesBayRegion,2001
+70,Iona,3051,2886.0,174.0,18.0,33.0,9.0,3009.0,HawkesBayRegion,2001
+71,Te Mata,5628,5358.0,183.0,33.0,114.0,15.0,5541.0,HawkesBayRegion,2001
+72,Takapau,582,429.0,219.0,18.0,3.0,0.0,567.0,HawkesBayRegion,2001
+73,Waipawa,1872,1533.0,438.0,45.0,12.0,0.0,1842.0,HawkesBayRegion,2001
+74,Tikokino,2715,2445.0,375.0,27.0,15.0,0.0,2664.0,HawkesBayRegion,2001
+75,Otane,543,375.0,222.0,9.0,9.0,0.0,540.0,HawkesBayRegion,2001
+76,Waipukurau,3909,3213.0,921.0,84.0,33.0,6.0,3843.0,HawkesBayRegion,2001
+77,Porangahau,255,123.0,150.0,9.0,0.0,0.0,249.0,HawkesBayRegion,2001
+78,Elsthorpe-Flemington,2949,2691.0,339.0,30.0,3.0,6.0,2889.0,HawkesBayRegion,2001
+79,Ngamatea,30,27.0,0.0,0.0,0.0,0.0,27.0,HawkesBayRegion,2001
+80,Inlet-Port Napier,3,,,,,,,HawkesBayRegion,2001
+81,Oceanic-Hawke's Bay Region,0,,,,,,,HawkesBayRegion,2001
+82,Bare Island,0,,,,,,,HawkesBayRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,Manawatu-WanganuiRegion,220089,180921.0,39267.0,5031.0,6564.0,822.0,212487.0,NewZealand,2001
+2,Tiroa,72,39.0,33.0,0.0,0.0,0.0,66.0,Manawatu-WanganuiRegion,2001
+3,Owhango,204,156.0,72.0,0.0,0.0,0.0,198.0,Manawatu-WanganuiRegion,2001
+4,Ohura,219,147.0,75.0,9.0,3.0,0.0,210.0,Manawatu-WanganuiRegion,2001
+5,Ngapuke,1611,1239.0,447.0,30.0,15.0,0.0,1548.0,Manawatu-WanganuiRegion,2001
+6,Raurimu,588,480.0,87.0,9.0,9.0,6.0,534.0,Manawatu-WanganuiRegion,2001
+7,National Park,234,153.0,93.0,0.0,0.0,0.0,216.0,Manawatu-WanganuiRegion,2001
+8,Otangiwai-Heao,1074,828.0,306.0,6.0,6.0,3.0,1032.0,Manawatu-WanganuiRegion,2001
+9,Tarrangower,1344,840.0,585.0,33.0,33.0,6.0,1302.0,Manawatu-WanganuiRegion,2001
+10,Taumarunui Central,2640,1647.0,1221.0,45.0,60.0,3.0,2556.0,Manawatu-WanganuiRegion,2001
+11,Sunshine-Hospital Hill,564,384.0,231.0,21.0,6.0,0.0,546.0,Manawatu-WanganuiRegion,2001
+12,Manunui,588,402.0,240.0,3.0,0.0,6.0,567.0,Manawatu-WanganuiRegion,2001
+13,Te More,0,,,,,,,Manawatu-WanganuiRegion,2001
+14,Norsewood-Herbertville,3375,2991.0,441.0,15.0,21.0,12.0,3285.0,Manawatu-WanganuiRegion,2001
+15,Owahanga,591,510.0,114.0,0.0,3.0,3.0,570.0,Manawatu-WanganuiRegion,2001
+16,Dannevirke West,2187,1800.0,429.0,45.0,36.0,0.0,2145.0,Manawatu-WanganuiRegion,2001
+17,Dannevirke East,3159,2481.0,843.0,45.0,51.0,0.0,3102.0,Manawatu-WanganuiRegion,2001
+18,Papatawa,1092,996.0,126.0,6.0,6.0,0.0,1068.0,Manawatu-WanganuiRegion,2001
+19,Woodville,1476,1191.0,366.0,36.0,15.0,0.0,1431.0,Manawatu-WanganuiRegion,2001
+20,Whangamomona,171,159.0,33.0,0.0,0.0,0.0,171.0,Manawatu-WanganuiRegion,2001
+21,Tangiwai,1218,888.0,327.0,9.0,30.0,3.0,1110.0,Manawatu-WanganuiRegion,2001
+22,Ohakune,1293,882.0,444.0,12.0,57.0,9.0,1218.0,Manawatu-WanganuiRegion,2001
+23,Raetihi,1068,609.0,573.0,9.0,9.0,0.0,1011.0,Manawatu-WanganuiRegion,2001
+24,Otamatea,999,927.0,39.0,3.0,18.0,9.0,969.0,Manawatu-WanganuiRegion,2001
+25,Blueskin,1473,1374.0,87.0,9.0,6.0,12.0,1419.0,Manawatu-WanganuiRegion,2001
+26,Maxwell,1455,1296.0,141.0,6.0,9.0,6.0,1371.0,Manawatu-WanganuiRegion,2001
+27,Castlecliff North,2322,1587.0,804.0,60.0,9.0,0.0,2181.0,Manawatu-WanganuiRegion,2001
+28,Castlecliff South,1359,819.0,543.0,27.0,18.0,3.0,1233.0,Manawatu-WanganuiRegion,2001
+29,Mosston,1191,735.0,483.0,54.0,18.0,12.0,1107.0,Manawatu-WanganuiRegion,2001
+30,Balgownie,300,135.0,144.0,33.0,3.0,0.0,282.0,Manawatu-WanganuiRegion,2001
+31,Tawhero,1713,1437.0,279.0,33.0,36.0,9.0,1659.0,Manawatu-WanganuiRegion,2001
+32,Gonville South,3093,2646.0,552.0,57.0,60.0,6.0,3006.0,Manawatu-WanganuiRegion,2001
+33,Gonville East,1251,1056.0,237.0,30.0,15.0,3.0,1227.0,Manawatu-WanganuiRegion,2001
+34,Gonville West,1692,1101.0,561.0,99.0,15.0,3.0,1566.0,Manawatu-WanganuiRegion,2001
+35,Springvale West,1329,1158.0,138.0,18.0,60.0,0.0,1290.0,Manawatu-WanganuiRegion,2001
+36,Springvale East,1794,1680.0,102.0,12.0,30.0,6.0,1746.0,Manawatu-WanganuiRegion,2001
+37,Wanganui Collegiate,1167,996.0,159.0,33.0,30.0,3.0,1137.0,Manawatu-WanganuiRegion,2001
+38,Laird Park,2325,1800.0,543.0,69.0,69.0,3.0,2229.0,Manawatu-WanganuiRegion,2001
+39,Wanganui Central,1470,1200.0,225.0,27.0,84.0,3.0,1419.0,Manawatu-WanganuiRegion,2001
+40,Spriggens Park,363,291.0,60.0,6.0,6.0,6.0,339.0,Manawatu-WanganuiRegion,2001
+41,Cooks Gardens,432,333.0,81.0,15.0,18.0,6.0,408.0,Manawatu-WanganuiRegion,2001
+42,St Johns Hill,2202,2079.0,123.0,6.0,45.0,12.0,2169.0,Manawatu-WanganuiRegion,2001
+43,Lower Aramoho,1755,1299.0,459.0,63.0,15.0,0.0,1665.0,Manawatu-WanganuiRegion,2001
+44,Upper Aramoho,2136,1722.0,483.0,78.0,30.0,3.0,2058.0,Manawatu-WanganuiRegion,2001
+45,Williams Domain,2124,1767.0,450.0,27.0,21.0,0.0,2082.0,Manawatu-WanganuiRegion,2001
+46,Wembley Park,1689,1185.0,654.0,39.0,15.0,6.0,1641.0,Manawatu-WanganuiRegion,2001
+47,Kowhai Park,2193,1920.0,288.0,18.0,30.0,6.0,2115.0,Manawatu-WanganuiRegion,2001
+48,Bastia Hill,708,654.0,63.0,3.0,3.0,0.0,693.0,Manawatu-WanganuiRegion,2001
+49,Durie Hill,1440,1308.0,138.0,18.0,30.0,0.0,1401.0,Manawatu-WanganuiRegion,2001
+50,Putiki,348,222.0,162.0,6.0,3.0,0.0,342.0,Manawatu-WanganuiRegion,2001
+51,Marybank-Gordon Park,549,507.0,45.0,0.0,6.0,0.0,531.0,Manawatu-WanganuiRegion,2001
+52,Fordell-Kakatahi,2391,1725.0,549.0,75.0,15.0,3.0,2184.0,Manawatu-WanganuiRegion,2001
+53,Waiouru,1647,1146.0,711.0,69.0,63.0,3.0,1611.0,Manawatu-WanganuiRegion,2001
+54,Mangaweka,183,159.0,39.0,9.0,0.0,3.0,174.0,Manawatu-WanganuiRegion,2001
+55,Hunterville,507,405.0,123.0,15.0,0.0,0.0,498.0,Manawatu-WanganuiRegion,2001
+56,Ratana Community,426,33.0,405.0,9.0,0.0,0.0,420.0,Manawatu-WanganuiRegion,2001
+57,Bulls,1755,1428.0,327.0,21.0,15.0,0.0,1638.0,Manawatu-WanganuiRegion,2001
+58,Moawhango,681,561.0,165.0,9.0,0.0,0.0,660.0,Manawatu-WanganuiRegion,2001
+59,Pohonui-Porewa,2157,1902.0,282.0,18.0,12.0,3.0,2085.0,Manawatu-WanganuiRegion,2001
+60,Lake Alice,2691,2424.0,333.0,21.0,3.0,3.0,2592.0,Manawatu-WanganuiRegion,2001
+61,Koitiata,114,96.0,18.0,0.0,0.0,0.0,108.0,Manawatu-WanganuiRegion,2001
+62,Taihape,1806,1314.0,651.0,21.0,33.0,0.0,1761.0,Manawatu-WanganuiRegion,2001
+63,Marton,4752,3834.0,1110.0,72.0,48.0,15.0,4593.0,Manawatu-WanganuiRegion,2001
+64,Kiwitea,1413,1281.0,147.0,9.0,9.0,0.0,1350.0,Manawatu-WanganuiRegion,2001
+65,Pohangina,1044,984.0,66.0,3.0,6.0,0.0,1011.0,Manawatu-WanganuiRegion,2001
+66,Ashhurst,2523,2256.0,294.0,27.0,27.0,9.0,2430.0,Manawatu-WanganuiRegion,2001
+67,Stoney Creek,543,489.0,51.0,3.0,0.0,3.0,516.0,Manawatu-WanganuiRegion,2001
+68,Whakarongo,909,789.0,48.0,3.0,81.0,3.0,888.0,Manawatu-WanganuiRegion,2001
+69,Oroua Bridge,171,162.0,18.0,3.0,0.0,0.0,165.0,Manawatu-WanganuiRegion,2001
+70,Maewa,474,435.0,39.0,0.0,3.0,0.0,453.0,Manawatu-WanganuiRegion,2001
+71,Halcombe,435,390.0,69.0,3.0,0.0,0.0,429.0,Manawatu-WanganuiRegion,2001
+72,Tokorangi-Hiwinui,2163,1938.0,159.0,15.0,21.0,3.0,2037.0,Manawatu-WanganuiRegion,2001
+73,Feilding North,3711,3111.0,738.0,75.0,54.0,9.0,3609.0,Manawatu-WanganuiRegion,2001
+74,Feilding West,3447,3111.0,405.0,42.0,42.0,9.0,3381.0,Manawatu-WanganuiRegion,2001
+75,Feilding Central,2721,2418.0,441.0,69.0,36.0,6.0,2661.0,Manawatu-WanganuiRegion,2001
+76,Feilding East,2829,2550.0,363.0,45.0,39.0,3.0,2775.0,Manawatu-WanganuiRegion,2001
+77,Sanson,495,423.0,90.0,6.0,6.0,0.0,471.0,Manawatu-WanganuiRegion,2001
+78,Rongotea,615,570.0,45.0,3.0,0.0,6.0,591.0,Manawatu-WanganuiRegion,2001
+79,Tangimoana,276,222.0,39.0,6.0,0.0,0.0,237.0,Manawatu-WanganuiRegion,2001
+80,Himatangi Beach,525,456.0,78.0,3.0,0.0,0.0,492.0,Manawatu-WanganuiRegion,2001
+81,Foxton Beach,1893,1653.0,315.0,36.0,15.0,0.0,1836.0,Manawatu-WanganuiRegion,2001
+82,Rakiraki,291,270.0,33.0,12.0,3.0,3.0,285.0,Manawatu-WanganuiRegion,2001
+83,Ohakea,315,291.0,27.0,6.0,9.0,0.0,309.0,Manawatu-WanganuiRegion,2001
+84,Oroua Downs-Waitohi,2973,2739.0,267.0,12.0,6.0,0.0,2859.0,Manawatu-WanganuiRegion,2001
+85,Moutoa,834,726.0,78.0,9.0,9.0,3.0,777.0,Manawatu-WanganuiRegion,2001
+86,Foxton,2724,2115.0,801.0,48.0,45.0,3.0,2610.0,Manawatu-WanganuiRegion,2001
+87,Kairanga,678,609.0,60.0,6.0,9.0,0.0,639.0,Manawatu-WanganuiRegion,2001
+88,Longburn,618,504.0,99.0,39.0,12.0,6.0,579.0,Manawatu-WanganuiRegion,2001
+89,Massey University,597,384.0,33.0,42.0,129.0,9.0,573.0,Manawatu-WanganuiRegion,2001
+90,Linton Military Camp,1512,1044.0,657.0,60.0,24.0,0.0,1455.0,Manawatu-WanganuiRegion,2001
+91,Kauwhata,1779,1629.0,138.0,9.0,3.0,0.0,1707.0,Manawatu-WanganuiRegion,2001
+92,Turitea,1194,1080.0,111.0,3.0,24.0,6.0,1143.0,Manawatu-WanganuiRegion,2001
+93,Milson,5208,4476.0,687.0,90.0,258.0,48.0,5070.0,Manawatu-WanganuiRegion,2001
+94,Kelvin Grove,3240,2703.0,540.0,102.0,132.0,18.0,3177.0,Manawatu-WanganuiRegion,2001
+95,Takaro,5337,4482.0,738.0,171.0,249.0,27.0,5151.0,Manawatu-WanganuiRegion,2001
+96,Cloverlea,2124,1761.0,351.0,39.0,57.0,21.0,2001.0,Manawatu-WanganuiRegion,2001
+97,Palmerston North Hospital,2739,2382.0,312.0,75.0,147.0,6.0,2667.0,Manawatu-WanganuiRegion,2001
+98,Papaeoia,2637,2211.0,249.0,39.0,189.0,24.0,2541.0,Manawatu-WanganuiRegion,2001
+99,Roslyn,5298,4284.0,903.0,222.0,237.0,48.0,5115.0,Manawatu-WanganuiRegion,2001
+100,Terrace End,2937,2607.0,276.0,72.0,72.0,12.0,2853.0,Manawatu-WanganuiRegion,2001
+101,Highbury,3240,2004.0,903.0,315.0,159.0,15.0,2985.0,Manawatu-WanganuiRegion,2001
+102,Westbrook,4257,3261.0,747.0,234.0,198.0,21.0,4065.0,Manawatu-WanganuiRegion,2001
+103,Palmerston North Central,2865,2232.0,399.0,111.0,237.0,27.0,2724.0,Manawatu-WanganuiRegion,2001
+104,Awapuni North,3405,2694.0,603.0,168.0,246.0,39.0,3348.0,Manawatu-WanganuiRegion,2001
+105,Awapuni West,1377,1173.0,111.0,27.0,102.0,12.0,1362.0,Manawatu-WanganuiRegion,2001
+106,Awapuni South,3306,2820.0,282.0,72.0,306.0,30.0,3264.0,Manawatu-WanganuiRegion,2001
+107,West End,4383,3624.0,444.0,111.0,300.0,60.0,4230.0,Manawatu-WanganuiRegion,2001
+108,Hokowhitu West,4233,3636.0,255.0,63.0,324.0,15.0,4074.0,Manawatu-WanganuiRegion,2001
+109,Hokowhitu Lagoon,1578,1425.0,66.0,15.0,114.0,6.0,1557.0,Manawatu-WanganuiRegion,2001
+110,Hokowhitu East,4887,4194.0,318.0,78.0,399.0,45.0,4782.0,Manawatu-WanganuiRegion,2001
+111,Aokautere,2244,1803.0,105.0,36.0,327.0,21.0,2187.0,Manawatu-WanganuiRegion,2001
+112,Shannon,1407,1011.0,552.0,18.0,12.0,3.0,1368.0,Manawatu-WanganuiRegion,2001
+113,Waitarere,582,504.0,81.0,6.0,0.0,3.0,540.0,Manawatu-WanganuiRegion,2001
+114,Tokomaru,549,453.0,141.0,12.0,9.0,0.0,534.0,Manawatu-WanganuiRegion,2001
+115,Opiki,489,462.0,27.0,12.0,3.0,0.0,480.0,Manawatu-WanganuiRegion,2001
+116,Lake Horowhenua,726,543.0,237.0,9.0,3.0,0.0,708.0,Manawatu-WanganuiRegion,2001
+117,Waiopehu,1590,1413.0,171.0,18.0,51.0,6.0,1569.0,Manawatu-WanganuiRegion,2001
+118,Kohitere,642,549.0,54.0,3.0,60.0,3.0,627.0,Manawatu-WanganuiRegion,2001
+119,Mangaore-Manakau,2877,2535.0,435.0,27.0,42.0,3.0,2787.0,Manawatu-WanganuiRegion,2001
+120,Levin North,3330,2955.0,432.0,69.0,84.0,6.0,3264.0,Manawatu-WanganuiRegion,2001
+121,Levin West,2706,1992.0,651.0,216.0,51.0,0.0,2616.0,Manawatu-WanganuiRegion,2001
+122,Playford Park,3192,2607.0,597.0,147.0,87.0,3.0,3138.0,Manawatu-WanganuiRegion,2001
+123,Levin South,1971,1290.0,699.0,174.0,24.0,9.0,1911.0,Manawatu-WanganuiRegion,2001
+124,Levin East,4305,3744.0,531.0,117.0,159.0,9.0,4233.0,Manawatu-WanganuiRegion,2001
+125,Mangatainoka,1617,1518.0,177.0,12.0,3.0,0.0,1581.0,Manawatu-WanganuiRegion,2001
+126,Pahiatua,2610,2301.0,438.0,30.0,30.0,3.0,2553.0,Manawatu-WanganuiRegion,2001
+127,Eketahuna,579,507.0,102.0,3.0,6.0,3.0,546.0,Manawatu-WanganuiRegion,2001
+128,Nireaha-Tiraumea,1161,1065.0,117.0,3.0,3.0,0.0,1125.0,Manawatu-WanganuiRegion,2001
+129,Oceanic-Tararua Constituency,0,,,,,,,Manawatu-WanganuiRegion,2001
+130,Oceanic-Manawatu-Wanganui Region,0,,,,,,,Manawatu-WanganuiRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,MarlboroughRegion,39561,36141.0,3894.0,405.0,387.0,72.0,38355.0,NewZealand,2001
+2,Havelock,471,441.0,54.0,0.0,3.0,0.0,462.0,MarlboroughRegion,2001
+3,Renwick,1788,1719.0,108.0,9.0,6.0,0.0,1776.0,MarlboroughRegion,2001
+4,Woodbourne,672,630.0,66.0,15.0,12.0,3.0,666.0,MarlboroughRegion,2001
+5,Omaka,1479,1410.0,84.0,6.0,27.0,0.0,1455.0,MarlboroughRegion,2001
+6,Spring Creek-Riverlands,1416,1293.0,162.0,3.0,15.0,6.0,1377.0,MarlboroughRegion,2001
+7,Waikawa,987,825.0,189.0,3.0,18.0,6.0,951.0,MarlboroughRegion,2001
+8,Wairau,3897,3654.0,264.0,18.0,15.0,6.0,3780.0,MarlboroughRegion,2001
+9,Marlborough Sounds Coastal Marine,69,36.0,6.0,0.0,0.0,0.0,42.0,MarlboroughRegion,2001
+10,Marlborough Sounds Terrestrial,3195,2847.0,243.0,21.0,15.0,0.0,2988.0,MarlboroughRegion,2001
+11,Severn,6,3.0,0.0,0.0,0.0,0.0,6.0,MarlboroughRegion,2001
+12,Ward,897,855.0,51.0,3.0,6.0,0.0,870.0,MarlboroughRegion,2001
+13,Seddon,477,447.0,48.0,3.0,3.0,3.0,465.0,MarlboroughRegion,2001
+14,Picton,3000,2538.0,495.0,36.0,24.0,6.0,2841.0,MarlboroughRegion,2001
+15,Springlands,3081,2919.0,207.0,33.0,27.0,3.0,3033.0,MarlboroughRegion,2001
+16,Mayfield,2619,2235.0,468.0,63.0,36.0,3.0,2526.0,MarlboroughRegion,2001
+17,Blenheim Central,2616,2322.0,300.0,39.0,36.0,12.0,2514.0,MarlboroughRegion,2001
+18,Whitney,4002,3633.0,429.0,63.0,78.0,3.0,3891.0,MarlboroughRegion,2001
+19,Redwoodtown,4878,4524.0,480.0,63.0,42.0,12.0,4776.0,MarlboroughRegion,2001
+20,Witherlea,3996,3807.0,240.0,27.0,36.0,9.0,3936.0,MarlboroughRegion,2001
+21,Oceanic-Marlborough Region,6,,,,,,,MarlboroughRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,NelsonRegion,41568,37611.0,3219.0,591.0,861.0,96.0,40206.0,NewZealand,2001
+2,Glenduan,423,399.0,15.0,0.0,6.0,0.0,405.0,NelsonRegion,2001
+3,Ngawhatu,972,918.0,39.0,3.0,9.0,3.0,957.0,NelsonRegion,2001
+4,Saxton Island,3,,,,,,,NelsonRegion,2001
+5,Waimea Inlet East,0,,,,,,,NelsonRegion,2001
+6,Saxton,1350,1230.0,60.0,6.0,42.0,0.0,1305.0,NelsonRegion,2001
+7,Whangamoa,675,636.0,39.0,0.0,6.0,3.0,651.0,NelsonRegion,2001
+8,Clifton,1098,1059.0,39.0,12.0,6.0,3.0,1074.0,NelsonRegion,2001
+9,Atawhai,2154,1989.0,123.0,15.0,21.0,6.0,2079.0,NelsonRegion,2001
+10,Port Nelson,90,60.0,15.0,0.0,0.0,0.0,72.0,NelsonRegion,2001
+11,The Wood,2730,2484.0,192.0,30.0,63.0,9.0,2640.0,NelsonRegion,2001
+12,Britannia Heights,4161,3588.0,495.0,78.0,75.0,15.0,3951.0,NelsonRegion,2001
+13,Trafalgar,423,348.0,30.0,12.0,39.0,0.0,402.0,NelsonRegion,2001
+14,Maitai,603,516.0,69.0,18.0,18.0,3.0,594.0,NelsonRegion,2001
+15,Kirks,813,687.0,66.0,15.0,21.0,3.0,753.0,NelsonRegion,2001
+16,Bronte,1815,1689.0,72.0,30.0,57.0,6.0,1776.0,NelsonRegion,2001
+17,Atmore,1278,1185.0,60.0,6.0,33.0,6.0,1248.0,NelsonRegion,2001
+18,Tahunanui,1986,1761.0,192.0,42.0,33.0,3.0,1902.0,NelsonRegion,2001
+19,Tahuna Hills,2061,1965.0,102.0,15.0,15.0,0.0,2022.0,NelsonRegion,2001
+20,Toi Toi,1665,1425.0,228.0,42.0,30.0,3.0,1596.0,NelsonRegion,2001
+21,Broads,1539,1305.0,162.0,60.0,69.0,3.0,1485.0,NelsonRegion,2001
+22,Grampians,1983,1713.0,192.0,42.0,84.0,6.0,1890.0,NelsonRegion,2001
+23,The Brook,1182,1056.0,117.0,27.0,30.0,0.0,1143.0,NelsonRegion,2001
+24,Nelson Airport,1047,954.0,99.0,9.0,15.0,3.0,1026.0,NelsonRegion,2001
+25,Nayland,462,432.0,15.0,0.0,6.0,0.0,450.0,NelsonRegion,2001
+26,Enner Glynn,2796,2610.0,156.0,15.0,48.0,3.0,2721.0,NelsonRegion,2001
+27,Maitlands,2412,2295.0,126.0,24.0,24.0,3.0,2376.0,NelsonRegion,2001
+28,Isel Park,2691,2394.0,324.0,54.0,30.0,3.0,2634.0,NelsonRegion,2001
+29,Langbein,3045,2853.0,189.0,27.0,45.0,3.0,2973.0,NelsonRegion,2001
+30,Inlet-Tasman Bay,114,63.0,3.0,0.0,27.0,0.0,93.0,NelsonRegion,2001
+31,Oceanic-Nelson Region,0,,,,,,,NelsonRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,NorthlandRegion,140133,99576.0,40734.0,2943.0,1998.0,318.0,128937.0,NewZealand,2001
+2,Awanui,369,165.0,186.0,12.0,0.0,0.0,306.0,NorthlandRegion,2001
+3,Mangonui East,4275,2850.0,1266.0,81.0,36.0,9.0,3708.0,NorthlandRegion,2001
+4,Taipa Bay-Mangonui,1587,1194.0,372.0,18.0,21.0,6.0,1422.0,NorthlandRegion,2001
+5,Mangonui West,2055,1182.0,888.0,54.0,18.0,3.0,1824.0,NorthlandRegion,2001
+6,Ahipara,1038,603.0,516.0,15.0,12.0,3.0,954.0,NorthlandRegion,2001
+7,North Cape,549,138.0,456.0,24.0,6.0,0.0,519.0,NorthlandRegion,2001
+8,Houhora,915,600.0,336.0,21.0,3.0,0.0,813.0,NorthlandRegion,2001
+9,Motutangi-Kareponia,1701,1050.0,597.0,36.0,24.0,6.0,1443.0,NorthlandRegion,2001
+10,Kaitaia West,3186,1734.0,1494.0,75.0,48.0,15.0,2871.0,NorthlandRegion,2001
+11,Kaitaia East,1962,1098.0,900.0,75.0,30.0,6.0,1743.0,NorthlandRegion,2001
+12,Kaeo,483,270.0,258.0,3.0,6.0,0.0,465.0,NorthlandRegion,2001
+13,Mangapa-Matauri Bay,2682,1542.0,1128.0,39.0,18.0,3.0,2283.0,NorthlandRegion,2001
+14,Kohukohu,165,120.0,66.0,3.0,3.0,0.0,159.0,NorthlandRegion,2001
+15,Rawene,462,243.0,228.0,18.0,3.0,0.0,402.0,NorthlandRegion,2001
+16,Omapere and Opononi,597,222.0,312.0,9.0,0.0,3.0,456.0,NorthlandRegion,2001
+17,Hokianga North,2013,756.0,1248.0,51.0,15.0,3.0,1749.0,NorthlandRegion,2001
+18,Hokianga South,2874,1143.0,1605.0,78.0,15.0,3.0,2424.0,NorthlandRegion,2001
+19,Kerikeri,4854,4161.0,585.0,54.0,93.0,21.0,4563.0,NorthlandRegion,2001
+20,Russell,804,660.0,111.0,18.0,6.0,0.0,735.0,NorthlandRegion,2001
+21,Paihia,1836,1362.0,297.0,36.0,48.0,12.0,1605.0,NorthlandRegion,2001
+22,Haruru Falls,600,465.0,123.0,6.0,6.0,0.0,552.0,NorthlandRegion,2001
+23,East Opua,345,282.0,42.0,6.0,6.0,0.0,309.0,NorthlandRegion,2001
+24,Kawakawa,1401,543.0,867.0,54.0,21.0,0.0,1263.0,NorthlandRegion,2001
+25,Moerewa,1662,417.0,1311.0,57.0,21.0,0.0,1539.0,NorthlandRegion,2001
+26,Waitangi-Te Tii,3165,2409.0,507.0,27.0,42.0,12.0,2757.0,NorthlandRegion,2001
+27,West Opua,210,186.0,24.0,3.0,3.0,0.0,195.0,NorthlandRegion,2001
+28,Bay of Islands,36,21.0,3.0,3.0,3.0,0.0,24.0,NorthlandRegion,2001
+29,Pokere-Waihaha,2451,1449.0,936.0,42.0,6.0,3.0,2145.0,NorthlandRegion,2001
+30,Okaihau,690,399.0,267.0,57.0,3.0,0.0,633.0,NorthlandRegion,2001
+31,Ohaeawai,726,447.0,327.0,12.0,3.0,0.0,681.0,NorthlandRegion,2001
+32,Waihou Valley-Hupara,2454,1959.0,459.0,39.0,30.0,6.0,2250.0,NorthlandRegion,2001
+33,Ngapuhi-Kaikou,2373,942.0,1458.0,90.0,15.0,3.0,2100.0,NorthlandRegion,2001
+34,Kaikohe,4023,1548.0,2544.0,183.0,66.0,3.0,3657.0,NorthlandRegion,2001
+35,Opouteke-Tanekaha,3819,3075.0,804.0,54.0,33.0,6.0,3570.0,NorthlandRegion,2001
+36,Bream Head,3747,3351.0,264.0,33.0,48.0,0.0,3492.0,NorthlandRegion,2001
+37,Marsden Point-Ruakaka,2658,2142.0,552.0,45.0,33.0,3.0,2502.0,NorthlandRegion,2001
+38,Ngunguru,1290,1119.0,141.0,6.0,9.0,3.0,1179.0,NorthlandRegion,2001
+39,Wharekohe-Oakleigh,2808,2412.0,276.0,24.0,15.0,6.0,2550.0,NorthlandRegion,2001
+40,Maungatapere,957,834.0,102.0,6.0,15.0,3.0,900.0,NorthlandRegion,2001
+41,Waiotira-Springfield,1551,1347.0,231.0,15.0,3.0,3.0,1449.0,NorthlandRegion,2001
+42,Waipu,1887,1584.0,243.0,33.0,18.0,3.0,1707.0,NorthlandRegion,2001
+43,Whangaruru Harbour,3,,,,,,,NorthlandRegion,2001
+44,Punaruku-Kiripaka,3285,2517.0,717.0,66.0,39.0,6.0,3009.0,NorthlandRegion,2001
+45,Springs Flat,1188,1077.0,171.0,12.0,6.0,0.0,1143.0,NorthlandRegion,2001
+46,Three Mile Bush,522,411.0,126.0,6.0,9.0,0.0,504.0,NorthlandRegion,2001
+47,Te Hihi,519,456.0,45.0,3.0,18.0,0.0,501.0,NorthlandRegion,2001
+48,Abbey Caves,402,351.0,51.0,9.0,3.0,0.0,372.0,NorthlandRegion,2001
+49,Otaika-Portland,978,786.0,222.0,21.0,6.0,0.0,903.0,NorthlandRegion,2001
+50,Kamo West,2877,2565.0,336.0,48.0,90.0,3.0,2808.0,NorthlandRegion,2001
+51,Kamo East,3036,2226.0,807.0,48.0,87.0,15.0,2802.0,NorthlandRegion,2001
+52,Tikipunga West,2880,1869.0,1089.0,93.0,42.0,0.0,2709.0,NorthlandRegion,2001
+53,Tikipunga East,2787,2100.0,741.0,57.0,24.0,3.0,2622.0,NorthlandRegion,2001
+54,Whau Valley,2397,2007.0,384.0,48.0,75.0,12.0,2295.0,NorthlandRegion,2001
+55,Otangarei,2031,696.0,1278.0,105.0,18.0,3.0,1794.0,NorthlandRegion,2001
+56,Western Hills,195,174.0,27.0,3.0,0.0,0.0,189.0,NorthlandRegion,2001
+57,Kensington,1287,1056.0,276.0,18.0,24.0,6.0,1236.0,NorthlandRegion,2001
+58,Mairtown,2343,1977.0,405.0,42.0,60.0,9.0,2241.0,NorthlandRegion,2001
+59,Regent,1725,1425.0,309.0,48.0,45.0,6.0,1641.0,NorthlandRegion,2001
+60,Woodhill,1629,1320.0,381.0,27.0,45.0,0.0,1563.0,NorthlandRegion,2001
+61,Vinetown,1434,1077.0,351.0,21.0,63.0,3.0,1356.0,NorthlandRegion,2001
+62,Whangarei Central,162,123.0,33.0,15.0,9.0,0.0,147.0,NorthlandRegion,2001
+63,Riverside,762,645.0,87.0,12.0,6.0,3.0,699.0,NorthlandRegion,2001
+64,Horahora,978,804.0,177.0,30.0,33.0,9.0,930.0,NorthlandRegion,2001
+65,Maunu,1302,1182.0,120.0,12.0,54.0,3.0,1278.0,NorthlandRegion,2001
+66,Raumanga East,1647,975.0,771.0,57.0,21.0,3.0,1521.0,NorthlandRegion,2001
+67,Morningside,2067,1536.0,681.0,30.0,57.0,6.0,1992.0,NorthlandRegion,2001
+68,Parahaki,1173,1014.0,174.0,18.0,39.0,3.0,1131.0,NorthlandRegion,2001
+69,Raumanga West,2811,1695.0,1248.0,111.0,54.0,6.0,2604.0,NorthlandRegion,2001
+70,Port-Limeburners,54,42.0,6.0,0.0,3.0,0.0,45.0,NorthlandRegion,2001
+71,Sherwood Rise,3495,2793.0,717.0,72.0,72.0,9.0,3312.0,NorthlandRegion,2001
+72,Onerahi,2004,1509.0,504.0,33.0,30.0,3.0,1878.0,NorthlandRegion,2001
+73,Hikurangi,1365,930.0,531.0,42.0,15.0,3.0,1287.0,NorthlandRegion,2001
+74,Te Kopuru,480,360.0,141.0,6.0,0.0,3.0,447.0,NorthlandRegion,2001
+75,Kaipara Coastal,3048,2385.0,657.0,39.0,15.0,3.0,2823.0,NorthlandRegion,2001
+76,Maungaru,1662,1485.0,225.0,9.0,3.0,0.0,1584.0,NorthlandRegion,2001
+77,Dargaville,4530,3453.0,1275.0,144.0,60.0,21.0,4356.0,NorthlandRegion,2001
+78,Maungaturoto,750,615.0,150.0,3.0,6.0,0.0,711.0,NorthlandRegion,2001
+79,Ruawai,456,354.0,114.0,9.0,6.0,0.0,417.0,NorthlandRegion,2001
+80,Kaiwaka,537,429.0,150.0,18.0,9.0,0.0,516.0,NorthlandRegion,2001
+81,Rehia-Oneriri,4737,3915.0,828.0,72.0,30.0,12.0,4416.0,NorthlandRegion,2001
+82,Mangawhai,603,555.0,54.0,12.0,6.0,0.0,573.0,NorthlandRegion,2001
+83,Mangawhai Heads,657,588.0,45.0,3.0,3.0,3.0,612.0,NorthlandRegion,2001
+84,Inlet-Hokianga Harbour,3,,,,,,,NorthlandRegion,2001
+85,Oceanic-Northland Region,3,,,,,,,NorthlandRegion,2001
+86,Inlet-Rangaunu Harbour,0,,,,,,,NorthlandRegion,2001
+87,Inlet-Doubtless Bay,0,,,,,,,NorthlandRegion,2001
+88,Inlet-Whangaroa Harbour,6,3.0,0.0,0.0,0.0,0.0,6.0,NorthlandRegion,2001
+89,Inlet-Bay of Islands,33,27.0,3.0,0.0,0.0,0.0,27.0,NorthlandRegion,2001
+90,Inlet-Tutukaka Harbour,24,15.0,0.0,0.0,0.0,0.0,15.0,NorthlandRegion,2001
+91,Inlet-Whangarei Harbour,3,,,,,,,NorthlandRegion,2001
+92,Inlet-Port Whangarei,12,9.0,0.0,0.0,3.0,0.0,12.0,NorthlandRegion,2001
+93,Inlet-Mangawhai Harbour,0,,,,,,,NorthlandRegion,2001
+94,Inlet-Kaipara Harbour North,3,,,,,,,NorthlandRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,OtagoRegion,181542,165552.0,10545.0,2646.0,5766.0,819.0,176745.0,NewZealand,2001
+2,Weston,705,699.0,12.0,0.0,0.0,0.0,705.0,OtagoRegion,2001
+3,Pukeuri,180,168.0,6.0,3.0,9.0,3.0,174.0,OtagoRegion,2001
+4,Ardgowan,456,438.0,21.0,0.0,0.0,0.0,444.0,OtagoRegion,2001
+5,Cape Wanbrow,261,249.0,6.0,6.0,9.0,0.0,258.0,OtagoRegion,2001
+6,Maheno,3573,3351.0,147.0,15.0,84.0,0.0,3495.0,OtagoRegion,2001
+7,Kakanui,411,402.0,30.0,6.0,3.0,0.0,405.0,OtagoRegion,2001
+8,Hampden,303,279.0,33.0,0.0,3.0,0.0,288.0,OtagoRegion,2001
+9,Oamaru North,3192,2982.0,144.0,27.0,87.0,3.0,3141.0,OtagoRegion,2001
+10,Orana Park,2499,2340.0,123.0,18.0,33.0,3.0,2436.0,OtagoRegion,2001
+11,Oamaru Central,2502,2388.0,117.0,24.0,21.0,3.0,2454.0,OtagoRegion,2001
+12,Oamaru South,2892,2730.0,129.0,24.0,48.0,6.0,2826.0,OtagoRegion,2001
+13,Palmerston,810,756.0,45.0,3.0,3.0,0.0,777.0,OtagoRegion,2001
+14,Waihemo,636,603.0,18.0,3.0,3.0,0.0,612.0,OtagoRegion,2001
+15,Hyde,66,60.0,3.0,0.0,0.0,0.0,60.0,OtagoRegion,2001
+16,Waikouaiti,1095,1026.0,69.0,3.0,9.0,3.0,1065.0,OtagoRegion,2001
+17,Aramoana,261,243.0,12.0,3.0,0.0,0.0,246.0,OtagoRegion,2001
+18,Waitati,498,462.0,33.0,0.0,6.0,6.0,480.0,OtagoRegion,2001
+19,Evansdale,1191,1086.0,78.0,6.0,6.0,3.0,1122.0,OtagoRegion,2001
+20,Karitane,396,354.0,51.0,6.0,3.0,0.0,375.0,OtagoRegion,2001
+21,Warrington,399,372.0,18.0,0.0,0.0,0.0,378.0,OtagoRegion,2001
+22,Nenthorn,93,87.0,0.0,0.0,0.0,0.0,87.0,OtagoRegion,2001
+23,Fairfield,2010,1932.0,75.0,6.0,21.0,6.0,1980.0,OtagoRegion,2001
+24,Brighton,1452,1356.0,144.0,9.0,9.0,9.0,1419.0,OtagoRegion,2001
+25,Waldronville,543,528.0,24.0,0.0,6.0,0.0,537.0,OtagoRegion,2001
+26,Outram,609,579.0,42.0,6.0,6.0,0.0,600.0,OtagoRegion,2001
+27,Middlemarch,186,150.0,36.0,3.0,3.0,0.0,177.0,OtagoRegion,2001
+28,Wyllies Crossing,291,285.0,9.0,0.0,0.0,0.0,291.0,OtagoRegion,2001
+29,Wingatui,978,951.0,42.0,9.0,9.0,3.0,969.0,OtagoRegion,2001
+30,Kaikorai Hill,537,513.0,24.0,6.0,12.0,3.0,528.0,OtagoRegion,2001
+31,Kaikorai Lagoon,510,486.0,36.0,0.0,12.0,0.0,501.0,OtagoRegion,2001
+32,Momona,2385,2259.0,93.0,9.0,9.0,3.0,2313.0,OtagoRegion,2001
+33,Silverpeaks,408,390.0,12.0,0.0,0.0,0.0,399.0,OtagoRegion,2001
+34,Fryatt,30,27.0,3.0,0.0,0.0,0.0,30.0,OtagoRegion,2001
+35,High St-The Oval,1605,1278.0,123.0,57.0,126.0,54.0,1533.0,OtagoRegion,2001
+36,High St-Stuart St,2322,1914.0,162.0,54.0,204.0,33.0,2208.0,OtagoRegion,2001
+37,Stuart St-Frederick St,2397,1773.0,114.0,30.0,450.0,48.0,2295.0,OtagoRegion,2001
+38,Opoho,1260,1131.0,54.0,48.0,51.0,9.0,1227.0,OtagoRegion,2001
+39,Forrester Park,831,759.0,45.0,9.0,33.0,12.0,801.0,OtagoRegion,2001
+40,North-East Valley,4266,3738.0,315.0,135.0,231.0,36.0,4134.0,OtagoRegion,2001
+41,Pine Hill,2262,1944.0,165.0,102.0,123.0,12.0,2193.0,OtagoRegion,2001
+42,Woodhaugh,792,735.0,39.0,12.0,33.0,3.0,780.0,OtagoRegion,2001
+43,North Dunedin,2994,2481.0,189.0,60.0,315.0,30.0,2892.0,OtagoRegion,2001
+44,Otago University,4053,3042.0,210.0,60.0,678.0,63.0,3849.0,OtagoRegion,2001
+45,Maori Hill,1956,1806.0,54.0,12.0,93.0,21.0,1914.0,OtagoRegion,2001
+46,Balmacewen,693,633.0,24.0,9.0,33.0,0.0,675.0,OtagoRegion,2001
+47,Glenleith,624,591.0,18.0,9.0,24.0,9.0,624.0,OtagoRegion,2001
+48,Helensburgh,993,912.0,42.0,6.0,48.0,9.0,981.0,OtagoRegion,2001
+49,Wakari,3075,2775.0,138.0,75.0,99.0,18.0,2991.0,OtagoRegion,2001
+50,Halfway Bush,1929,1788.0,114.0,42.0,42.0,6.0,1881.0,OtagoRegion,2001
+51,Brockville,3408,3021.0,282.0,189.0,84.0,21.0,3330.0,OtagoRegion,2001
+52,Roslyn North,1635,1485.0,48.0,6.0,93.0,21.0,1602.0,OtagoRegion,2001
+53,Roslyn South,2325,2133.0,81.0,18.0,114.0,27.0,2286.0,OtagoRegion,2001
+54,Mornington,3408,3087.0,195.0,66.0,144.0,27.0,3360.0,OtagoRegion,2001
+55,Belleknowes,1743,1596.0,66.0,24.0,81.0,3.0,1695.0,OtagoRegion,2001
+56,Kenmure,1818,1695.0,51.0,18.0,69.0,15.0,1794.0,OtagoRegion,2001
+57,Caversham,5019,4467.0,435.0,192.0,150.0,18.0,4872.0,OtagoRegion,2001
+58,Corstorphine West,558,438.0,69.0,72.0,12.0,6.0,543.0,OtagoRegion,2001
+59,Corstorphine East,900,837.0,57.0,21.0,15.0,6.0,879.0,OtagoRegion,2001
+60,Caledonian,3,,,,,,,OtagoRegion,2001
+61,South Dunedin,2538,2199.0,204.0,117.0,90.0,15.0,2454.0,OtagoRegion,2001
+62,Forbury,921,792.0,75.0,30.0,39.0,12.0,897.0,OtagoRegion,2001
+63,St Clair,4179,3768.0,225.0,189.0,102.0,24.0,4098.0,OtagoRegion,2001
+64,Musselburgh,2835,2679.0,150.0,39.0,60.0,21.0,2805.0,OtagoRegion,2001
+65,Andersons Bay,2532,2376.0,84.0,24.0,60.0,9.0,2463.0,OtagoRegion,2001
+66,Vauxhall,3966,3660.0,132.0,45.0,180.0,18.0,3918.0,OtagoRegion,2001
+67,St Leonards-Blanket Bay,729,690.0,36.0,9.0,12.0,0.0,714.0,OtagoRegion,2001
+68,Ravensbourne,1269,1152.0,111.0,27.0,27.0,9.0,1227.0,OtagoRegion,2001
+69,Inner Peninsula,912,855.0,63.0,6.0,12.0,0.0,891.0,OtagoRegion,2001
+70,Raynbirds Bay,147,141.0,3.0,0.0,9.0,0.0,144.0,OtagoRegion,2001
+71,Macandrew Bay,1134,1062.0,69.0,18.0,12.0,3.0,1098.0,OtagoRegion,2001
+72,Broad Bay-Portobello,1158,1107.0,72.0,6.0,6.0,3.0,1140.0,OtagoRegion,2001
+73,Taiaroa-Cape Saunders,522,474.0,108.0,9.0,6.0,3.0,513.0,OtagoRegion,2001
+74,Sandymount,177,171.0,3.0,0.0,3.0,0.0,174.0,OtagoRegion,2001
+75,Sawyers Bay,1275,1200.0,75.0,24.0,18.0,3.0,1245.0,OtagoRegion,2001
+76,Port Chalmers,1365,1272.0,90.0,12.0,21.0,6.0,1311.0,OtagoRegion,2001
+77,St Kilda West,1884,1746.0,114.0,33.0,45.0,21.0,1857.0,OtagoRegion,2001
+78,St Kilda Central,1584,1455.0,105.0,33.0,39.0,3.0,1560.0,OtagoRegion,2001
+79,St Kilda East,2436,2169.0,156.0,72.0,84.0,21.0,2361.0,OtagoRegion,2001
+80,Green Island Central,2427,2283.0,99.0,42.0,57.0,3.0,2388.0,OtagoRegion,2001
+81,Abbotsford,1677,1626.0,78.0,15.0,15.0,0.0,1662.0,OtagoRegion,2001
+82,Concord,1971,1803.0,144.0,57.0,48.0,0.0,1929.0,OtagoRegion,2001
+83,Mosgiel East,3774,3579.0,204.0,33.0,54.0,3.0,3714.0,OtagoRegion,2001
+84,Mosgiel South,2571,2448.0,93.0,15.0,33.0,0.0,2523.0,OtagoRegion,2001
+85,East Taieri,1245,1212.0,57.0,6.0,6.0,3.0,1239.0,OtagoRegion,2001
+86,Bush Road,2385,2256.0,96.0,27.0,27.0,3.0,2340.0,OtagoRegion,2001
+87,Benhar,114,108.0,15.0,3.0,0.0,0.0,114.0,OtagoRegion,2001
+88,Stirling,297,273.0,36.0,0.0,3.0,0.0,291.0,OtagoRegion,2001
+89,Bruce,2589,2427.0,153.0,9.0,24.0,3.0,2529.0,OtagoRegion,2001
+90,Milton,1920,1755.0,255.0,24.0,21.0,3.0,1887.0,OtagoRegion,2001
+91,Kaitangata,792,705.0,105.0,3.0,3.0,0.0,756.0,OtagoRegion,2001
+92,Clinton,318,270.0,57.0,0.0,0.0,0.0,309.0,OtagoRegion,2001
+93,Kaka Point,216,201.0,9.0,0.0,0.0,0.0,207.0,OtagoRegion,2001
+94,Owaka,366,339.0,36.0,3.0,3.0,0.0,360.0,OtagoRegion,2001
+95,Clutha,3333,3192.0,126.0,3.0,15.0,3.0,3258.0,OtagoRegion,2001
+96,Balclutha,4107,3768.0,303.0,24.0,75.0,9.0,4002.0,OtagoRegion,2001
+97,Teviot,1083,999.0,90.0,6.0,6.0,0.0,1041.0,OtagoRegion,2001
+98,Tuapeka,1803,1725.0,90.0,6.0,9.0,0.0,1761.0,OtagoRegion,2001
+99,Tapanui,846,783.0,90.0,3.0,3.0,3.0,831.0,OtagoRegion,2001
+100,Lawrence,474,435.0,48.0,0.0,3.0,0.0,465.0,OtagoRegion,2001
+101,Roxburgh,621,561.0,57.0,3.0,3.0,0.0,603.0,OtagoRegion,2001
+102,Ranfurly,732,672.0,57.0,6.0,9.0,0.0,708.0,OtagoRegion,2001
+103,Maniototo,945,909.0,45.0,3.0,0.0,0.0,930.0,OtagoRegion,2001
+104,Naseby,99,99.0,0.0,0.0,0.0,0.0,99.0,OtagoRegion,2001
+105,Dunstan,3087,2949.0,147.0,3.0,21.0,0.0,3009.0,OtagoRegion,2001
+106,Clyde,825,786.0,51.0,3.0,0.0,0.0,810.0,OtagoRegion,2001
+107,Hawea,1062,972.0,72.0,6.0,6.0,3.0,999.0,OtagoRegion,2001
+108,Inland Water-Lake Hawea,0,,,,,,,OtagoRegion,2001
+109,Alexandra,4404,4242.0,267.0,18.0,27.0,3.0,4356.0,OtagoRegion,2001
+110,Cromwell,2667,2454.0,216.0,18.0,18.0,3.0,2613.0,OtagoRegion,2001
+111,Frankton,1641,1485.0,114.0,6.0,63.0,0.0,1581.0,OtagoRegion,2001
+112,Wanaka,3327,3057.0,111.0,15.0,63.0,9.0,3147.0,OtagoRegion,2001
+113,Glenorchy,402,357.0,18.0,3.0,3.0,6.0,378.0,OtagoRegion,2001
+114,Kelvin Heights,792,753.0,21.0,0.0,6.0,3.0,771.0,OtagoRegion,2001
+115,Sunshine Bay,1857,1578.0,141.0,21.0,165.0,3.0,1782.0,OtagoRegion,2001
+116,Skippers,1545,1467.0,45.0,3.0,12.0,3.0,1485.0,OtagoRegion,2001
+117,Inland Water-Lake Wakatipu,0,,,,,,,OtagoRegion,2001
+118,Lake Hayes,192,186.0,3.0,3.0,0.0,0.0,186.0,OtagoRegion,2001
+119,Matukituki,282,255.0,12.0,3.0,3.0,0.0,267.0,OtagoRegion,2001
+120,Inland Water-Lake Wanaka,0,,,,,,,OtagoRegion,2001
+121,Arrowtown,1692,1596.0,93.0,9.0,24.0,3.0,1659.0,OtagoRegion,2001
+122,Queenstown Bay,1908,1515.0,150.0,21.0,180.0,9.0,1767.0,OtagoRegion,2001
+123,Earnslaw,2337,1917.0,153.0,18.0,189.0,15.0,2175.0,OtagoRegion,2001
+124,Inlet-Otago Harbour,24,12.0,0.0,0.0,0.0,0.0,12.0,OtagoRegion,2001
+125,Inlet-Dunedin City Bays,0,,,,,,,OtagoRegion,2001
+126,Oceanic-Otago Region,0,,,,,,,OtagoRegion,2001
+127,Inlet-Port Oamaru,0,,,,,,,OtagoRegion,2001
+0,SouthlandRegion,91005,83193.0,10038.0,1278.0,852.0,123.0,89091.0,NewZealand,2001
+1,Milford,129,111.0,6.0,3.0,6.0,6.0,123.0,SouthlandRegion,2001
+2,Balfour Community,138,117.0,21.0,0.0,0.0,0.0,135.0,SouthlandRegion,2001
+3,Riversdale Community,366,354.0,24.0,0.0,0.0,0.0,366.0,SouthlandRegion,2001
+4,Lumsden Community,450,405.0,66.0,0.0,0.0,0.0,438.0,SouthlandRegion,2001
+5,Edendale Community,573,546.0,45.0,3.0,6.0,0.0,567.0,SouthlandRegion,2001
+6,Wyndham,573,510.0,84.0,9.0,0.0,3.0,555.0,SouthlandRegion,2001
+7,Makarewa North,282,276.0,21.0,0.0,0.0,0.0,279.0,SouthlandRegion,2001
+8,Makarewa,1185,1140.0,57.0,6.0,0.0,0.0,1173.0,SouthlandRegion,2001
+9,Bay Road West,159,153.0,6.0,0.0,0.0,0.0,153.0,SouthlandRegion,2001
+10,Mill Road-Woodend,561,537.0,27.0,3.0,6.0,0.0,555.0,SouthlandRegion,2001
+11,Bushy Point,210,207.0,9.0,0.0,0.0,0.0,210.0,SouthlandRegion,2001
+12,Otatara,2223,2133.0,159.0,6.0,9.0,3.0,2199.0,SouthlandRegion,2001
+13,Charlton,525,513.0,12.0,0.0,0.0,0.0,516.0,SouthlandRegion,2001
+14,Waikaia,1650,1581.0,66.0,0.0,3.0,0.0,1611.0,SouthlandRegion,2001
+15,Kaweku,453,450.0,18.0,0.0,0.0,0.0,453.0,SouthlandRegion,2001
+16,Chatton,1677,1620.0,60.0,0.0,9.0,0.0,1650.0,SouthlandRegion,2001
+17,Kaiwera,852,822.0,69.0,3.0,3.0,0.0,846.0,SouthlandRegion,2001
+18,Hokonui,2319,2250.0,99.0,9.0,6.0,3.0,2277.0,SouthlandRegion,2001
+19,Waianiwa,1965,1869.0,144.0,6.0,6.0,3.0,1923.0,SouthlandRegion,2001
+20,Oreti Beach,432,408.0,36.0,0.0,3.0,0.0,426.0,SouthlandRegion,2001
+21,Dacre,1626,1575.0,66.0,3.0,0.0,0.0,1596.0,SouthlandRegion,2001
+22,Myross Bush,465,453.0,12.0,6.0,0.0,0.0,456.0,SouthlandRegion,2001
+23,Waituna,1656,1593.0,120.0,6.0,15.0,3.0,1638.0,SouthlandRegion,2001
+24,Woodlands,279,273.0,18.0,0.0,3.0,0.0,279.0,SouthlandRegion,2001
+25,Greenhills,693,627.0,72.0,27.0,0.0,0.0,672.0,SouthlandRegion,2001
+26,Tiwai Point,0,,,,,,,SouthlandRegion,2001
+27,Toetoes,1659,1569.0,126.0,6.0,3.0,3.0,1626.0,SouthlandRegion,2001
+28,Wallacetown,627,588.0,57.0,0.0,3.0,0.0,612.0,SouthlandRegion,2001
+29,North Gore,1719,1617.0,123.0,12.0,9.0,6.0,1704.0,SouthlandRegion,2001
+30,East Gore,1479,1335.0,177.0,0.0,6.0,0.0,1452.0,SouthlandRegion,2001
+31,Central Gore,825,783.0,48.0,3.0,9.0,0.0,816.0,SouthlandRegion,2001
+32,West Gore,2805,2649.0,180.0,21.0,21.0,0.0,2772.0,SouthlandRegion,2001
+33,South Gore,840,771.0,102.0,6.0,6.0,0.0,819.0,SouthlandRegion,2001
+34,Mataura,1740,1374.0,462.0,27.0,18.0,0.0,1719.0,SouthlandRegion,2001
+35,Winton,2100,1950.0,153.0,9.0,15.0,0.0,2049.0,SouthlandRegion,2001
+36,Grasmere,3342,3093.0,342.0,39.0,24.0,6.0,3273.0,SouthlandRegion,2001
+37,Waikiwi,1986,1878.0,141.0,6.0,12.0,3.0,1953.0,SouthlandRegion,2001
+38,Rosedale,3855,3657.0,237.0,6.0,72.0,9.0,3801.0,SouthlandRegion,2001
+39,Gladstone-Avenal,3762,3504.0,252.0,42.0,87.0,6.0,3684.0,SouthlandRegion,2001
+40,Windsor,3081,2913.0,246.0,30.0,33.0,12.0,3051.0,SouthlandRegion,2001
+41,Waverley-Glengarry,2223,2004.0,300.0,24.0,30.0,6.0,2181.0,SouthlandRegion,2001
+42,Hawthorndale,2157,1968.0,237.0,42.0,21.0,0.0,2115.0,SouthlandRegion,2001
+43,Richmond,2880,2664.0,288.0,54.0,33.0,3.0,2823.0,SouthlandRegion,2001
+44,Otakaro Park,561,489.0,66.0,15.0,6.0,3.0,543.0,SouthlandRegion,2001
+45,Crinan,1590,1284.0,342.0,57.0,27.0,0.0,1530.0,SouthlandRegion,2001
+46,West Invercargill,162,129.0,33.0,9.0,0.0,0.0,156.0,SouthlandRegion,2001
+47,Georgetown,2283,2022.0,378.0,66.0,24.0,3.0,2229.0,SouthlandRegion,2001
+48,Newfield-Rockdale,2931,2601.0,399.0,93.0,36.0,6.0,2847.0,SouthlandRegion,2001
+49,Heidelberg,3078,2598.0,600.0,135.0,39.0,3.0,2982.0,SouthlandRegion,2001
+50,Strathern,2406,2106.0,345.0,63.0,18.0,3.0,2328.0,SouthlandRegion,2001
+51,Appleby-Kew,1950,1719.0,339.0,60.0,15.0,3.0,1914.0,SouthlandRegion,2001
+52,Kingswell-Clifton,3495,2985.0,648.0,189.0,42.0,3.0,3435.0,SouthlandRegion,2001
+53,Tisbury,225,210.0,18.0,0.0,0.0,0.0,216.0,SouthlandRegion,2001
+54,Bluff,1932,1470.0,789.0,102.0,18.0,3.0,1884.0,SouthlandRegion,2001
+55,Nightcaps,342,306.0,51.0,0.0,0.0,0.0,330.0,SouthlandRegion,2001
+56,Ohai,399,255.0,156.0,9.0,3.0,0.0,378.0,SouthlandRegion,2001
+57,Te Anau,1854,1653.0,123.0,9.0,75.0,9.0,1785.0,SouthlandRegion,2001
+58,Tuatapere,681,618.0,108.0,6.0,9.0,0.0,660.0,SouthlandRegion,2001
+59,Otautau,729,681.0,81.0,6.0,0.0,0.0,720.0,SouthlandRegion,2001
+60,Manapouri,240,213.0,27.0,3.0,3.0,3.0,231.0,SouthlandRegion,2001
+61,Mossburn,243,222.0,42.0,0.0,3.0,0.0,240.0,SouthlandRegion,2001
+62,Mararoa River,1290,1191.0,48.0,3.0,18.0,9.0,1236.0,SouthlandRegion,2001
+63,Inland Water-Lake Te Anau,0,,,,,,,SouthlandRegion,2001
+64,Wairio,894,834.0,60.0,0.0,3.0,0.0,870.0,SouthlandRegion,2001
+65,Te Waewae,1326,1254.0,120.0,0.0,0.0,0.0,1293.0,SouthlandRegion,2001
+66,Fairfax,1788,1692.0,108.0,3.0,0.0,0.0,1740.0,SouthlandRegion,2001
+67,Riverton East,471,408.0,81.0,6.0,6.0,0.0,456.0,SouthlandRegion,2001
+68,Riverton West,1182,1044.0,231.0,12.0,12.0,3.0,1137.0,SouthlandRegion,2001
+69,Fiordland,48,36.0,6.0,0.0,0.0,3.0,42.0,SouthlandRegion,2001
+70,Inland Water-Lake Manapouri,0,,,,,,,SouthlandRegion,2001
+71,Inland Water-Lake Hauroko,0,,,,,,,SouthlandRegion,2001
+72,Stewart Island,387,327.0,48.0,3.0,3.0,0.0,351.0,SouthlandRegion,2001
+73,Inlet-Milford Sound,9,3.0,0.0,0.0,0.0,3.0,6.0,SouthlandRegion,2001
+74,Dog Island,0,,,,,,,SouthlandRegion,2001
+75,Centre Island,0,,,,,,,SouthlandRegion,2001
+76,Inlet-Bluff Harbour,0,,,,,,,SouthlandRegion,2001
+77,Inlet-New River Estuary,0,,,,,,,SouthlandRegion,2001
+78,Inlet-Jacobs River Estuary,0,,,,,,,SouthlandRegion,2001
+79,Oceanic-Southland Region,0,,,,,,,SouthlandRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,TaranakiRegion,102858,89454.0,14562.0,1059.0,1500.0,216.0,99327.0,NewZealand,2001
+2,Urenui,414,366.0,63.0,0.0,3.0,0.0,408.0,TaranakiRegion,2001
+3,Okoki-Okau,1902,1698.0,252.0,15.0,18.0,0.0,1812.0,TaranakiRegion,2001
+4,Oakura,1218,1155.0,96.0,15.0,9.0,9.0,1194.0,TaranakiRegion,2001
+5,Bell Block,3894,3288.0,663.0,123.0,60.0,18.0,3756.0,TaranakiRegion,2001
+6,Paraite,342,201.0,21.0,9.0,108.0,0.0,330.0,TaranakiRegion,2001
+7,Glen Avon,807,747.0,87.0,9.0,15.0,0.0,792.0,TaranakiRegion,2001
+8,Bowden,309,267.0,45.0,3.0,6.0,0.0,297.0,TaranakiRegion,2001
+9,Mangaoraka,675,600.0,93.0,6.0,6.0,0.0,657.0,TaranakiRegion,2001
+10,Carrington,600,573.0,21.0,0.0,12.0,3.0,591.0,TaranakiRegion,2001
+11,Highlands Park,2571,2355.0,105.0,12.0,114.0,9.0,2493.0,TaranakiRegion,2001
+12,Fernleigh,654,630.0,15.0,3.0,9.0,0.0,642.0,TaranakiRegion,2001
+13,Barrett,1272,1188.0,72.0,9.0,27.0,9.0,1227.0,TaranakiRegion,2001
+14,Omata,480,450.0,51.0,0.0,3.0,0.0,471.0,TaranakiRegion,2001
+15,Lepperton,1758,1608.0,162.0,9.0,0.0,3.0,1689.0,TaranakiRegion,2001
+16,Kaitake,2181,2085.0,111.0,3.0,3.0,0.0,2109.0,TaranakiRegion,2001
+17,Okato,519,441.0,102.0,9.0,0.0,3.0,516.0,TaranakiRegion,2001
+18,Waitara West,3564,2592.0,1206.0,42.0,33.0,3.0,3378.0,TaranakiRegion,2001
+19,Waitara East,2682,1956.0,861.0,33.0,24.0,0.0,2571.0,TaranakiRegion,2001
+20,Moturoa,3405,2808.0,582.0,45.0,33.0,6.0,3210.0,TaranakiRegion,2001
+21,Lynmouth,2043,1776.0,243.0,3.0,57.0,9.0,1953.0,TaranakiRegion,2001
+22,Spotswood,1842,1581.0,258.0,33.0,30.0,15.0,1770.0,TaranakiRegion,2001
+23,Marfell,1995,1530.0,474.0,42.0,27.0,0.0,1839.0,TaranakiRegion,2001
+24,Upper Westown,1443,1359.0,96.0,12.0,12.0,0.0,1413.0,TaranakiRegion,2001
+25,Westown,3291,2895.0,381.0,51.0,84.0,9.0,3213.0,TaranakiRegion,2001
+26,New Plymouth Central,612,531.0,78.0,6.0,18.0,0.0,591.0,TaranakiRegion,2001
+27,Kawaroa,1860,1647.0,228.0,6.0,54.0,9.0,1809.0,TaranakiRegion,2001
+28,Mount Bryan,879,819.0,69.0,12.0,15.0,6.0,867.0,TaranakiRegion,2001
+29,Marsland Hill,1422,1245.0,147.0,15.0,30.0,9.0,1371.0,TaranakiRegion,2001
+30,Fitzroy,3642,3300.0,345.0,39.0,63.0,6.0,3513.0,TaranakiRegion,2001
+31,Welbourn,1611,1437.0,159.0,12.0,57.0,6.0,1563.0,TaranakiRegion,2001
+32,Merrilands,2727,2457.0,255.0,36.0,87.0,3.0,2670.0,TaranakiRegion,2001
+33,Frankleigh,3480,3150.0,363.0,51.0,72.0,18.0,3399.0,TaranakiRegion,2001
+34,Struan Park,4686,4233.0,423.0,75.0,81.0,15.0,4539.0,TaranakiRegion,2001
+35,Egmont Village,468,453.0,24.0,3.0,0.0,0.0,459.0,TaranakiRegion,2001
+36,Kaimata,2418,2316.0,105.0,0.0,9.0,0.0,2355.0,TaranakiRegion,2001
+37,Inglewood,2925,2655.0,273.0,12.0,27.0,0.0,2826.0,TaranakiRegion,2001
+38,Midhirst,246,228.0,30.0,0.0,0.0,0.0,246.0,TaranakiRegion,2001
+39,Douglas,852,825.0,39.0,0.0,0.0,3.0,834.0,TaranakiRegion,2001
+40,Toko,1161,1077.0,42.0,3.0,9.0,0.0,1101.0,TaranakiRegion,2001
+41,Pembroke,1218,1152.0,69.0,3.0,3.0,0.0,1185.0,TaranakiRegion,2001
+42,Stratford West,3078,2733.0,378.0,15.0,27.0,6.0,2973.0,TaranakiRegion,2001
+43,Stratford East,2154,1974.0,234.0,12.0,18.0,0.0,2100.0,TaranakiRegion,2001
+44,Opunake,1500,1137.0,492.0,27.0,12.0,6.0,1455.0,TaranakiRegion,2001
+45,Rahotu,297,234.0,84.0,0.0,0.0,0.0,297.0,TaranakiRegion,2001
+46,Kahui,2817,2475.0,462.0,9.0,3.0,0.0,2721.0,TaranakiRegion,2001
+47,Kaponga,351,291.0,87.0,9.0,0.0,0.0,339.0,TaranakiRegion,2001
+48,Mangatoki-Moeroa,1713,1620.0,87.0,3.0,0.0,0.0,1671.0,TaranakiRegion,2001
+49,Eltham,2100,1794.0,414.0,27.0,24.0,3.0,2058.0,TaranakiRegion,2001
+50,Kapuni,1383,1278.0,162.0,3.0,0.0,0.0,1353.0,TaranakiRegion,2001
+51,Manaia,951,693.0,324.0,9.0,3.0,0.0,930.0,TaranakiRegion,2001
+52,Normanby,873,672.0,234.0,21.0,6.0,0.0,840.0,TaranakiRegion,2001
+53,Hawera North,3960,3405.0,627.0,24.0,66.0,6.0,3843.0,TaranakiRegion,2001
+54,Hawera South,3867,3210.0,678.0,42.0,51.0,9.0,3723.0,TaranakiRegion,2001
+55,Ohawe Beach,633,519.0,126.0,3.0,0.0,0.0,594.0,TaranakiRegion,2001
+56,Tawhiti,624,549.0,90.0,6.0,3.0,0.0,600.0,TaranakiRegion,2001
+57,Waingongoro,357,309.0,45.0,3.0,0.0,3.0,339.0,TaranakiRegion,2001
+58,Hawera West,630,594.0,27.0,0.0,24.0,0.0,618.0,TaranakiRegion,2001
+59,Ohangai,570,483.0,69.0,0.0,0.0,3.0,525.0,TaranakiRegion,2001
+60,Okaiawa,615,528.0,126.0,3.0,0.0,3.0,600.0,TaranakiRegion,2001
+61,Waitotara,102,72.0,36.0,0.0,3.0,0.0,96.0,TaranakiRegion,2001
+62,Whenuakura,1059,912.0,138.0,12.0,6.0,0.0,1002.0,TaranakiRegion,2001
+63,Makakaho,927,828.0,96.0,3.0,0.0,0.0,882.0,TaranakiRegion,2001
+64,Patea,1302,801.0,573.0,33.0,9.0,0.0,1233.0,TaranakiRegion,2001
+65,Waverley,906,663.0,273.0,21.0,21.0,0.0,882.0,TaranakiRegion,2001
+66,Port-Taranaki,3,,,,,,,TaranakiRegion,2001
+67,Oceanic-Taranaki Region,3,,,,,,,TaranakiRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,TasmanRegion,41352,38073.0,2778.0,222.0,369.0,69.0,39588.0,NewZealand,2001
+2,Golden Bay,3603,3294.0,192.0,9.0,21.0,12.0,3375.0,TasmanRegion,2001
+3,Takaka,1188,1104.0,87.0,12.0,9.0,3.0,1146.0,TasmanRegion,2001
+4,Aniseed Hill,435,411.0,18.0,0.0,0.0,0.0,417.0,TasmanRegion,2001
+5,Hope,1110,1038.0,48.0,6.0,12.0,0.0,1062.0,TasmanRegion,2001
+6,Best Island,87,78.0,6.0,0.0,0.0,0.0,87.0,TasmanRegion,2001
+7,Bell Island,0,,,,,,,TasmanRegion,2001
+8,Ranzau,696,666.0,24.0,0.0,6.0,3.0,681.0,TasmanRegion,2001
+9,Richmond Hill,69,69.0,0.0,0.0,0.0,0.0,69.0,TasmanRegion,2001
+10,Brightwater,1425,1374.0,69.0,12.0,6.0,0.0,1395.0,TasmanRegion,2001
+11,Wakefield,1497,1443.0,66.0,0.0,9.0,3.0,1470.0,TasmanRegion,2001
+12,Mapua,1617,1527.0,78.0,6.0,6.0,9.0,1560.0,TasmanRegion,2001
+13,Inlet-Motueka,0,,,,,,,TasmanRegion,2001
+14,Kaiteriteri,870,657.0,42.0,3.0,3.0,0.0,669.0,TasmanRegion,2001
+15,Motueka Outer,3576,3156.0,204.0,24.0,24.0,6.0,3276.0,TasmanRegion,2001
+16,Rabbit Island,15,12.0,0.0,0.0,0.0,0.0,12.0,TasmanRegion,2001
+17,Waimea Inlet West,6,,,,,,,TasmanRegion,2001
+18,Wai-Iti,4362,4113.0,222.0,18.0,24.0,0.0,4197.0,TasmanRegion,2001
+19,Golden Downs,885,831.0,57.0,9.0,6.0,0.0,849.0,TasmanRegion,2001
+20,Lake Rotoroa,621,570.0,27.0,0.0,12.0,0.0,588.0,TasmanRegion,2001
+21,Murchison,555,537.0,33.0,0.0,6.0,0.0,543.0,TasmanRegion,2001
+22,Tapawera,384,327.0,90.0,3.0,3.0,0.0,369.0,TasmanRegion,2001
+23,Riwaka,876,786.0,90.0,0.0,6.0,0.0,825.0,TasmanRegion,2001
+24,Richmond North,5052,4833.0,273.0,27.0,60.0,15.0,4992.0,TasmanRegion,2001
+25,Richmond South,5526,5196.0,261.0,39.0,81.0,0.0,5376.0,TasmanRegion,2001
+26,Motueka West,3429,2967.0,477.0,27.0,51.0,6.0,3285.0,TasmanRegion,2001
+27,Motueka East,3453,3066.0,414.0,18.0,27.0,6.0,3324.0,TasmanRegion,2001
+28,Moutere Inlet,0,,,,,,,TasmanRegion,2001
+29,Jackett Island,9,9.0,0.0,0.0,0.0,0.0,9.0,TasmanRegion,2001
+30,Oceanic-Tasman Region,0,,,,,,,TasmanRegion,2001
+31,Inlet-Ligar Bay,0,,,,,,,TasmanRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,WaikatoRegion,357726,281133.0,72822.0,10524.0,12018.0,1689.0,344322.0,NewZealand,2001
+2,Buckland,1260,1068.0,135.0,21.0,72.0,0.0,1206.0,WaikatoRegion,2001
+3,Redoubt,198,144.0,24.0,9.0,21.0,0.0,183.0,WaikatoRegion,2001
+4,Opuawhanga,177,135.0,9.0,3.0,15.0,0.0,147.0,WaikatoRegion,2001
+5,Pokeno,1482,1254.0,147.0,15.0,45.0,0.0,1377.0,WaikatoRegion,2001
+6,Mangatawhiri,1911,1578.0,270.0,33.0,12.0,3.0,1764.0,WaikatoRegion,2001
+7,Otaua,1905,1707.0,147.0,24.0,39.0,0.0,1806.0,WaikatoRegion,2001
+8,South Waiuku,1191,999.0,99.0,3.0,18.0,0.0,1062.0,WaikatoRegion,2001
+9,Tuakau,2853,1812.0,1008.0,96.0,69.0,0.0,2649.0,WaikatoRegion,2001
+10,Rotowaro,0,,,,,,,WaikatoRegion,2001
+11,Raglan,2670,2061.0,768.0,54.0,24.0,9.0,2541.0,WaikatoRegion,2001
+12,Waikato Western Hills,3312,2580.0,753.0,63.0,39.0,6.0,3120.0,WaikatoRegion,2001
+13,Te Uku,1491,1203.0,264.0,18.0,33.0,6.0,1371.0,WaikatoRegion,2001
+14,Te Pahu,1113,1059.0,60.0,9.0,6.0,3.0,1086.0,WaikatoRegion,2001
+15,Onewhero,3453,2790.0,768.0,51.0,57.0,12.0,3327.0,WaikatoRegion,2001
+16,Te Akau,900,696.0,180.0,18.0,6.0,3.0,822.0,WaikatoRegion,2001
+17,Te Kauwhata,1095,885.0,240.0,12.0,33.0,0.0,1062.0,WaikatoRegion,2001
+18,Matangi,1557,1413.0,135.0,9.0,36.0,0.0,1521.0,WaikatoRegion,2001
+19,Sylvester,117,111.0,0.0,3.0,0.0,0.0,114.0,WaikatoRegion,2001
+20,Flagstaff,3399,2886.0,219.0,27.0,336.0,6.0,3321.0,WaikatoRegion,2001
+21,Horsham Downs,843,765.0,63.0,6.0,42.0,6.0,837.0,WaikatoRegion,2001
+22,Rototuna,1893,1653.0,108.0,9.0,183.0,12.0,1869.0,WaikatoRegion,2001
+23,Huntington,741,672.0,33.0,9.0,60.0,12.0,741.0,WaikatoRegion,2001
+24,Whitikahu,1974,1617.0,219.0,6.0,123.0,0.0,1866.0,WaikatoRegion,2001
+25,Taupiri Community,447,294.0,168.0,6.0,3.0,3.0,420.0,WaikatoRegion,2001
+26,Eureka,1806,1662.0,87.0,9.0,57.0,9.0,1740.0,WaikatoRegion,2001
+27,Gordonton,819,660.0,90.0,18.0,45.0,0.0,762.0,WaikatoRegion,2001
+28,Kainui,1950,1689.0,258.0,24.0,30.0,6.0,1887.0,WaikatoRegion,2001
+29,Tamahere-Tauwhare,3576,3141.0,423.0,21.0,75.0,3.0,3459.0,WaikatoRegion,2001
+30,Hautapu,1647,1545.0,123.0,12.0,24.0,6.0,1608.0,WaikatoRegion,2001
+31,Waerenga,1695,1455.0,234.0,21.0,24.0,0.0,1635.0,WaikatoRegion,2001
+32,Maramarua,873,678.0,135.0,12.0,9.0,0.0,765.0,WaikatoRegion,2001
+33,Meremere,354,132.0,246.0,15.0,9.0,0.0,333.0,WaikatoRegion,2001
+34,Huntly West,2922,1068.0,1929.0,189.0,39.0,3.0,2775.0,WaikatoRegion,2001
+35,Huntly East,3897,2886.0,984.0,150.0,81.0,12.0,3711.0,WaikatoRegion,2001
+36,Cambridge North,2430,2199.0,201.0,18.0,39.0,15.0,2355.0,WaikatoRegion,2001
+37,Cambridge West,2565,2370.0,189.0,33.0,48.0,3.0,2496.0,WaikatoRegion,2001
+38,Cambridge Central,612,558.0,51.0,6.0,6.0,0.0,594.0,WaikatoRegion,2001
+39,Leamington West,2736,2415.0,390.0,30.0,63.0,6.0,2703.0,WaikatoRegion,2001
+40,Leamington East,3516,3078.0,438.0,33.0,66.0,3.0,3396.0,WaikatoRegion,2001
+41,Ohaupo,468,426.0,42.0,0.0,6.0,3.0,450.0,WaikatoRegion,2001
+42,Kihikihi,1869,1257.0,726.0,18.0,33.0,0.0,1800.0,WaikatoRegion,2001
+43,Peacocke,432,378.0,21.0,6.0,42.0,0.0,426.0,WaikatoRegion,2001
+44,Temple View,1413,834.0,849.0,246.0,60.0,9.0,1401.0,WaikatoRegion,2001
+45,Horotiu,780,597.0,189.0,9.0,27.0,0.0,759.0,WaikatoRegion,2001
+46,Te Kowhai,1146,1065.0,78.0,6.0,15.0,0.0,1128.0,WaikatoRegion,2001
+47,Whatawhata,1653,1470.0,213.0,6.0,27.0,6.0,1623.0,WaikatoRegion,2001
+48,Ngahinapouri,1647,1563.0,69.0,21.0,27.0,0.0,1608.0,WaikatoRegion,2001
+49,Lake Cameron,906,858.0,45.0,3.0,18.0,3.0,888.0,WaikatoRegion,2001
+50,Te Rore,423,399.0,30.0,3.0,3.0,0.0,414.0,WaikatoRegion,2001
+51,Pirongia,1131,1047.0,93.0,12.0,3.0,6.0,1089.0,WaikatoRegion,2001
+52,Pokuru,435,387.0,39.0,3.0,6.0,0.0,420.0,WaikatoRegion,2001
+53,Lake Ngaroto,534,507.0,42.0,3.0,3.0,0.0,522.0,WaikatoRegion,2001
+54,Tokanui,396,246.0,204.0,21.0,0.0,0.0,387.0,WaikatoRegion,2001
+55,Pukerimu,387,369.0,24.0,0.0,3.0,0.0,378.0,WaikatoRegion,2001
+56,Kaipaki,765,741.0,36.0,18.0,9.0,3.0,756.0,WaikatoRegion,2001
+57,Rotoorangi,1662,1518.0,147.0,18.0,12.0,0.0,1617.0,WaikatoRegion,2001
+58,Te Rahu,708,666.0,39.0,6.0,0.0,0.0,684.0,WaikatoRegion,2001
+59,Kihikihi Flat,642,588.0,78.0,12.0,0.0,0.0,630.0,WaikatoRegion,2001
+60,Allen Road,135,126.0,9.0,0.0,0.0,0.0,129.0,WaikatoRegion,2001
+61,Rotongata,828,687.0,138.0,6.0,9.0,6.0,795.0,WaikatoRegion,2001
+62,Ngaruawahia,4935,2577.0,2727.0,144.0,75.0,12.0,4773.0,WaikatoRegion,2001
+63,Bryant,5553,4500.0,864.0,189.0,279.0,42.0,5424.0,WaikatoRegion,2001
+64,Pukete,2409,2169.0,219.0,33.0,99.0,9.0,2373.0,WaikatoRegion,2001
+65,Pukete West,2085,1809.0,279.0,54.0,84.0,6.0,2046.0,WaikatoRegion,2001
+66,Te Rapa,291,141.0,144.0,6.0,3.0,0.0,276.0,WaikatoRegion,2001
+67,Burbush,210,192.0,24.0,0.0,3.0,0.0,198.0,WaikatoRegion,2001
+68,Rotokauri,306,261.0,57.0,12.0,0.0,0.0,297.0,WaikatoRegion,2001
+69,Nawton,4362,3354.0,864.0,165.0,282.0,51.0,4239.0,WaikatoRegion,2001
+70,Brymer,7176,4926.0,2067.0,306.0,417.0,48.0,6942.0,WaikatoRegion,2001
+71,Dinsdale North,3612,3096.0,435.0,90.0,210.0,0.0,3558.0,WaikatoRegion,2001
+72,Dinsdale South,3960,3150.0,945.0,174.0,219.0,15.0,3879.0,WaikatoRegion,2001
+73,Beerescourt,3021,2655.0,339.0,60.0,108.0,18.0,2967.0,WaikatoRegion,2001
+74,Maeroa,3327,2715.0,711.0,105.0,105.0,12.0,3267.0,WaikatoRegion,2001
+75,Frankton Junction,1608,1269.0,267.0,36.0,93.0,9.0,1539.0,WaikatoRegion,2001
+76,Swarbrick,3909,2592.0,1347.0,210.0,168.0,6.0,3777.0,WaikatoRegion,2001
+77,Hamilton Lake,3705,2850.0,582.0,117.0,342.0,30.0,3564.0,WaikatoRegion,2001
+78,Melville,4344,2994.0,1089.0,165.0,465.0,54.0,4239.0,WaikatoRegion,2001
+79,Glenview,5136,4398.0,714.0,99.0,267.0,24.0,5055.0,WaikatoRegion,2001
+80,Queenwood,3159,2670.0,363.0,24.0,219.0,30.0,3102.0,WaikatoRegion,2001
+81,Chedworth,3360,2574.0,492.0,99.0,306.0,36.0,3285.0,WaikatoRegion,2001
+82,Porritt,1656,1068.0,390.0,66.0,174.0,27.0,1596.0,WaikatoRegion,2001
+83,Insoll,2562,1296.0,1044.0,252.0,81.0,45.0,2394.0,WaikatoRegion,2001
+84,Fairview Downs,3114,2325.0,660.0,117.0,165.0,45.0,2991.0,WaikatoRegion,2001
+85,Chartwell,2310,2079.0,162.0,18.0,105.0,6.0,2268.0,WaikatoRegion,2001
+86,Hamilton Central,2106,1482.0,489.0,60.0,210.0,18.0,2037.0,WaikatoRegion,2001
+87,Clarkin,2820,1950.0,633.0,138.0,162.0,93.0,2721.0,WaikatoRegion,2001
+88,Claudelands,2391,1806.0,369.0,57.0,132.0,93.0,2235.0,WaikatoRegion,2001
+89,Enderley,3981,2439.0,1248.0,297.0,123.0,159.0,3831.0,WaikatoRegion,2001
+90,Peachgrove,2403,1821.0,459.0,66.0,168.0,15.0,2277.0,WaikatoRegion,2001
+91,Hamilton East,3420,2469.0,561.0,87.0,381.0,90.0,3276.0,WaikatoRegion,2001
+92,Naylor,3972,3183.0,573.0,96.0,213.0,63.0,3795.0,WaikatoRegion,2001
+93,Bader,3594,2481.0,1026.0,213.0,210.0,39.0,3480.0,WaikatoRegion,2001
+94,University,3555,2331.0,612.0,246.0,525.0,96.0,3456.0,WaikatoRegion,2001
+95,Silverdale,2370,1725.0,378.0,66.0,303.0,21.0,2295.0,WaikatoRegion,2001
+96,Hillcrest West,3213,2397.0,318.0,51.0,501.0,30.0,3111.0,WaikatoRegion,2001
+97,Riverlea,2496,2109.0,186.0,18.0,261.0,9.0,2451.0,WaikatoRegion,2001
+98,Te Awamutu West,1125,957.0,210.0,9.0,21.0,3.0,1098.0,WaikatoRegion,2001
+99,Te Awamutu Central,2895,2499.0,453.0,45.0,42.0,6.0,2805.0,WaikatoRegion,2001
+100,Te Awamutu East,2283,1821.0,492.0,24.0,54.0,0.0,2202.0,WaikatoRegion,2001
+101,Te Awamutu South,2862,2355.0,588.0,30.0,18.0,0.0,2739.0,WaikatoRegion,2001
+102,Kawhia Community,504,276.0,249.0,3.0,3.0,0.0,462.0,WaikatoRegion,2001
+103,Otorohanga,2631,1845.0,951.0,27.0,48.0,3.0,2538.0,WaikatoRegion,2001
+104,Otorohanga Rural West,1659,1296.0,387.0,12.0,18.0,0.0,1590.0,WaikatoRegion,2001
+105,Te Kawa,390,321.0,87.0,3.0,6.0,0.0,375.0,WaikatoRegion,2001
+106,Otorohanga Rural East,4089,3228.0,867.0,87.0,48.0,9.0,3903.0,WaikatoRegion,2001
+107,Piopio Community,471,312.0,207.0,12.0,0.0,3.0,465.0,WaikatoRegion,2001
+108,Taharoa,249,69.0,189.0,3.0,3.0,0.0,231.0,WaikatoRegion,2001
+109,Mahoenui,525,417.0,153.0,3.0,0.0,0.0,510.0,WaikatoRegion,2001
+110,Marokopa,1587,1224.0,396.0,18.0,3.0,3.0,1527.0,WaikatoRegion,2001
+111,Waipa Valley,960,786.0,222.0,12.0,0.0,3.0,942.0,WaikatoRegion,2001
+112,Mokauiti,1215,930.0,375.0,21.0,3.0,3.0,1188.0,WaikatoRegion,2001
+113,Te Kuiti,4377,2625.0,1959.0,96.0,72.0,6.0,4221.0,WaikatoRegion,2001
+114,Omori,192,165.0,30.0,0.0,0.0,0.0,180.0,WaikatoRegion,2001
+115,Kuratau,363,264.0,147.0,6.0,6.0,0.0,345.0,WaikatoRegion,2001
+116,Whitianga,3078,2766.0,357.0,30.0,42.0,0.0,2952.0,WaikatoRegion,2001
+117,Coromandel,1437,1185.0,306.0,21.0,21.0,6.0,1347.0,WaikatoRegion,2001
+118,Te Rerenga,3789,3153.0,582.0,42.0,36.0,6.0,3480.0,WaikatoRegion,2001
+119,Whangamata,3861,3372.0,531.0,45.0,42.0,9.0,3666.0,WaikatoRegion,2001
+120,Tairua,1461,1302.0,156.0,36.0,3.0,3.0,1371.0,WaikatoRegion,2001
+121,Moanataiari,2505,2241.0,321.0,39.0,36.0,9.0,2430.0,WaikatoRegion,2001
+122,Parawai,4200,3597.0,756.0,78.0,69.0,3.0,4071.0,WaikatoRegion,2001
+123,Pauanui Beach,702,630.0,21.0,3.0,3.0,0.0,648.0,WaikatoRegion,2001
+124,Hikuai,3183,2814.0,465.0,48.0,18.0,18.0,3036.0,WaikatoRegion,2001
+125,Te Puru-Thornton Bay,954,882.0,99.0,12.0,12.0,6.0,924.0,WaikatoRegion,2001
+126,Ngatea,1074,951.0,162.0,9.0,21.0,3.0,1059.0,WaikatoRegion,2001
+127,Hauraki Plains,2424,2217.0,225.0,21.0,33.0,3.0,2349.0,WaikatoRegion,2001
+128,Turua,1317,1188.0,177.0,12.0,6.0,0.0,1278.0,WaikatoRegion,2001
+129,Kerepehi,501,309.0,222.0,21.0,3.0,0.0,486.0,WaikatoRegion,2001
+130,Ohinemuri,3045,2733.0,360.0,39.0,48.0,9.0,2958.0,WaikatoRegion,2001
+131,Paeroa,3879,2931.0,1110.0,87.0,33.0,0.0,3735.0,WaikatoRegion,2001
+132,Waihi,4524,3906.0,795.0,84.0,105.0,6.0,4419.0,WaikatoRegion,2001
+133,Tahuroa,2529,2226.0,219.0,18.0,63.0,0.0,2433.0,WaikatoRegion,2001
+134,Waitoa,360,297.0,54.0,9.0,15.0,0.0,342.0,WaikatoRegion,2001
+135,Springdale,2529,2292.0,240.0,21.0,18.0,3.0,2415.0,WaikatoRegion,2001
+136,Waihou-Walton,4056,3612.0,399.0,24.0,69.0,3.0,3918.0,WaikatoRegion,2001
+137,Te Aroha,3687,3237.0,477.0,51.0,114.0,12.0,3558.0,WaikatoRegion,2001
+138,Morrinsville West,2490,1908.0,549.0,66.0,108.0,6.0,2424.0,WaikatoRegion,2001
+139,Morrinsville East,3678,3330.0,345.0,33.0,96.0,3.0,3603.0,WaikatoRegion,2001
+140,Waharoa,531,204.0,345.0,9.0,3.0,0.0,507.0,WaikatoRegion,2001
+141,Tirau,723,552.0,171.0,6.0,24.0,0.0,696.0,WaikatoRegion,2001
+142,Mangakaretu,186,156.0,27.0,6.0,0.0,0.0,171.0,WaikatoRegion,2001
+143,Kinleith,222,183.0,24.0,9.0,6.0,0.0,210.0,WaikatoRegion,2001
+144,Okauia,1854,1668.0,228.0,9.0,18.0,0.0,1794.0,WaikatoRegion,2001
+145,Te Poi,789,681.0,90.0,6.0,3.0,0.0,753.0,WaikatoRegion,2001
+146,Tapapa,1020,861.0,183.0,9.0,3.0,0.0,984.0,WaikatoRegion,2001
+147,Karapiro,2166,2037.0,114.0,15.0,15.0,6.0,2118.0,WaikatoRegion,2001
+148,Hinuera,894,828.0,60.0,3.0,0.0,0.0,852.0,WaikatoRegion,2001
+149,Arapuni,2160,1911.0,258.0,33.0,12.0,3.0,2052.0,WaikatoRegion,2001
+150,Lichfield,846,771.0,93.0,12.0,0.0,0.0,816.0,WaikatoRegion,2001
+151,Wawa,504,459.0,57.0,6.0,9.0,3.0,486.0,WaikatoRegion,2001
+152,Paraonui,1845,1467.0,324.0,114.0,63.0,12.0,1785.0,WaikatoRegion,2001
+153,Parkdale,789,495.0,258.0,171.0,9.0,0.0,756.0,WaikatoRegion,2001
+154,Matarawa,2211,1278.0,795.0,384.0,54.0,9.0,2133.0,WaikatoRegion,2001
+155,Stanley Park,2274,1188.0,873.0,486.0,18.0,3.0,2115.0,WaikatoRegion,2001
+156,Tokoroa Central,927,405.0,474.0,249.0,12.0,3.0,900.0,WaikatoRegion,2001
+157,Aotea,3360,2061.0,1200.0,630.0,57.0,0.0,3225.0,WaikatoRegion,2001
+158,Strathmore,2439,1140.0,966.0,636.0,45.0,0.0,2322.0,WaikatoRegion,2001
+159,Amisfield,174,141.0,27.0,12.0,3.0,0.0,162.0,WaikatoRegion,2001
+160,Matamata,6078,5292.0,756.0,48.0,120.0,3.0,5922.0,WaikatoRegion,2001
+161,Putaruru,3783,2829.0,1116.0,90.0,42.0,3.0,3639.0,WaikatoRegion,2001
+162,Golden Springs,1206,1080.0,162.0,9.0,6.0,3.0,1155.0,WaikatoRegion,2001
+163,Reporoa,555,387.0,240.0,21.0,3.0,0.0,540.0,WaikatoRegion,2001
+164,Ngakuru,1545,1350.0,225.0,12.0,12.0,0.0,1485.0,WaikatoRegion,2001
+165,Arahiwi,123,90.0,15.0,0.0,0.0,0.0,93.0,WaikatoRegion,2001
+166,Mangakino,1281,711.0,699.0,36.0,24.0,3.0,1248.0,WaikatoRegion,2001
+167,Turangi,3441,1773.0,1980.0,93.0,48.0,9.0,3300.0,WaikatoRegion,2001
+168,Acacia Bay,1086,1008.0,63.0,0.0,12.0,0.0,1044.0,WaikatoRegion,2001
+169,Wairakei-Aratiatia,570,330.0,279.0,30.0,9.0,0.0,540.0,WaikatoRegion,2001
+170,Maunganamu,36,21.0,6.0,0.0,0.0,0.0,30.0,WaikatoRegion,2001
+171,Taupo East,12,9.0,0.0,0.0,0.0,0.0,9.0,WaikatoRegion,2001
+172,Wharewaka,288,273.0,12.0,0.0,6.0,3.0,279.0,WaikatoRegion,2001
+173,Rangatira Park,522,459.0,57.0,12.0,6.0,0.0,489.0,WaikatoRegion,2001
+174,Rangatira,57,42.0,9.0,0.0,0.0,0.0,51.0,WaikatoRegion,2001
+175,Lakewood,807,714.0,87.0,12.0,27.0,6.0,780.0,WaikatoRegion,2001
+176,Marotiri,1284,1128.0,225.0,9.0,6.0,0.0,1251.0,WaikatoRegion,2001
+177,Oruanui,2124,1830.0,333.0,18.0,18.0,0.0,2031.0,WaikatoRegion,2001
+178,Iwitahi,1986,1248.0,777.0,54.0,12.0,3.0,1830.0,WaikatoRegion,2001
+179,Rangipo,267,69.0,159.0,27.0,6.0,0.0,234.0,WaikatoRegion,2001
+180,Nukuhau,1296,951.0,288.0,21.0,27.0,3.0,1185.0,WaikatoRegion,2001
+181,Central Taupo,3705,2670.0,903.0,162.0,87.0,12.0,3438.0,WaikatoRegion,2001
+182,Tauhara,4185,2799.0,1488.0,207.0,60.0,0.0,3933.0,WaikatoRegion,2001
+183,Hilltop,3669,3120.0,522.0,93.0,57.0,9.0,3504.0,WaikatoRegion,2001
+184,Waipahihi,1848,1662.0,207.0,15.0,21.0,3.0,1779.0,WaikatoRegion,2001
+185,Richmond Heights,2232,1812.0,414.0,66.0,21.0,3.0,2112.0,WaikatoRegion,2001
+186,Te Motu Island,0,,,,,,,WaikatoRegion,2001
+187,Inlet-Raglan Harbour,0,,,,,,,WaikatoRegion,2001
+188,Inlet-Aotea Harbour North,0,,,,,,,WaikatoRegion,2001
+189,Inlets-Otorohanga District,3,,,,,,,WaikatoRegion,2001
+190,Inlet-Waitomo District,0,,,,,,,WaikatoRegion,2001
+191,Oceanic-Waikato Region West,3,,,,,,,WaikatoRegion,2001
+192,Inlets-Thames-Coromandel District,3,,,,,,,WaikatoRegion,2001
+193,Islands-Thames-Coromandel District,9,9.0,0.0,0.0,0.0,0.0,6.0,WaikatoRegion,2001
+194,Bays-Thames-Coromandel District,0,,,,,,,WaikatoRegion,2001
+195,Oceanic-Waikato Region East,0,,,,,,,WaikatoRegion,2001
+196,Inlet-Firth of Thames,0,,,,,,,WaikatoRegion,2001
+197,Inland Water-Lake Taupo,6,,,,,,,WaikatoRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,WellingtonRegion,423768,331509.0,51120.0,32283.0,27819.0,3798.0,409893.0,NewZealand,2001
+2,Mara,9,9.0,6.0,0.0,0.0,0.0,9.0,WellingtonRegion,2001
+3,Waikanae Beach,2451,2223.0,201.0,51.0,21.0,12.0,2343.0,WellingtonRegion,2001
+4,Waikanae East,1791,1689.0,96.0,33.0,12.0,3.0,1746.0,WellingtonRegion,2001
+5,Peka Peka,192,186.0,6.0,0.0,0.0,3.0,189.0,WellingtonRegion,2001
+6,Waikanae Park,1824,1740.0,66.0,12.0,15.0,3.0,1788.0,WellingtonRegion,2001
+7,Waikanae West,3309,3093.0,174.0,15.0,42.0,0.0,3195.0,WellingtonRegion,2001
+8,Kaitawa,390,360.0,9.0,3.0,9.0,0.0,366.0,WellingtonRegion,2001
+9,Otaki Forks,1476,1332.0,123.0,21.0,30.0,3.0,1401.0,WellingtonRegion,2001
+10,Te Horo,642,564.0,54.0,9.0,9.0,0.0,600.0,WellingtonRegion,2001
+11,Otaki,5643,4044.0,1701.0,192.0,234.0,3.0,5448.0,WellingtonRegion,2001
+12,Heretaunga Park,1257,1149.0,57.0,30.0,57.0,3.0,1236.0,WellingtonRegion,2001
+13,Trentham South,630,354.0,180.0,51.0,18.0,0.0,564.0,WellingtonRegion,2001
+14,Pinehaven,3090,2883.0,183.0,54.0,78.0,15.0,3039.0,WellingtonRegion,2001
+15,Nabhra,276,264.0,6.0,0.0,3.0,0.0,273.0,WellingtonRegion,2001
+16,Glendale,3525,2271.0,1215.0,441.0,114.0,21.0,3438.0,WellingtonRegion,2001
+17,Parkway,2988,2193.0,558.0,384.0,192.0,9.0,2952.0,WellingtonRegion,2001
+18,Fernlea,1998,1455.0,447.0,216.0,114.0,6.0,1980.0,WellingtonRegion,2001
+19,Arakura,2526,1671.0,747.0,330.0,120.0,12.0,2481.0,WellingtonRegion,2001
+20,Homedale West,2487,1911.0,591.0,180.0,66.0,6.0,2409.0,WellingtonRegion,2001
+21,Homedale East,3081,2376.0,681.0,249.0,84.0,3.0,2994.0,WellingtonRegion,2001
+22,Pencarrow,456,414.0,33.0,3.0,9.0,0.0,435.0,WellingtonRegion,2001
+23,Pauatahanui,831,774.0,39.0,6.0,9.0,3.0,801.0,WellingtonRegion,2001
+24,Endeavour,2586,2376.0,108.0,39.0,120.0,12.0,2541.0,WellingtonRegion,2001
+25,Resolution,423,384.0,12.0,3.0,27.0,0.0,414.0,WellingtonRegion,2001
+26,Adventure,1239,1017.0,135.0,159.0,30.0,6.0,1215.0,WellingtonRegion,2001
+27,Paekakariki Hill,120,108.0,18.0,0.0,0.0,0.0,117.0,WellingtonRegion,2001
+28,Paraparaumu Beach North,3168,2919.0,306.0,33.0,63.0,0.0,3078.0,WellingtonRegion,2001
+29,Otaihanga,993,924.0,72.0,12.0,15.0,0.0,957.0,WellingtonRegion,2001
+30,Paraparaumu Beach South,3921,3666.0,267.0,27.0,78.0,0.0,3828.0,WellingtonRegion,2001
+31,Paraparaumu Central,6834,6027.0,867.0,201.0,159.0,12.0,6591.0,WellingtonRegion,2001
+32,Raumati Beach,4170,3924.0,246.0,78.0,69.0,18.0,4080.0,WellingtonRegion,2001
+33,Raumati South,3282,3045.0,288.0,54.0,57.0,9.0,3207.0,WellingtonRegion,2001
+34,Paekakariki,1731,1485.0,342.0,45.0,30.0,12.0,1683.0,WellingtonRegion,2001
+35,Kapiti Island,9,6.0,3.0,0.0,0.0,0.0,6.0,WellingtonRegion,2001
+36,Maungakotukutuku,621,567.0,42.0,9.0,6.0,3.0,588.0,WellingtonRegion,2001
+37,Te Marua,981,867.0,111.0,15.0,9.0,3.0,939.0,WellingtonRegion,2001
+38,Akatarawa,636,564.0,87.0,21.0,9.0,6.0,621.0,WellingtonRegion,2001
+39,Emerald Hill,2541,2253.0,306.0,48.0,36.0,6.0,2454.0,WellingtonRegion,2001
+40,Maoribank,2397,1773.0,585.0,195.0,75.0,6.0,2316.0,WellingtonRegion,2001
+41,Clouston Park,2214,1866.0,351.0,90.0,66.0,6.0,2142.0,WellingtonRegion,2001
+42,Totara Park,2871,2592.0,345.0,54.0,66.0,9.0,2838.0,WellingtonRegion,2001
+43,Ebdentown,2178,1908.0,252.0,69.0,84.0,0.0,2139.0,WellingtonRegion,2001
+44,Upper Hutt Central,294,231.0,69.0,12.0,21.0,0.0,288.0,WellingtonRegion,2001
+45,Maidstone,144,90.0,42.0,39.0,3.0,0.0,144.0,WellingtonRegion,2001
+46,Wallaceville,2061,1779.0,264.0,90.0,69.0,6.0,2022.0,WellingtonRegion,2001
+47,Elderslea,3126,2628.0,414.0,138.0,159.0,12.0,3096.0,WellingtonRegion,2001
+48,Moonshine,2292,1992.0,243.0,105.0,84.0,0.0,2256.0,WellingtonRegion,2001
+49,Brentwood,1983,1491.0,318.0,141.0,144.0,51.0,1932.0,WellingtonRegion,2001
+50,Trentham North,2646,2127.0,408.0,165.0,129.0,15.0,2607.0,WellingtonRegion,2001
+51,Heretaunga-Silverstream,3192,2862.0,345.0,78.0,108.0,12.0,3159.0,WellingtonRegion,2001
+52,Cloustonville,324,291.0,21.0,6.0,3.0,0.0,303.0,WellingtonRegion,2001
+53,Mangaroa,1242,1131.0,84.0,18.0,9.0,3.0,1179.0,WellingtonRegion,2001
+54,Tawhai,3147,2670.0,468.0,150.0,126.0,9.0,3069.0,WellingtonRegion,2001
+55,Holborn,2034,1554.0,453.0,162.0,57.0,6.0,1989.0,WellingtonRegion,2001
+56,Delaney,2340,1434.0,633.0,339.0,120.0,9.0,2253.0,WellingtonRegion,2001
+57,Manuka,1677,1497.0,171.0,42.0,48.0,3.0,1635.0,WellingtonRegion,2001
+58,Taita North,2856,1215.0,714.0,1071.0,138.0,6.0,2733.0,WellingtonRegion,2001
+59,Taita South,2751,1599.0,663.0,585.0,207.0,3.0,2655.0,WellingtonRegion,2001
+60,Avalon East,2238,1437.0,294.0,276.0,264.0,132.0,2199.0,WellingtonRegion,2001
+61,Naenae North,4440,2619.0,1044.0,924.0,252.0,51.0,4305.0,WellingtonRegion,2001
+62,Naenae South,3561,2172.0,873.0,567.0,243.0,36.0,3468.0,WellingtonRegion,2001
+63,Avalon West,2301,1767.0,147.0,102.0,315.0,36.0,2250.0,WellingtonRegion,2001
+64,Boulcott,2424,2025.0,168.0,75.0,219.0,24.0,2361.0,WellingtonRegion,2001
+65,Epuni West,2940,2364.0,306.0,147.0,276.0,21.0,2880.0,WellingtonRegion,2001
+66,Epuni East,2931,2208.0,339.0,261.0,267.0,36.0,2874.0,WellingtonRegion,2001
+67,Waterloo West,924,756.0,39.0,15.0,123.0,3.0,906.0,WellingtonRegion,2001
+68,Waterloo East,4134,3507.0,336.0,123.0,354.0,15.0,4089.0,WellingtonRegion,2001
+69,Waiwhetu North,1413,918.0,387.0,150.0,105.0,9.0,1383.0,WellingtonRegion,2001
+70,Waiwhetu South,2178,1590.0,315.0,258.0,120.0,15.0,2091.0,WellingtonRegion,2001
+71,Gracefield,72,48.0,21.0,3.0,0.0,0.0,66.0,WellingtonRegion,2001
+72,Moera,1668,792.0,462.0,294.0,234.0,6.0,1584.0,WellingtonRegion,2001
+73,Woburn North,1311,1152.0,72.0,18.0,105.0,9.0,1290.0,WellingtonRegion,2001
+74,Woburn South,417,348.0,57.0,21.0,21.0,0.0,417.0,WellingtonRegion,2001
+75,Hutt Central,3606,3078.0,156.0,36.0,390.0,30.0,3552.0,WellingtonRegion,2001
+76,Melling,537,396.0,81.0,24.0,51.0,9.0,504.0,WellingtonRegion,2001
+77,Alicetown,1869,1464.0,252.0,108.0,159.0,12.0,1824.0,WellingtonRegion,2001
+78,Normandale,2052,1866.0,105.0,39.0,81.0,21.0,2016.0,WellingtonRegion,2001
+79,Maungaraki,3411,2835.0,189.0,78.0,372.0,27.0,3303.0,WellingtonRegion,2001
+80,Belmont,3468,3138.0,195.0,57.0,162.0,27.0,3417.0,WellingtonRegion,2001
+81,Kelson,2610,2199.0,177.0,93.0,288.0,3.0,2580.0,WellingtonRegion,2001
+82,Haywards-Manor Park,372,318.0,48.0,18.0,15.0,0.0,363.0,WellingtonRegion,2001
+83,Korokoro,1272,1137.0,75.0,27.0,42.0,12.0,1227.0,WellingtonRegion,2001
+84,Petone Central,843,600.0,150.0,66.0,69.0,6.0,804.0,WellingtonRegion,2001
+85,Esplanade,2436,1611.0,501.0,300.0,162.0,12.0,2310.0,WellingtonRegion,2001
+86,Wilford,3486,2307.0,585.0,474.0,348.0,6.0,3354.0,WellingtonRegion,2001
+87,Eastbourne,4704,4467.0,159.0,39.0,66.0,15.0,4575.0,WellingtonRegion,2001
+88,Titahi Bay North,2373,1740.0,747.0,243.0,63.0,6.0,2277.0,WellingtonRegion,2001
+89,Onepoto,1857,1308.0,552.0,237.0,72.0,12.0,1800.0,WellingtonRegion,2001
+90,Titahi Bay South,3126,2211.0,954.0,435.0,78.0,15.0,2970.0,WellingtonRegion,2001
+91,Elsdon-Takapuwahia,2262,1059.0,963.0,555.0,87.0,3.0,2097.0,WellingtonRegion,2001
+92,Porirua Central,231,111.0,99.0,30.0,6.0,0.0,216.0,WellingtonRegion,2001
+93,Porirua East,1995,996.0,603.0,708.0,72.0,18.0,1893.0,WellingtonRegion,2001
+94,Ranui Heights,1260,888.0,240.0,267.0,78.0,6.0,1230.0,WellingtonRegion,2001
+95,Cannons Creek North,3156,762.0,840.0,1776.0,150.0,6.0,2943.0,WellingtonRegion,2001
+96,Cannons Creek South,1623,444.0,372.0,939.0,87.0,9.0,1551.0,WellingtonRegion,2001
+97,Cannons Creek East,3873,735.0,795.0,2529.0,183.0,42.0,3732.0,WellingtonRegion,2001
+98,Waitangirua,4236,885.0,990.0,2766.0,177.0,0.0,4119.0,WellingtonRegion,2001
+99,Papakowhai,2229,1950.0,216.0,57.0,129.0,3.0,2184.0,WellingtonRegion,2001
+100,Ascot Park,2814,1338.0,822.0,1131.0,144.0,9.0,2760.0,WellingtonRegion,2001
+101,Pukerua Bay,1692,1554.0,156.0,36.0,30.0,9.0,1656.0,WellingtonRegion,2001
+102,Plimmerton,2052,1821.0,198.0,48.0,39.0,12.0,1980.0,WellingtonRegion,2001
+103,Mana-Camborne,2238,2079.0,153.0,48.0,66.0,3.0,2202.0,WellingtonRegion,2001
+104,Paremata-Postgate,2391,2181.0,216.0,126.0,51.0,6.0,2361.0,WellingtonRegion,2001
+105,Discovery,2733,2520.0,150.0,90.0,114.0,3.0,2703.0,WellingtonRegion,2001
+106,Mana Island,3,,,,,,,WellingtonRegion,2001
+107,Tawa South,3507,3027.0,213.0,111.0,255.0,24.0,3411.0,WellingtonRegion,2001
+108,Central Tawa,4092,3411.0,291.0,198.0,336.0,33.0,3972.0,WellingtonRegion,2001
+109,Linden,3795,2769.0,414.0,309.0,468.0,12.0,3645.0,WellingtonRegion,2001
+110,Greenacres,1218,1089.0,48.0,30.0,78.0,0.0,1188.0,WellingtonRegion,2001
+111,Thorndon-Tinakori Road,3153,2703.0,171.0,42.0,171.0,30.0,2991.0,WellingtonRegion,2001
+112,Lambton,3702,2463.0,231.0,78.0,615.0,48.0,3234.0,WellingtonRegion,2001
+113,Willis Street-Cambridge Terrace,3027,2253.0,216.0,78.0,261.0,21.0,2619.0,WellingtonRegion,2001
+114,Aro Street-Nairn Street,3318,2505.0,279.0,147.0,306.0,126.0,3114.0,WellingtonRegion,2001
+115,Mt Cook-Wallace Street,3522,2478.0,342.0,294.0,357.0,93.0,3285.0,WellingtonRegion,2001
+116,Mt Victoria West,5013,4206.0,348.0,114.0,426.0,63.0,4815.0,WellingtonRegion,2001
+117,Churton Park,150,138.0,6.0,3.0,3.0,3.0,150.0,WellingtonRegion,2001
+118,Churton,4425,3381.0,156.0,54.0,927.0,33.0,4347.0,WellingtonRegion,2001
+119,Grenada,387,354.0,12.0,6.0,6.0,3.0,369.0,WellingtonRegion,2001
+120,Grenada North,348,189.0,93.0,75.0,24.0,0.0,333.0,WellingtonRegion,2001
+121,Paparangi,918,774.0,84.0,27.0,93.0,0.0,903.0,WellingtonRegion,2001
+122,Newlands East,450,306.0,42.0,18.0,120.0,3.0,447.0,WellingtonRegion,2001
+123,Johnsonville North,1830,1500.0,126.0,63.0,186.0,15.0,1776.0,WellingtonRegion,2001
+124,Johnsonville South,2703,1986.0,252.0,111.0,435.0,24.0,2631.0,WellingtonRegion,2001
+125,Johnsonville East,1914,1527.0,216.0,96.0,156.0,21.0,1857.0,WellingtonRegion,2001
+126,Newlands North,4833,3417.0,528.0,300.0,804.0,54.0,4707.0,WellingtonRegion,2001
+127,Newlands South,3255,2376.0,375.0,234.0,435.0,27.0,3141.0,WellingtonRegion,2001
+128,Ngauranga East,39,27.0,3.0,6.0,0.0,0.0,30.0,WellingtonRegion,2001
+129,Raroa,3039,2364.0,249.0,117.0,441.0,15.0,2967.0,WellingtonRegion,2001
+130,Khandallah Park,2550,2082.0,84.0,30.0,393.0,18.0,2496.0,WellingtonRegion,2001
+131,Te Kainga,3435,3018.0,105.0,51.0,261.0,24.0,3363.0,WellingtonRegion,2001
+132,Ngauranga West,0,,,,,,,WellingtonRegion,2001
+133,Rangoon Heights,2097,1866.0,120.0,30.0,132.0,36.0,2046.0,WellingtonRegion,2001
+134,Awarua,3210,2760.0,126.0,54.0,288.0,27.0,3108.0,WellingtonRegion,2001
+135,Ngaio,2913,2658.0,171.0,66.0,129.0,21.0,2868.0,WellingtonRegion,2001
+136,Kaiwharawhara,15,18.0,0.0,0.0,0.0,0.0,18.0,WellingtonRegion,2001
+137,Wadestown,3066,2913.0,114.0,30.0,84.0,18.0,3009.0,WellingtonRegion,2001
+138,Wilton-Otari,3966,3480.0,297.0,117.0,228.0,30.0,3891.0,WellingtonRegion,2001
+139,Johnston Hill,2253,2007.0,87.0,33.0,171.0,18.0,2217.0,WellingtonRegion,2001
+140,Karori Park,3936,2820.0,267.0,267.0,693.0,81.0,3852.0,WellingtonRegion,2001
+141,Karori East,3384,3087.0,81.0,57.0,180.0,30.0,3303.0,WellingtonRegion,2001
+142,Wright Hill,3651,2886.0,171.0,129.0,501.0,90.0,3585.0,WellingtonRegion,2001
+143,Northland,2385,2145.0,123.0,48.0,87.0,21.0,2301.0,WellingtonRegion,2001
+144,Kelburn,3486,3111.0,150.0,48.0,258.0,42.0,3417.0,WellingtonRegion,2001
+145,Taitville,417,378.0,18.0,3.0,18.0,3.0,402.0,WellingtonRegion,2001
+146,Mitchelltown,567,513.0,33.0,3.0,9.0,3.0,540.0,WellingtonRegion,2001
+147,Brooklyn,3684,3072.0,189.0,69.0,345.0,21.0,3495.0,WellingtonRegion,2001
+148,Vogeltown,1791,1524.0,105.0,81.0,102.0,6.0,1713.0,WellingtonRegion,2001
+149,Kingston,2139,1518.0,129.0,105.0,390.0,51.0,2067.0,WellingtonRegion,2001
+150,Brooklyn South,861,603.0,27.0,69.0,183.0,15.0,837.0,WellingtonRegion,2001
+151,Happy Valley-Owhiro Bay,1371,969.0,132.0,108.0,165.0,21.0,1269.0,WellingtonRegion,2001
+152,Island Bay West,3138,2610.0,249.0,141.0,249.0,39.0,3051.0,WellingtonRegion,2001
+153,Island Bay East,3501,2883.0,231.0,198.0,270.0,48.0,3363.0,WellingtonRegion,2001
+154,Melrose,3042,2502.0,243.0,159.0,189.0,63.0,2937.0,WellingtonRegion,2001
+155,Berhampore,2367,1491.0,240.0,288.0,234.0,132.0,2175.0,WellingtonRegion,2001
+156,Newtown West,3552,2328.0,408.0,357.0,336.0,153.0,3276.0,WellingtonRegion,2001
+157,Newtown East,4395,2463.0,474.0,717.0,504.0,279.0,4053.0,WellingtonRegion,2001
+158,Adelaide,846,618.0,84.0,57.0,114.0,9.0,816.0,WellingtonRegion,2001
+159,Oriental Bay,1059,924.0,48.0,15.0,54.0,3.0,999.0,WellingtonRegion,2001
+160,Roseneath,1440,1305.0,66.0,15.0,60.0,18.0,1386.0,WellingtonRegion,2001
+161,Hataitai,4107,3612.0,237.0,102.0,237.0,30.0,3966.0,WellingtonRegion,2001
+162,Kilbirnie East,2901,1656.0,432.0,306.0,504.0,183.0,2766.0,WellingtonRegion,2001
+163,Kilbirnie West,2940,2445.0,267.0,171.0,168.0,27.0,2835.0,WellingtonRegion,2001
+164,Lyall Bay,2868,2088.0,288.0,261.0,342.0,54.0,2751.0,WellingtonRegion,2001
+165,Strathmore Park,4233,2631.0,444.0,750.0,387.0,93.0,3957.0,WellingtonRegion,2001
+166,Miramar South,3141,2118.0,222.0,279.0,549.0,69.0,3003.0,WellingtonRegion,2001
+167,Miramar North,4623,3381.0,321.0,267.0,594.0,123.0,4416.0,WellingtonRegion,2001
+168,Karaka Bay-Worser Bay,1128,1017.0,42.0,21.0,21.0,9.0,1059.0,WellingtonRegion,2001
+169,Seatoun,1992,1812.0,99.0,36.0,102.0,9.0,1947.0,WellingtonRegion,2001
+170,Maupuia,1884,1029.0,192.0,225.0,408.0,84.0,1797.0,WellingtonRegion,2001
+171,Makara-Ohariu,843,753.0,66.0,21.0,54.0,9.0,825.0,WellingtonRegion,2001
+172,Homebush-Te Ore Ore,513,474.0,75.0,3.0,3.0,0.0,507.0,WellingtonRegion,2001
+173,Opaki-Fernridge,1194,1122.0,75.0,6.0,12.0,3.0,1164.0,WellingtonRegion,2001
+174,Kopuaranga,1371,1296.0,75.0,9.0,3.0,0.0,1341.0,WellingtonRegion,2001
+175,Whareama,1746,1554.0,168.0,30.0,6.0,3.0,1656.0,WellingtonRegion,2001
+176,Masterton Central,684,576.0,111.0,27.0,24.0,6.0,669.0,WellingtonRegion,2001
+177,Masterton West,3063,2766.0,390.0,69.0,57.0,15.0,3024.0,WellingtonRegion,2001
+178,Masterton East,3474,2571.0,1032.0,210.0,48.0,12.0,3381.0,WellingtonRegion,2001
+179,Solway North,2196,1887.0,354.0,63.0,36.0,3.0,2160.0,WellingtonRegion,2001
+180,Solway South,2829,2433.0,513.0,72.0,33.0,3.0,2778.0,WellingtonRegion,2001
+181,Ngaumutawa,1293,1170.0,189.0,15.0,9.0,3.0,1275.0,WellingtonRegion,2001
+182,Masterton Railway,279,210.0,105.0,12.0,3.0,0.0,273.0,WellingtonRegion,2001
+183,Lansdowne,3975,3525.0,519.0,54.0,90.0,6.0,3918.0,WellingtonRegion,2001
+184,Waingawa,261,240.0,15.0,0.0,3.0,0.0,246.0,WellingtonRegion,2001
+185,Mt Holdsworth,1092,1026.0,54.0,15.0,9.0,6.0,1056.0,WellingtonRegion,2001
+186,Te Wharau,1395,1323.0,96.0,6.0,9.0,0.0,1359.0,WellingtonRegion,2001
+187,Carterton,4101,3714.0,537.0,93.0,48.0,6.0,4026.0,WellingtonRegion,2001
+188,Tuturumuri,438,381.0,69.0,0.0,3.0,3.0,420.0,WellingtonRegion,2001
+189,Kahutara,2628,2415.0,198.0,21.0,21.0,0.0,2526.0,WellingtonRegion,2001
+190,Inland Water-Lake Wairarapa,0,,,,,,,WellingtonRegion,2001
+191,Greytown,1998,1845.0,159.0,24.0,30.0,3.0,1953.0,WellingtonRegion,2001
+192,Featherston,2325,1980.0,381.0,57.0,45.0,6.0,2229.0,WellingtonRegion,2001
+193,Martinborough,1356,1083.0,288.0,18.0,15.0,0.0,1299.0,WellingtonRegion,2001
+194,Inlet-Wellington Harbour,60,39.0,3.0,0.0,6.0,0.0,51.0,WellingtonRegion,2001
+195,Inlet-Porirua Harbour,30,30.0,0.0,0.0,0.0,0.0,30.0,WellingtonRegion,2001
+196,Oceanic-Wellington Region,0,,,,,,,WellingtonRegion,2001
+0,TotalNZ,3737280,2871432.0,526281.0,231801.0,238179.0,24993.0,3586734.0,TOTAL,2001
+1,WestCoastRegion,30303,27789.0,2547.0,189.0,243.0,60.0,29115.0,NewZealand,2001
+2,Karamea,444,408.0,24.0,9.0,3.0,0.0,423.0,WestCoastRegion,2001
+3,Hector-Ngakawau,300,261.0,48.0,3.0,0.0,0.0,285.0,WestCoastRegion,2001
+4,Granity,243,228.0,30.0,3.0,6.0,0.0,240.0,WestCoastRegion,2001
+5,Orowaiti,639,588.0,39.0,0.0,3.0,0.0,609.0,WestCoastRegion,2001
+6,Little Wanganui,204,192.0,12.0,3.0,0.0,0.0,195.0,WestCoastRegion,2001
+7,Mokihinui,162,144.0,24.0,0.0,0.0,0.0,153.0,WestCoastRegion,2001
+8,Buller Coalfields,495,435.0,66.0,6.0,3.0,0.0,465.0,WestCoastRegion,2001
+9,Westport Rural,1065,987.0,66.0,6.0,12.0,6.0,1029.0,WestCoastRegion,2001
+10,Charleston,306,261.0,24.0,3.0,3.0,3.0,273.0,WestCoastRegion,2001
+11,Inangahua Junction,150,126.0,9.0,0.0,0.0,0.0,129.0,WestCoastRegion,2001
+12,Westport Urban,3783,3438.0,297.0,18.0,18.0,6.0,3633.0,WestCoastRegion,2001
+13,Reefton,987,921.0,90.0,3.0,9.0,0.0,963.0,WestCoastRegion,2001
+14,Inangahua Valley,309,297.0,18.0,0.0,0.0,0.0,300.0,WestCoastRegion,2001
+15,Mawheraiti,381,360.0,12.0,0.0,0.0,0.0,363.0,WestCoastRegion,2001
+16,Maruia,162,138.0,0.0,0.0,0.0,0.0,141.0,WestCoastRegion,2001
+17,Karoro,897,864.0,42.0,0.0,9.0,0.0,888.0,WestCoastRegion,2001
+18,Kaiata,342,333.0,21.0,0.0,3.0,0.0,339.0,WestCoastRegion,2001
+19,South Beach-Camerons,864,846.0,54.0,6.0,0.0,0.0,858.0,WestCoastRegion,2001
+20,Blackball,324,303.0,39.0,0.0,6.0,0.0,315.0,WestCoastRegion,2001
+21,Point Elizabeth,78,72.0,6.0,0.0,0.0,0.0,75.0,WestCoastRegion,2001
+22,Dobson,747,708.0,60.0,3.0,3.0,0.0,738.0,WestCoastRegion,2001
+23,Barrytown,195,177.0,18.0,0.0,0.0,0.0,180.0,WestCoastRegion,2001
+24,Coalcreek,42,39.0,0.0,0.0,0.0,0.0,39.0,WestCoastRegion,2001
+25,Atarau,150,138.0,6.0,3.0,0.0,3.0,144.0,WestCoastRegion,2001
+26,Greymouth Rural,66,63.0,3.0,0.0,0.0,0.0,63.0,WestCoastRegion,2001
+27,Marsden-Hohonu,330,291.0,30.0,3.0,0.0,0.0,303.0,WestCoastRegion,2001
+28,Arnold Valley,114,108.0,0.0,0.0,0.0,3.0,108.0,WestCoastRegion,2001
+29,Nelson Creek-Ngahere,315,291.0,30.0,3.0,3.0,0.0,303.0,WestCoastRegion,2001
+30,Ahaura,411,390.0,15.0,0.0,3.0,3.0,402.0,WestCoastRegion,2001
+31,Lake Brunner,264,240.0,21.0,3.0,3.0,0.0,261.0,WestCoastRegion,2001
+32,Haupiri,330,324.0,36.0,0.0,3.0,0.0,330.0,WestCoastRegion,2001
+33,Runanga-Rapahoe,1305,1242.0,114.0,3.0,3.0,0.0,1284.0,WestCoastRegion,2001
+34,Cobden,1677,1521.0,186.0,18.0,9.0,3.0,1614.0,WestCoastRegion,2001
+35,Blaketown,960,903.0,57.0,6.0,0.0,3.0,930.0,WestCoastRegion,2001
+36,Greymouth Central,669,612.0,60.0,6.0,18.0,6.0,648.0,WestCoastRegion,2001
+37,Greymouth South,2814,2622.0,159.0,24.0,42.0,15.0,2724.0,WestCoastRegion,2001
+38,Kumara,324,294.0,24.0,6.0,3.0,0.0,297.0,WestCoastRegion,2001
+39,Kaniere,390,378.0,30.0,0.0,3.0,0.0,381.0,WestCoastRegion,2001
+40,Ross,312,285.0,39.0,3.0,3.0,3.0,303.0,WestCoastRegion,2001
+41,Harihari,348,318.0,24.0,0.0,0.0,0.0,327.0,WestCoastRegion,2001
+42,Franz Josef,321,267.0,30.0,0.0,6.0,0.0,294.0,WestCoastRegion,2001
+43,Fox Glacier,258,225.0,18.0,3.0,15.0,0.0,249.0,WestCoastRegion,2001
+44,Taramakau,168,153.0,9.0,3.0,0.0,0.0,159.0,WestCoastRegion,2001
+45,Otira,57,45.0,9.0,0.0,0.0,0.0,48.0,WestCoastRegion,2001
+46,Waimea-Arahura,423,354.0,90.0,6.0,3.0,3.0,402.0,WestCoastRegion,2001
+47,Hokitika Rural,648,597.0,75.0,3.0,6.0,0.0,633.0,WestCoastRegion,2001
+48,Hokitika Valley,492,462.0,15.0,0.0,3.0,0.0,465.0,WestCoastRegion,2001
+49,Totara River,21,18.0,3.0,0.0,0.0,0.0,21.0,WestCoastRegion,2001
+50,Waitaha,108,99.0,6.0,3.0,3.0,0.0,105.0,WestCoastRegion,2001
+51,Whataroa,324,294.0,18.0,0.0,3.0,0.0,306.0,WestCoastRegion,2001
+52,Waio,72,60.0,0.0,0.0,3.0,3.0,63.0,WestCoastRegion,2001
+53,Karangarua,39,39.0,3.0,3.0,0.0,0.0,39.0,WestCoastRegion,2001
+54,Bruce Bay-Paringa,66,54.0,6.0,0.0,0.0,0.0,57.0,WestCoastRegion,2001
+55,Haast,312,246.0,24.0,3.0,0.0,3.0,258.0,WestCoastRegion,2001
+56,Hokitika Urban,3090,2727.0,414.0,27.0,24.0,3.0,2955.0,WestCoastRegion,2001
+57,Inlet-Buller River,0,,,,,,,WestCoastRegion,2001
+58,Oceanic-West Coast Region,9,0.0,0.0,0.0,0.0,0.0,0.0,WestCoastRegion,2001
