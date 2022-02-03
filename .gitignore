@@ -1,2 +1,9 @@
 **/.DS_Store
 data/regionData/
+data/GISData/statistical-area-2-2020-generalised-LONLAT.csv
+data/GISData/NZTM/
+data/GISData/statsnzstatistical-area-2-2020-generalised-SHP
+data/GISData/statsnzstatistical-area-2-2020-generalised-CSV
+data/GISData/statsnzstatistical-area-2-2020-centroid-true-CSV
+data/GISData/statsnzregional-council-2020-generalised-CSV
+literature/

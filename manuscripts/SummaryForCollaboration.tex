@@ -1,0 +1,191 @@
+\documentclass[3p, a4paper, authoryear, 11pt, fleqn, review]{elsarticle}
+\usepackage{acronym}
+\usepackage[linesnumbered, ruled, vlined]{algorithm2e}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{siunitx}
+\usepackage{graphicx}
+\graphicspath{
+	{./graphics/}
+}
+\usepackage{hyperref}
+
+\usepackage[left,mathlines]{lineno}
+\usepackage{enumitem}
+\usepackage[normalem]{ulem}
+\usepackage{pdflscape}
+
+
+\usepackage{natbib}
+	\bibliographystyle{apalike}
+
+\hypersetup{
+  	bookmarks=true,         % show bookmarks bar?
+    unicode=false,          % non-Latin characters in Acrobat's bookmarks
+    pdftoolbar=true,        % show Acrobat's toolbar?
+    pdfmenubar=true,        % show Acrobat's menu?
+    pdffitwindow=true,      % page fit to window when opened
+    pdftitle={}, 	% title
+    pdfauthor={},   % author
+    pdfsubject={},% subject of the document
+    pdfnewwindow=true,      % links in new window
+    pdfkeywords={},			%list of keywords
+    colorlinks=true,   		% false: boxed links; true: colored links
+    linkcolor=blue,        	% color of internal links
+    citecolor=blue, 		% color of links to bibliography
+    filecolor=blue,      	% color of file links
+    urlcolor=blue           % color of external links
+}	
+\usepackage{subfig}
+\usepackage{soul}
+\usepackage{float}
+\usepackage{supertabular}
+\usepackage{booktabs}
+\usepackage{textcomp}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\usepackage{url}
+\usepackage{booktabs}
+
+%This clashes with pdfpages package
+\usepackage[dvipsnames]{xcolor}
+\newcommand{\nmt}[1]{{\color{Maroon}{~(nmt: #1)}}}
+
+\usepackage{pdfpages}
+
+
+
+\title{Studying logistics sprawl in New Zealand's urban centres (2000--2020):\\ Brief introduction for collaboration}
+
+%\author{\textbf{Anonymous, for review}}
+
+\author[UW]{Nadia M. Trent\fnref{ead1}}
+\fntext[ead1]{ nadia.trent@waikato.ac.nz (N.M. Trent, corresponding author)}
+
+
+%\author[UP1]{Johan W. Joubert\fnref{ead2}}
+%\fntext[ead2]{ johan.jouberth@up.ac.za (J.W. Joubert)}
+
+
+
+\address[UW]{School of Management and Marketing, University of Waikato}
+%\address[UP1]{Department of Industrial and Systems Engineering, University of Pretoria}
+
+
+
+\journal{(early draft)}
+
+\begin{document}
+\acrodef{SA2}{Statistical Area 2}
+\acrodef{NZTM2000}{New Zealand Transverse Mercator 2000}
+
+
+
+%\begin{abstract}\small
+%Some abstract
+%\end{abstract}
+
+%\begin{keyword}
+%keyword 1
+%\end{keyword}
+
+
+\maketitle
+
+
+\section{Introduction}
+\label{sec:Intro}
+\nmt{Draft from manuscript for the Journal of Transport Geography. It must be paraphrased / updated later.}
+
+Urban logistics systems have been adapting to sprawling populations, supply chain globalisation, changing consumer behaviour, and prescriptive land use planning for the past few decades \citep{AljohaniThompson2016, He_etal2018, Sakai_etal2015, Kang2020}. With a few notable exceptions such as Seattle \citep{Dablanc_etal2014}, evidence from Europe \citep{DablancRakotonarivo2010, Kumhalova2019,Strale2020}, North America \citep{Cidell2010, Jaller_etal2017, Kang2020, Kang2020b, Kang2020c}, Asia \citep{He_etal2019, LimPark2020, Sakai_etal2015, Sakai_etal2017}, India, Australia, and South Africa \citep{CoetzeeSwanepoel2017} shows that these systems adapt by moving their facilities --- particularly warehouses and distribution centres --- further away from densely populated city centres. 
+This trend of decentralisation is labelled ``logistics sprawl". In the study of logistics sprawl, three questions are asked: \emph{To what extent has logistics sprawl occurred?};\emph{Why are logistics facilities moving outward?}; and \emph{What is the impact of this trend?}. 
+
+In this study, we address the first two questions with regard to four New Zealand urban centres, namely Auckland, Wellington, Christchurch, and Waikato, for the period 2000--2020.  
+
+\subsection{To what extent has logistics sprawl occurred in an area?}
+\nmt{Draft from manuscript for the Journal of Transport Geography. It must be paraphrased / updated later.}\\
+Quantifying the extent of logistics sprawl has received the most attention in this field over the past 20 years. In their review paper of logistics sprawl and clustering studies, \citet{He_etal2018} found 28 empirical studies published between 2003--2018, 13 of which were published since 2016. We have identified \nmt{xx} further studies published since 2018 and a handful predating 2018 that were omitted by \citet{He_etal2018}. The general impetus of this work seems to be the concern about the negative externalities of logistics sprawl \citep{AljohaniThompson2016, He_etal2018, Yuan2018}.
+
+\citet{He_etal2018} categorise papers as studying sprawl and/or clustering, or as merely describing the spatial organisation of facilities at a point in time. 
+They note the diversity of the data sources and methodologies used by different researchers. They maintain that the most direct and effective means of measuring sprawl is to measure the average distance between logistics facilities and the urban centre \citep{He_etal2019}. We believe that while this measure is a good starting point, it is hopelessly too simplistic to really describe the underlying phenomena. Instead, we agree with \citet{Kang2020} who defines two dimensions of measurement. Studies measure centrality and/or concentration and do so either absolutely, considering only the logistics facilities, or relative to other phenomena such as population or general business sprawl. Relative metrics are becoming more popular due to their greater explanatory power (for example \citet{Kang2020, Sakai_etal2017, Strale2020}).
+
+
+This first study of logistics sprawl in New Zealand will focus on visualising the density of logistics facilities in the four urban areas and will consider how this evolved over 20 years. This will be compared to how the density of \emph{all} business facilities as well as population densities evolved over the same period. \nmt{I have started on this work already. It is my expectation that I will complete the analysis for this question. These results should offer a segue into the next section where the spatial correlation / regression work comes into play.}
+
+
+\subsection{Why are logistics facilities moving outward?}
+\nmt{Draft from manuscript for the Journal of Transport Geography. It must be paraphrased / updated later.}\\
+Many studies have investigated the factors that led to logistics sprawl in specific urban areas. Some studies use rich contextual narratives \citep{DablancRakotonarivo2010, He_etal2019,Strale2020} or comparisons of data trends \citep{Sakai_etal2016} to describe influencing factors. Other studies use modelling approaches --- such as regression models \citep{Cidell2010, LimPark2020}, discrete choice modelling \citep{Kang2020b}, ordinary least squares estimation \citep{Kang2020c}, statistical comparison analysis, or the analytical hierarchy process --- to pinpoint the most significant decision factors that influence warehouse location. Although the possibility of context-specific exceptions exist \citep{Cidell2010,Kang2020c}, a few general narratives are supported by the literature. Supply chains have restructured in response to the global economy, changing consumer behaviour and rapid advances in technology, communication, and logistics management \citep{Kang2020, Sakai_etal2015, Sakai_etal2017}. Thus larger land parcels at cheaper prices with greater access to regional transport infrastructure and less traffic congestion are desired. The results from previous studies also echo the narratives that facilities have been moved outward to avoid public opposition in densely populated or affluent areas \citep{He_etal2019, Strale2020, Yuan2018}, and to capitalise on incentives by local authorities to attract economic activity to their jurisdictions \citep{Strale2020}. 
+
+Answering the ``why" question for New Zealand requires both a modelling (spatial regression) and contextual description approach. In this first study we'll focus only on spatial regression. The intention is to identify whether some of the prevalent correlations (e.g. warehouses tend to be co-located with poorer communities) from studies elsewhere in the world are supported from the data in New Zealand. This will hopefully open a subsequent discussion on the contextual factors --- cultural, political, historical --- that could shed light on the correlations. 
+
+\section{Data}
+All the data downloaded for this study to date is publicly available and can be used freely as long as the data source (StatsNZ) is credited. 
+
+\subsection{Geographic areas}
+All the data we have is per \ac{SA2} which is the lowest level of geographic disaggregation reported publicly by StatsNZ. \acp{SA2} area aggregated into \emph{regional councils} (hereafter regions). For the purpose of this study we work with both \acp{SA2} and regions. 
+
+The \texttt{.csv} versions of the GIS files are available on the Google Drive. I found the \texttt{.csv} files easiest to work with in \texttt{Python}, but other file versions (like \texttt{.shp} or \texttt{.kml}) can be downloaded from \href{https://datafinder.stats.govt.nz/}{StatsNZ's datafinder service}. The files on the drive include:
+\begin{itemize}
+\item \texttt{statsnzstatistical-area-2-2020-generalised-CSV.zip} The polygons/multipolygons that constitute the \acp{SA2}. 
+\item \texttt{statsnzstatistical-area-2-2020-centroid-true-CSV.zip} The point data of the centroids of the \acp{SA2}. 
+\item \texttt{statsnzregional-council-2020-generalised-CSV.zip} The polygons/multipolygons that constitute the regions. 
+\end{itemize}
+
+All of these GIS files are in the \ac{NZTM2000} projection. I have converted all the GIS files to longitude and latitude for my own purposes and share that if necessary. 
+
+\subsection{Logistics facilities data}
+\label{sec:LogDat}
+The term ``logistics facilities" is broad and interpreted differently in studies depending on the data sources. Most commonly, warehouses and distribution centres are considered logistics facilities. Some studies include transport terminals (e.g. road, rail or intermodal terminals). In other words, the facilities required to store and move goods along their journey from supplier to consumer are considered logistics facilities. However, these two groups of facilities hardly address the overall scope of logistics. 
+
+Consider the supply chain of flour for household use. Wheat is moved from farms to mills. Mills are the ``manufacturing facilities" in this supply chain. Wheat is transformed into flour and packaged for sale in grocery stores. From the mill, pallets of packaged flour travel to a warehouse or distribution centre that is positioned closer to the consumer market. From there, flour can be transported to wholesale or retail outlets (or first to a wholesale and then to a retail outlet) where final consumers purchase the product. In this case the farm, the mill, the warehouse / distribution centre, the wholesale outlet, the retail outlet and any transport terminals involved are all logistics facilities. 
+
+Manufacturing facilities and the sources of raw materials (farms, mines etc.) are typically excluded in the study of logistics sprawl. One reason for this is that the locations of farms and mines are mostly set and not affected by urban development (unless, of course, arable land is taken up by urban sprawl). Another reason is that there is less of an incentive for manufacturing facilities to be ``amidst the population". Distance to supplier is often more important than distance to consumer. 
+
+Therefore, in this study, we have data about all logistics facilities downstream from manufacturing facilities. The ANZSIC industry classification has been used.
+
+\begin{description}
+\item[Retail trade]: ANZSIC category G
+\item[Wholesale trade]: ANZSIC category F	
+\item[Transport]: Combination of ANZSIC I461 (road freight transport), I471 (rail freight transport), and I481 (water freight transport).
+\item[Storage and distribution]: Combination of ANZSIC I51 (postal and courier pick-up) and I53 (warehousing and storage)
+\end{description}
+
+\noindent
+For each of the ANZSIC categories named above, as well as for industry as a whole, we have:
+\begin{itemize}
+\item \textbf{Data type A:} Geographic units per \ac{SA2} for each year from 2000 to 2020. A raw data sample for the Auckland region is on the drive. I have also uploaded the \texttt{.csv} I created by combining all the data for all the \acp{SA2} over all the years. I work with this combination file in my analysis. Be aware that the rows that report the national totals are duplicated. 
+\item \textbf{Data type C:} Births and deaths of geographic units per region for each year from 2000 to 2020. The raw data for 2019 and 2020 are uploaded as an illustration. I have not created a combo file of this data yet. (Let me know if you need all the raw files.)
+\end{itemize}
+
+
+\subsection{Population data}
+Census data is available for 2001, 2006, 2013, and 2018. However, there was a change in the reporting areas between 2001 and 2006. In 2001, the lowest level of aggregation was an \emph{area unit} and these do not match exactly with the \acp{SA2}. (Luckily, the logistics facilities data described in Section~\ref{sec:LogDat} have all been updated to the newest \ac{SA2} demarcations.) In addition to the geographic disparities, the reporting categories for variables such as personal income or work force status have also changed between 2001 and 2006. I have not yet determined how to match the 2001 data to the data from 2006, 2013, and 2018. My suggestion for now would be to omit 2001 data and start any population analyses from 2006. 
+
+The industry groupings in the census data do not exactly match the industry groupings discussed in Section~\ref{sec:LogDat}. In the census data the groupings are: Wholesale trade / Retail trade / Transport, postal and warehousing / All industry
+
+\begin{itemize}
+\item \textbf{Data type D:} Total personal income by industry for the employed census population aged 15 and older usually resident in the area. This data is per \ac{SA2} and per region. Categories are defined for income levels and a count of the number of people in each category is reported. I have loaded Auckland region's raw data onto the drive as well as the the combination files for 2001 and 2006-2018. \nmt{In hindsight, I think household income would be a better variable than personal income when measuring the poverty or affluence of a community. What do you think? This data is available, just needs to be downloaded.}
+\item \textbf{Data type E:} Population usually resident by ethnic group. This data is per \ac{SA2} and per region. Sample raw data for Auckland loaded onto Google Drive. Combination \texttt{.csv} files also uploaded.  
+\item \textbf{Data type F:} Work and labour force status for the employed census population aged 15 and older usually resident in the area. This data is per \ac{SA2} and per region. Sample raw data for Auckland loaded onto Google Drive. Combination \texttt{.csv} files also uploaded.
+\end{itemize}
+
+\section{Questions for regression analysis}
+
+\begin{description}
+\item[Spatial clustering of different types of logistics facilities.] Is there a correlation between the number of one type of logistics facility (e.g. transport facilities) and the number of another type of facility (e.g. retail trade) in an area? (Data type A)
+\item[Correlation with poorer communities.] Are logistics facilities more likely to be co-located with poorer communities? (Data types A and D)
+\item[Correlation with ethnic groups.] Are logistics facilities more likely to be co-located in communities that have higher densities of specific ethnic groups? (Data types A and E). \nmt{Keeping in mind that certain ethnic groups in New Zealand may be statistically ``poorer", so this may have to be combined with the previous bullet.} 
+\item[Correlation with work force type.] Are logistics facilities more likely to be co-located in communities that have higher densities of specific ethnic groups? (Data types A and F). \nmt{This could also be related to the previous two bullets.}
+\end{description}
+
+
+
+\section*{References}
+\bibliography{logisticSprawl_NZ}
+
+
+\end{document}
