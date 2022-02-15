@@ -8,3 +8,5 @@ data/GISData/statsnzstatistical-area-2-2020-centroid-true-CSV
 data/GISData/statsnzregional-council-2020-generalised-CSV
 literature/
 data/GISData/LONLAT_SA2_generalised.csv
+python/.ipynb_checkpoints/
+**/manuscript.pdf
