@@ -206,8 +206,8 @@ Figure~\ref{fig:method} is a graphic illustration of the research methodology. I
 
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=0.9\linewidth]{methodology.jpeg}
-    \caption{Graphic illustration of the research methodology.\nmt{remove birth and death stats - don't have for all industries}}
+    \includegraphics[width=0.9\linewidth]{methodology.png}
+    \caption{Graphic illustration of the research methodology.}
     \label{fig:method}
 \end{figure}
 
@@ -275,21 +275,9 @@ Figure~\ref{fig:method} is a graphic illustration of the research methodology. I
 
 \section{Findings}
 \label{sec:Findings}
+In studies of logistics sprawl, what constitutes ``logistics facilities" is interpreted differently, depending on the data sources. Most commonly, warehouses and distribution centres are considered logistics facilities. Some studies include transport terminals --- in other words, the facilities required to store and move goods along their journey from supplier to consumer. However, these two groups of facilities hardly address the overall supply chain. 
 
-
-\begin{figure}[h!]
-    \centering
-    \includegraphics[width=0.9\linewidth]{IndexedGrowth.png}
-    \caption{ccc}
-    \label{fig:growth}
-\end{figure}
-
-
-\nmt{NADIA CONTINUE HERE}
-\subsection{Exploring relative spatial organisation}
-In studies of logistics sprawl, what constitutes ``logistics facilities" is interpreted differently, depending on the data sources. Most commonly, warehouses and distribution centres are considered logistics facilities. Some studies include transport terminals --- in other words, the facilities required to store and move goods along their journey from supplier to consumer. However, these two groups of facilities hardly address the overall scope of logistics. 
-
-In this study of the spatial organisation of urban logistics, we include all facilities in the supply chain downstream of manufacturing. Manufacturing facilities and the sources of raw materials (farms, mines etc.) are excluded for two reasons. Firstly, the locations of farms and mines are mostly set and not affected by urban development. Secondly, there is less of an incentive for manufacturing facilities to be ``amidst the population". Distance to supplier is often more important than distance to consumer. We align the \ac{ANZSIC} categories to four categories of logistics facilities in this study as shown in Table~\ref{tab:Codes}. The fifth category in this study, ALL, includes all business facilities across all sectors of the economy and is used to compare trends between urban logistics facilities and business in general. 
+In this study we include all facilities in the supply chain downstream of manufacturing. Manufacturing facilities and the sources of raw materials (farms, mines etc.) are excluded for two reasons. Firstly, the locations of farms and mines are mostly set and not affected by urban development. Secondly, there is less of an incentive for manufacturing facilities to be ``amidst the population". Distance to supplier is often more important than distance to consumer. We align the \ac{ANZSIC} categories to four categories of logistics facilities in this study as shown in Table~\ref{tab:Codes}. The fifth category in this study, ALL, includes all business facilities across all sectors of the economy and is used to compare trends between urban logistics facilities and business in general. Finally, POP represents the total population statistics and is drawn from the census data in 2001, 2006, 2013, and 2018. 
 
 \begin{table}[!h]
 \caption{Alignment of study categories and ANZSIC codes}\label{tab:Codes}
@@ -302,11 +290,112 @@ Retail trade & RET & G (Retail trade)\\
 Wholesale trade & WSL & F (Wholesale trade)\\
 \\
 Transport terminals, warehousing \& distribution & TWD & I461 (road freight transport), I471 (rail freight transport), I481 (water freight transport), I51 (postal and courier pick-up), and I53 (warehousing and storage)\\ \\
-All logistics facilities & LOG & All categories included for RET, WSL and TWD\\ \\
+All logistics facilities & LOG & All categories included in RET, WSL and TWD\\ \\
 All business facilities & ALL & All ANZSIC categories are included\\
 \bottomrule
 \end{tabular}
 \end{table}
+
+\subsection{Exploring relative spatial organisation}
+\nmt{Some intro}
+
+\subsubsection{National and regional growth trends}
+The national growth trajectories and growth rates for each of the categories are shown in Figure~\ref{fig:Growth}. While the population grew by 25.8\% between 2001--2018, the number of ALL facilities grew by 46.2\% over roughly the same period (2000--2020). This means that the number of brick-and-mortar facilities required to do business grew at nearly double the rate of the population. \nmt{Insert comparison with economic growth when I have that timeseries.}
+
+The total number of logistics facilities (LOG), on the other hand, grew by only 8.4\% between 2000--2020. That is less than half the growth rate of the population and less than a quarter of the rate of ALL facilities. This could imply that logistics facilities became more efficient in processing volumes of goods as economic activity increased, that facilities grew in size (instead of number) to accommodate growing demand, that economic growth was primarily in the services sector which does not generate as much freight, or any combination of these three factors. \nmt{Could go back to NZ.Stat when it's back online to look at income per sector}
+
+Of the three logistics facility types in this study, RET facilities showed the strongest growth with the number of WSL and TWD facilities hardly growing at all over two decades. These disparities in growth rates between types of facilities that are all connected partners in the same supply chains, suggest that there were some fundamental changes over twenty years to the ways supply chains are structured and in the way they operate. 
+
+Despite the disparities in overall growth rates, there is a strong similarity in the growth trends. The indexed growth shows an initial dip in the number of all facilities between 2000 and 2003 with a recovery period up until 2006. The \ac{CAGR} between 2001--2006 was positive across all categories. Then followed a period of depressed population growth between 2006--2013 which is echoed in slower growth of ALL facilities and a reduction of the number of LOG facilities. From 2013--2018 there was robust growth in the population and the number of ALL facilities. The number of LOG facilities also grew steadily in this period, albeit at a lower rate. The period between 2018--2020 signals the start of another trough in the growth rates for the number of facilities with an expectation that the COVID pandemic from 2020 onwards would cause an even steeper dip in the number of facilities as businesses struggle and close. 
+
+On a national level, it is clear that there is a relationship between population growth, growth in the number of business facilities (ALL), and growth in the number of logistics facilities (LOG). But this relationship is not homogenous across Aotearoa New Zealand's diverse regions.  
+
+
+\begin{figure}
+\begin{minipage}{0.65\textwidth}
+    \includegraphics[width=1\textwidth]{IndexedGrowth.png}
+    
+    \label{fig:growth}
+\end{minipage}\hfill
+\begin{minipage}{0.35\textwidth}
+	%\caption{Comparison of growth rates (\%) across facility types and population growth rates}\label{tab:growthRates}
+    \begin{tabular}{l r r r r r}
+    \toprule
+    &&\multicolumn{3}{c}{CAGR (\%)}\\
+    \cline{3-5}
+    & \rotatebox[origin=c]{90}{Total growth\textsuperscript{*} (\%)} & \rotatebox[origin=c]{90}{2001--2006} & \rotatebox[origin=c]{90}{2006--2013} & \rotatebox[origin=c]{90}{2013--2018}&\rotatebox[origin=c]{90}{2018--2020}\\
+    \midrule
+    POP& 25.8&1.5&0.7&2.1& --\\
+    \midrule
+    ALL&46.2&4.1&0.6&2.2&1.8\\
+    \midrule
+    LOG&8.4&2.2&$-0.4$&0.9&$-0.4$\\
+    \midrule
+    RET& 16.1&2.6&0.1&0.9&$-0.3$\\
+    WSL& $0.8$&1.7&$-0.8$&0.6&$-1.1$\\
+    TWD&$0.4$&1.6&$-1.4$&1.2&0.7\\
+    \bottomrule
+    \end{tabular}\\
+    \flushleft
+    \textsuperscript{*} {\scriptsize Population growth: 2001--2018, Facility growth: 2000--2020}
+\end{minipage}
+\caption{ccc}\label{fig:Growth}
+\end{figure}
+
+Table~\ref{tab:regionalGrowth} shows the total growth per facility, by region, ordered according to total population growth. The six regions that contain the largest urban areas are listed separately while the more rural regions are combined into \emph{Rest of NZ}. The Auckland region led the race in terms of POP growth, ALL facilities growth and LOG facilities growth by a large margin. The strong growth in LOG facilities is attributed to the strong growth in RET facilities. The Bay of Plenty and Waikato regions had only a slightly lower POP growth rate than Auckland, but the growth in the number of facilities (ALL and LOG) was far lower. The Canterbury and Otago regions also had similar POP growth, but Otago added many more ALL facilities and LOG facilities relative to the increase in the population. Finally, Wellington, despite growth in both POP and ALL facilities, saw a reduction of LOG facilities. These regional differences show that it's more than just the number of people and general business growth that influence how urban logistics develop. 
+
+
+
+\begin{table}[h!]
+    \centering
+    \caption{Comparison of total regional growth rates in decreasing order of population growth.}\label{tab:regionalGrowth}
+    \begin{tabular}{l r c r r r | r }
+    \toprule
+    &\multicolumn{5}{c|}{20-year growth rate \%}&\multicolumn{1}{c}{17-year growth rate \% }\\
+    &\multicolumn{5}{c|}{2000-2020}&\multicolumn{1}{c}{2001--2018}\\
+    Region & ALL &LOG& RET & WSL & TWD & \multicolumn{1}{c}{POP} \\
+    \midrule
+    Auckland&67.3&20.0&40.2&5.9&0.5&35.6\\
+    Bay of Plenty&46.4&9.9&14.3&5.2&4.0&28.9\\
+    Waikato&35.1&9.1&11.8&6.4&5.1&28.1\\
+    Canterbury&47.6&5.6&12.5&$-4.3$&6.7&24.6\\
+    Otago&64.8&11.2&13.6&9.0&6.0&24.0\\
+    Wellington&39.3&$-12.3$&$-3.0$&$-25.4$&$-17.9$&19.6\\
+    Rest of NZ&24.0&$-1.6$&$-3.2$&1.0&$-0.5$&15.1\\
+    \bottomrule
+    \end{tabular}
+\end{table}
+
+In 2000, the Auckland region already held the lion's share of all types of facilities in the country (see Figure~\ref{fig:RegionalProp}) and, with the exception of the TWD facilities, Auckland's share increased over twenty years. People, general business, and logistics activity is most highly concentrated in the Auckland region with that concentration having intensified over the past two decades. In terms of logistics activity, it is the RET and WSL facilities that drove the trend, while the TWD facilities remained stable. This suggests that the Auckland region has intensified its position as a freight consuming region.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1.1\linewidth]{RegionalProp.png}
+    \caption{bbb}
+    \label{fig:RegionalProp}
+\end{figure}
+
+Other regions remained comparatively stable in terms of their shares of facilities and the population. This raises a question about the ratios of the different types of LOG facilities in the different regions. Figure~\ref{fig:FacProp} shows what proportion of all LOG facilities belonged to RET, WSL, and TWD in each region. The general trend that there are more RET facilities than WSL facilities and, in turn, more WSL facilities than TWD facilities supports the general notions of hierarchical supply chain design. One warehouse or distribution centre (TWD) can serve a number of WSL and RET facilities. Meanwhile, WSL facilities often sell on to a number of RET facilities. While the trend is intuitive, it is noteworthy that the proportions of RET facilities have increased while both WSL and TWD proportions decreased in all six of the urban regions. This aligns with the growth rate statistics in Figure~\ref{fig:Growth}. Increasingly more RET facilities have been established, but these are serviced by essentially the same number of WSL and TWD facilities than two decades ago.
+
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1.1\linewidth]{FacProp.png}
+    \caption{ddd}
+    \label{fig:FacProp}
+\end{figure}
+
+
+Next we consider how the spatial organisation of these facilities have changed inside the six study regions.
+
+
+\subsubsection{Spatial organisation within the six regions}
+
+\nmt{NADIA CONTINUE HERE}
+
+
+
+
 
 
 \section{Discussion and conclusion}
@@ -314,61 +403,8 @@ All business facilities & ALL & All ANZSIC categories are included\\
 
 \nmt{Remember to highlight methodological novelties}
 
-\section{Growth and densities over two decades}
-
-Growth in national number of facilities (all industries) over 20 years has been 46\%. At the same time, the number of distribution facilities only grew by 1.5\% while the number of selling facilities grew by 10\%. This is interesting. How has the population grown between 2001 and 2018. In 2000, for every distribution facility there were 5.2 sell facilities and 35.3 other types of facilities (all - distrib - sell). In 2020, the ratio between distribution and sellside facilities did not change drastically (1:5.7), but for every distribution facility there are now 53.9 other types of facilities. \nmt{What is the significance of that?} 
-
-The regions of Auckland, Canterbury, Waikato, and Wellington had the most logistics facilities (in absolute terms) in 2020. This is unsurprising. 
-
-%
-\begin{figure}[h!]
-\subfloat[All industries\label{fig:PieTotInd}]{
-	\begin{minipage}[t]{0.30\linewidth}
-	\centering
-	\includegraphics[width=1\linewidth]{PieTot_2020} \medskip \\
-	\end{minipage}
-}\hfill
-\subfloat[Transport \& storage\label{fig:PieDistrib}]{
-	\begin{minipage}[t]{0.30\linewidth}
-	\centering
-	\includegraphics[width=1\linewidth]{PieDistr_2020} \medskip \\
-	\end{minipage}
-}\hfill
-\subfloat[Wholesale \& retail\label{fig:PieSell}]{
-	\begin{minipage}[t]{0.30\linewidth}
-	\centering
-	\includegraphics[width=1\linewidth]{PieSell_2020} \medskip \\
-	\end{minipage}}
-\caption{Percentage of national facilities in each region (2020)}\label{fig:PercOfFac}
-\end{figure}
-%
-
-The contributions of the different regions have remained relatively stable in each area for each type of facility. 
-
-\begin{table}[!h]
-\caption{Some cap}\label{tab:regionCompLongit}
-\resizebox{\textwidth}{!}{%
-	\begin{tabular}{l c r r r r r c r r r r r c r r r r r c r c r}
-	\toprule
-	Region&&\multicolumn{5}{c}{All industries}&&\multicolumn{5}{c}{Distribution}&&\multicolumn{5}{c}{Selling}&&Pop&&GDP\\
-	&&\rotatebox{90}{2000}&\rotatebox{90}{2005}&\rotatebox{90}{2010}&\rotatebox{90}{2015}&\rotatebox{90}{2020}&&\rotatebox{90}{2000}&\rotatebox{90}{2005}&\rotatebox{90}{2010}&\rotatebox{90}{2015}&\rotatebox{90}{2020}&&\rotatebox{90}{2000}&\rotatebox{90}{2005}&\rotatebox{90}{2010}&\rotatebox{90}{2015}&\rotatebox{90}{2020}&&2018&&2019\\
-	\midrule
-	Auckland&&30.3&31.4&31.4&33.2&34.7&&34.0&32.9&31.9&33.2&34.1&&37.3&38.4&39.0&41.6&41.9&&33.4&&37.6\\
-	Canterbury&&12.3&12.5&12.6&12.9&12.4&&11.9&12.3&12.6&12.9&12.6&&13.3&13.5&13.5&12.9&12.8&&12.8&&12.4\\
-	Waikato&&10.6&10.3&10.1&9.9&9.8&&10.1&10.5&10.5&10.1&10.6&&8.4&8.4&8.3&8.2&8.4&&9.7&&8.5\\
-	Wellington&&10.5&10.1&10.2&10.0&10.0&&9.6&8.7&8.6&8.4&7.9&&10.4&9.6&9.3&8.8&8.4&&10.8&&12.9\\
-	Bay of Plenty&&6.5&6.7&6.6&6.4&6.5&&7.0&6.9&7.0&6.8&7.2&&6.1&6.1&6.2&5.9&6.1&&6.6&&5.7\\
-	Manawatu-Wanganui&&5.7&5.3&5.1&4.7&4.4&&6.0&6.1&5.9&5.5&5.3&&5.1&4.7&4.5&4.2&4.1&&5.1&&3.8\\
-	Otago&&4.6&4.9&5.1&5.2&5.2&&4.1&4.6&4.6&4.4&4.3&&4.3&4.3&4.4&4.3&4.4&&4.8&&4.5\\
-	Rest of NZ&&19.5&18.9&18.7&17.8&17.0&&17.3&18.0&18.9&18.6&17.9&&15.2&14.8&14.8&14.0&14.0&&16.8&&14.7\\
-	\bottomrule
-	\end{tabular}}
-
-\end{table}
 
 
-
-\nmt{Next look at growth rates and birth/death rates of facilities (first need to create C stats)}
 
 \section{Regions in spatial detail}
 Only Auckland, Canterbury, Wellington, Waikato
